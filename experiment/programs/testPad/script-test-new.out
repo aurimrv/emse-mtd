@@ -1,0 +1,16 @@
+
+li -P __testPad testPad __testPad 
+
+
++------------------------------------------------------
+|FUNCTION                       LOC'S   CONNECTIONS
++------------------------------------------------------
+|pat                            24      0
++------------------------------------------------------
+|main                           17      4
++------------------------------------------------------
+|TOTAL (2     FUNCTIONS)        41      4
++------------------------------------------------------
+pteste -create -S testPad -E testPad -C "gcc testPad.c driver.c -o testPad -w -lm" -research S_testPad
+tcase -create S_testPad
+muta -create S_testPad

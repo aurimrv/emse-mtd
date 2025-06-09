@@ -1,0 +1,11 @@
+u-Cccr,4
+u-Ccsr,4
+u-CRCR,8
+u-ORRN,1
+u-SRSR,2
+u-SSDL,2
+u-STRI,1
+u-STRP,1
+u-VDTR,31
+u-VLSR,1
+u-VTWD,1

@@ -1,0 +1,608 @@
+
+@__bswap_16
+     __builtin_bswap16
+
+
+@__bswap_32
+     __builtin_bswap32
+
+
+@__bswap_64
+     __builtin_bswap64
+
+
+@__uint16_identity
+
+
+
+@__uint32_identity
+
+
+
+@__uint64_identity
+
+
+
+@main
+     printf              exit                strcpy              glvainit       
+     nomefile            readfil3            prnfile             groupdef       
+     waitcont            simgroup            simamp              simpha         
+     simpol              grwrite
+
+
+@adddef
+     GetKeyword          nodedef             parserro            malloc         
+     interror            blockdef            polydef             hexdef
+
+
+@addscan
+     mksnode             mksblock            printf              exit           
+     mkshex              interror            sgrrot              extremes       
+     extsize
+
+
+@adremdef
+     adddef              printf              remdef
+
+
+@ampunit
+     GetKeyword
+
+
+@ampval
+     GetReal             ampunit
+
+
+@angclaus
+     GetKeyword          GetReal             angunit
+
+
+@angledir
+     GetKeyword          GetReal             parserro            angval
+
+
+@anglerot
+     GetKeyword          GetReal             parserro            angval
+
+
+@angstep
+     angclaus            doubstep            parserro
+
+
+@angunit
+     GetKeyword
+
+
+@angval
+     GetReal             angunit
+
+
+@answer
+     printf              fgets
+
+
+@beampha
+     GetKeyword          uvdir               printf              angledir       
+     parserro
+
+
+@blockdef
+     GetKeyword          nodecoor            parserro            malloc         
+     interror            exit
+
+
+@circpol
+     GetKeyword
+
+
+@circspec
+     GetKeyword          Get1Real            parserro            lenunit
+
+
+@cosinus
+     GetKeyword          GetReal             parserro
+
+
+@dacos
+     acos
+
+
+@dasin
+     asin
+
+
+@datan
+     atan
+
+
+@dcos
+     cos
+
+
+@degconv
+     interror
+
+
+@doubmax
+
+
+
+@doubmin
+
+
+
+@doubstep
+     GetKeyword          GetUReal            lenunit
+
+
+@dsin
+     sin
+
+
+@elemdef
+     malloc              parserro            interror            GetKeyword     
+     GetUName            strcpy              sinelem
+
+
+@emsginit
+     strcpy
+
+
+@EndOfTape
+
+
+
+@extmod
+     GetKeyword
+
+
+@extremes
+
+
+
+@extsize
+
+
+
+@fixgramp
+     linconv             printf              exit                interror
+
+
+@fixgrpha
+     degconv             printf              exit                interror
+
+
+@fixnodor
+
+
+
+@fixport
+     linconv             degconv
+
+
+@fixselem
+     mmconv              sqrt                interror            malloc         
+     printf              fixport
+
+
+@fixsgrel
+     fixselem            fixsgrid            doubmax             printf         
+     exit                sqrt                dacos               dcos           
+     interror            datan               dsin                dasin
+
+
+@fixsgrid
+     interror            mmconv              degconv
+
+
+@floatsup
+     printf
+
+
+@gainspec
+     GetKeyword          gainval             parserro
+
+
+@gainunit
+     GetKeyword
+
+
+@gainval
+     GetReal             gainunit
+
+
+@gaussel
+     GetKeyword          GetReal             parserro            printf         
+     angunit             ampunit
+
+
+@geomspec
+     GetKeyword          parserro            recspec             printf         
+     circspec
+
+
+@Get1Real
+     GetReal
+
+
+@GetInt
+     TapeGet             __ctype_b_loc       parserro            atoi
+
+
+@GetKeyword
+     TapeGet             __ctype_b_loc       strcmp
+
+
+@GetNatur
+     GetInt
+
+
+@GetReal
+     TapeGet             __ctype_b_loc       atof
+
+
+@GetUName
+     TapeGet             isletter            __ctype_b_loc       parserro       
+     strlen              InKWords
+
+
+@GetUReal
+     GetReal
+
+
+@glvainit
+     floatsup            kwdsinit            emsginit            unaminit       
+     moseinit
+
+
+@gnodevis
+     gnodfind            interror            exit
+
+
+@gnodfind
+
+
+
+@grampexc
+     GetKeyword          unifamp             malloc              parserro       
+     interror            secoramp            printf
+
+
+@greldef
+     griddef1            printf              elemdef             parserro
+
+
+@grexcdef
+     GetKeyword          grampexc            printf              grphaexc
+
+
+@grgeodef
+     adddef              parserro            printf              adremdef
+
+
+@griddef1
+     GetKeyword          squgrdef            printf              recgrdef       
+     hexgrdef            trigrdef            parserro            malloc         
+     interror
+
+
+@groupdef
+     GetKeyword          GetUName            parserro            InUNames       
+     InserUN             greldef             strcpy              grgeodef       
+     grexcdef            malloc              interror
+
+
+@grphaexc
+     GetKeyword          unifpha             malloc              parserro       
+     interror            secorpha            printf              serotpha       
+     beampha
+
+
+@grwrite
+     interror            exit                strcpy              strcat         
+     printf
+
+
+@hexdef
+     GetKeyword          nodecoor            parserro            malloc         
+     interror
+
+
+@hexgrdef
+     GetKeyword          sinstep             parserro
+
+
+@InKWords
+     strlen              printf              exit                strcmp
+
+
+@InserUN
+     strlen              printf              exit                strcpy
+
+
+@interror
+     printf              exit
+
+
+@intmax
+
+
+
+@intmin
+
+
+
+@InUNames
+     strlen              printf              exit                strcmp
+
+
+@isletter
+     __ctype_b_loc
+
+
+@kwdsinit
+     strcpy              strlen              printf              interror
+
+
+@lenunit
+     GetKeyword
+
+
+@linconv
+     sqrt                pow                 interror
+
+
+@linpol
+     GetKeyword          polor               printf
+
+
+@mksblock
+     intmin              intmax              malloc              printf         
+     interror            dsin                dcos
+
+
+@mkshex
+     malloc              printf              interror            dcos           
+     dsin
+
+
+@mksnode
+     malloc              printf              interror            dcos           
+     dsin                fixnodor
+
+
+@mmconv
+     interror
+
+
+@modspec
+     GetKeyword          parserro            extmod              cosinus        
+     gaussel             printf
+
+
+@moseinit
+     strcpy
+
+
+@nodecoor
+     GetKeyword          GetInt
+
+
+@nodedef
+     GetKeyword          nodecoor            parserro            nodorien       
+     printf              malloc              interror
+
+
+@nodorien
+     GetKeyword          GetReal             parserro            angunit
+
+
+@nomefile
+     strcpy
+
+
+@parserro
+     printf
+
+
+@phaserot
+     GetKeyword          GetReal             parserro            angval
+
+
+@polor
+     GetKeyword          angval              parserro
+
+
+@polorbis
+     GetKeyword          angval              parserro
+
+
+@polspec
+     GetKeyword          linpol              printf              circpol
+
+
+@polydef
+     GetKeyword          nodecoor            malloc              parserro       
+     interror
+
+
+@portamp
+     GetKeyword          ampval              parserro
+
+
+@portdef
+     GetKeyword          parserro            GetNatur            polorbis       
+     printf              portamp             pshdef1             pscdef1        
+     ppadef1
+
+
+@portspec
+     GetKeyword          GetNatur            parserro            malloc         
+     interror            portdef             printf
+
+
+@ppadef1
+     GetKeyword          angval              parserro
+
+
+@pqlimits
+
+
+
+@prnfile
+     printf              putchar
+
+
+@pscdef1
+     GetKeyword          angval              parserro
+
+
+@pshdef1
+     GetKeyword          angval              parserro
+
+
+@readfil3
+     strcpy              strcat              fopen               printf         
+     getc                __ctype_b_loc       malloc              fclose
+
+
+@recgrdef
+     GetKeyword          doubstep            parserro
+
+
+@recspec
+     GetKeyword          Get1Real            parserro            lenunit
+
+
+@remdef
+     GetKeyword          nodedef             printf              malloc         
+     parserro            interror            blockdef            polydef        
+     hexdef
+
+
+@secoramp
+     GetKeyword          GetReal             parserro            ampval
+
+
+@secorder
+
+
+
+@secorpha
+     GetKeyword          GetReal             parserro            angval
+
+
+@seqrothg
+
+
+
+@seqrotrg
+     pqlimits            interror            exit                gnodevis
+
+
+@serotdir
+     GetKeyword
+
+
+@serotpar
+     anglerot            phaserot
+
+
+@serotpha
+     GetKeyword          parserro            serotdir            serotpar
+
+
+@sgramp2n
+     pqlimits            printf              exit                secorder       
+     malloc              interror
+
+
+@sgrampun
+     malloc              printf              interror
+
+
+@sgrpha2n
+     pqlimits            printf              exit                secorder
+
+
+@sgrphasr
+     printf              seqrotrg            seqrothg
+
+
+@sgrphaun
+
+
+
+@sgrrot
+     interror            dcos                dsin
+
+
+@simamp
+     fixgramp            sgrampun            sgramp2n            printf
+
+
+@simgroup
+     fixsgrel            addscan             printf
+
+
+@simpha
+     fixgrpha            sgrphaun            sgrpha2n            sgrphasr       
+     printf
+
+
+@simpol
+
+
+
+@sinelem
+     geomspec            printf              polspec             portspec       
+     strcpy
+
+
+@sinstep
+     GetKeyword          GetUReal            lenunit
+
+
+@squgrdef
+     GetKeyword          sinstep             parserro
+
+
+@TapeGet
+
+
+
+@trigrdef
+     GetKeyword          angstep             parserro            versdef
+
+
+@unaminit
+     strcpy
+
+
+@unifamp
+     GetKeyword          ampval
+
+
+@unifpha
+     GetKeyword          angval
+
+
+@uvdir
+     GetKeyword          uvval               parserro            printf
+
+
+@uvval
+     GetReal             parserro
+
+
+@versdef
+     GetKeyword          GetReal             parserro            lenunit
+
+
+@waitcont
+
+
+
+@xycoord
+     GetKeyword          GetReal
+

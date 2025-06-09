@@ -1,0 +1,16 @@
+
+li -P __numZero numZero __numZero 
+
+
++------------------------------------------------------
+|FUNCTION                       LOC'S   CONNECTIONS
++------------------------------------------------------
+|numZero                        10      0
++------------------------------------------------------
+|main                           13      3
++------------------------------------------------------
+|TOTAL (2     FUNCTIONS)        23      3
++------------------------------------------------------
+pteste -create -S numZero -E numZero -C "gcc numZero.c driver.c -o numZero -w -lm" -research S_numZero
+tcase -create S_numZero
+muta -create S_numZero

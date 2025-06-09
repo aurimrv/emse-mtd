@@ -1,0 +1,16 @@
+
+li -P __InversePermutation InversePermutation __InversePermutation 
+
+
++------------------------------------------------------
+|FUNCTION                       LOC'S   CONNECTIONS
++------------------------------------------------------
+|invert                         15      1
++------------------------------------------------------
+|main                           5       2
++------------------------------------------------------
+|TOTAL (2     FUNCTIONS)        20      3
++------------------------------------------------------
+pteste -create -S InversePermutation -E InversePermutation -C "gcc InversePermutation.c driver.c -o InversePermutation -w -lm" -research S_InversePermutation
+tcase -create S_InversePermutation
+muta -create S_InversePermutation

@@ -1,0 +1,13 @@
+u-Cccr,1
+u-Ccsr,1
+u-CRCR,2
+u-OAAN,2
+u-OARN,3
+u-OASN,2
+u-OEAA,1
+u-OODL,1
+u-ORAN,2
+u-ORBN,2
+u-ORRN,2
+u-VDTR,4
+u-VTWD,2

@@ -1,0 +1,12 @@
+// print_tokens2
+
+- Some mutants are considered equivalente because we do not have test
+  cases in which the file is entered through stdin. Only real files
+
+- This program has a fault. When the size of an identifier is larger
+  than 80 chars it overflows teh variable buffer. We fixed the easiest
+  way possible: used a buffer with 800 chars instead of 80. Of course
+  if a file has a identifier larger than 800 it will overflow again.
+  But this is not the case for any of the test cases so we are ok.
+
+

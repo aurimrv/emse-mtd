@@ -1,0 +1,41 @@
+
+[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][]
+[]
+[]                  PROGRAM TESTE: S_space
+[]----------------------------------------------------------
+[]   SOURCE FILE: space
+[]
+[]   TOTAL MUTANTS: 136267
+[]
+[]   ANOMALOUS MUTANTS: 0
+[]
+[]   ACTIVE MUTANTS: 136267
+[]
+[]   ALIVE MUTANTS: 136267
+[]
+[]   EQUIVALENT MUTANTS: 0
+[]
+[]   MUTATION SCORE: 0.000000
+[]
+[]   OPERATORS:
+[]   u-Cccr          38288    u-CCDL            511    u-Ccsr           5072    
+[]   u-CRCR           8318    u-OAAA             66    u-OAAN            821    
+[]   u-OABN            105    u-OAEA             22    u-OALN            524    
+[]   u-OARN           1572    u-OASN             70    u-OBAN             50    
+[]   u-OBBN             20    u-OBLN             20    u-OBNG             30    
+[]   u-OBRN             60    u-OBSA             20    u-OBSN             20    
+[]   u-OCNG            520    u-OCOR            100    u-OEAA           5520    
+[]   u-OEBA           2172    u-OESA           1448    u-Oido             31    
+[]   u-OLAN            255    u-OLBN            153    u-OLLN             51    
+[]   u-OLNG            153    u-OLRN            306    u-OLSN            102    
+[]   u-OODL           1779    u-ORAN           2314    u-ORBN           1254    
+[]   u-ORLN           1098    u-ORRN           2745    u-ORSN            836    
+[]   u-SBRC              1    u-SCRB              1    u-SDWD              1    
+[]   u-SMTC             53    u-SMTT             53    u-SMVB             90    
+[]   u-SRSR           9397    u-SSDL           3888    u-SSWM             48    
+[]   u-STRI            934    u-STRP           4300    u-SWDD             37    
+[]   u-VDTR           4242    u-VGAR           1875    u-VLAR             82    
+[]   u-VLPR           4237    u-VLSR          23404    u-VSCR           3529    
+[]   u-VTWD           2828    u-VVDL            841    
+[]
+[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][]

@@ -1,0 +1,20 @@
+
+li -P __MergeSort MergeSort __MergeSort 
+
+
++------------------------------------------------------
+|FUNCTION                       LOC'S   CONNECTIONS
++------------------------------------------------------
+|arraycopy                      7       0
++------------------------------------------------------
+|mergeSort                      11      3
++------------------------------------------------------
+|merge                          14      0
++------------------------------------------------------
+|main                           9       3
++------------------------------------------------------
+|TOTAL (4     FUNCTIONS)        41      6
++------------------------------------------------------
+pteste -create -S MergeSort -E MergeSort -C "gcc MergeSort.c driver.c -o MergeSort -w -lm" -research S_MergeSort
+tcase -create S_MergeSort
+muta -create S_MergeSort

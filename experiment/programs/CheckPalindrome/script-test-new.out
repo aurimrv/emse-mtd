@@ -1,0 +1,16 @@
+
+li -P __CheckPalindrome CheckPalindrome __CheckPalindrome 
+
+
++------------------------------------------------------
+|FUNCTION                       LOC'S   CONNECTIONS
++------------------------------------------------------
+|isPalindrome                   10      1
++------------------------------------------------------
+|main                           6       2
++------------------------------------------------------
+|TOTAL (2     FUNCTIONS)        16      3
++------------------------------------------------------
+pteste -create -S CheckPalindrome -E CheckPalindrome -C "gcc CheckPalindrome.c driver.c -o CheckPalindrome -w -lm" -research S_CheckPalindrome
+tcase -create S_CheckPalindrome
+muta -create S_CheckPalindrome

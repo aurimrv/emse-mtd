@@ -1,0 +1,9 @@
+u-Cccr,1
+u-Ccsr,1
+u-CRCR,2
+u-OAAN,2
+u-OARN,3
+u-OASN,2
+u-OEAA,1
+u-OODL,1
+u-VTWD,2

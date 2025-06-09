@@ -1,0 +1,1 @@
+gcc testPad.c driver.c -o testPad -w -lm

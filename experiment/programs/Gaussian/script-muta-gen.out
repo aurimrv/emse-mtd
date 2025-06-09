@@ -1,0 +1,3 @@
+opmuta  -unit phi01 -unit phi -unit Phi201 -unit Phi2 -unit PhiInverse02 -unit PhiInverse -u- 1.0 0 __Gaussian __Gaussian  | muta -add  S_Gaussian 
+
+1086 Mutants Generated

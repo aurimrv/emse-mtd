@@ -1,0 +1,12 @@
+u-OEAA,4
+u-OEBA,4
+u-OESA,4
+u-OODL,2
+u-ORLN,2
+u-ORRN,2
+u-SRSR,13
+u-SSDL,9
+u-STRI,2
+u-STRP,6
+u-VSCR,1
+u-VVDL,2

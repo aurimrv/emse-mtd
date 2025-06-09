@@ -1,0 +1,3 @@
+opmuta  -unit lastZero -u- 1.0 0 __lastZero __lastZero  | muta -add  S_lastZero 
+
+173 Mutants Generated

@@ -1,0 +1,3 @@
+opmuta  -unit twoPred -u- 1.0 0 __twoPred __twoPred  | muta -add  S_twoPred 
+
+246 Mutants Generated

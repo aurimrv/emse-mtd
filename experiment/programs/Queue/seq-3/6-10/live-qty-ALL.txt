@@ -1,0 +1,8 @@
+u-OODL,3
+u-ORLN,3
+u-ORRN,3
+u-SRSR,9
+u-SSDL,10
+u-STRI,3
+u-STRP,9
+u-VVDL,3

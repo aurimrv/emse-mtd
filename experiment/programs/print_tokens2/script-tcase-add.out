@@ -1,0 +1,1104 @@
+
+Teste Case # 1 0
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 10
+	Return Code: 0
+	Parameters: inputs/bug6.123.1 
+	Input Size: 0
+	Output Size: 328
+	Stderr Size: 0
+	Input:
+
+	Output:
+bquote.
+error,"#~<Vr".
+character,"a".
+rparen.
+string,"Hp2u-7X#U/6w".
+error,"$k".
+keyword,"xor".
+quote.
+identifier,"jjyXK".
+rsquare.
+error,"P@11+*4RS!".
+quote.
+error,"mW<:nB9.".
+identifier,"Oi".
+keyword,"xor".
+identifier,"M0o925960M1vW".
+string,"x%;XL< 6Q979iK\@6e e'<)Z##?R]BJgCzmEylV&0iQEb7".
+error,"aJ=>".
+error,"=>f#I".
+eof.
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 2 1
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 10
+	Return Code: 0
+	Parameters: inputs/bug6.123.10 
+	Input Size: 0
+	Output Size: 97
+	Stderr Size: 0
+	Input:
+
+	Output:
+numeric,39.
+keyword,"xor".
+identifier,"i".
+rparen.
+error,"KEsQ=$-Sw:+CaV6M".
+character,"j".
+eof.
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 3 2
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 10
+	Return Code: 0
+	Parameters: inputs/bug6.123.11 
+	Input Size: 0
+	Output Size: 446
+	Stderr Size: 0
+	Input:
+
+	Output:
+identifier,"F90x0m2KZNH".
+error,"Zb":ev".
+quote.
+identifier,"c".
+rsquare.
+error,"%lcd$K"|*?U7o".
+lsquare.
+error,"&/{VmE4TV|+"7".
+lsquare.
+error,"*ZF{^J}tsAc".
+lparen.
+error,"*tc\#pGki:"".
+bquote.
+error,"yT#0"uR9".
+rparen.
+error,"T@@Jjq\w+:".
+quote.
+identifier,"Gna".
+rparen.
+bquote.
+error,"	#p".
+string,"9".
+error,"ieTNZ4Iz34O83kIsJ|i\Gy".
+quote.
+bquote.
+numeric,3.
+error,"=n<".
+quote.
+error,"?$vTCHwi$".
+rsquare.
+error,"x^".
+character,"k".
+eof.
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 4 3
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 10
+	Return Code: 0
+	Parameters: inputs/bug6.123.13 
+	Input Size: 0
+	Output Size: 275
+	Stderr Size: 0
+	Input:
+
+	Output:
+error,"<##19".
+identifier,"rw".
+identifier,"eccjt613oz2Db".
+string,"0#y<R/7V^v[%?5&a:u(7R&P/".
+rsquare.
+error,"P.".
+character,"m".
+string,"4".
+identifier,"Us877Hxo97V39785L0949".
+error,"89#PQJ5n5x24pWgl9W76rxor".
+character,"N84".
+keyword,"lambda".
+keyword,"xor".
+comma.
+eof.
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 5 4
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 10
+	Return Code: 0
+	Parameters: inputs/bug6.123.14 
+	Input Size: 0
+	Output Size: 264
+	Stderr Size: 0
+	Input:
+
+	Output:
+keyword,"or".
+identifier,"wb".
+string,"F)^sXl4Ke?M%M_&UpCh<<1s;]t_3: }ty.PZCLJi".
+numeric,30.
+character,"n".
+keyword,"xor".
+error,"58#q".
+keyword,"if".
+error,"KWh#S#p".
+quote.
+keyword,"xor".
+keyword,"xor".
+rparen.
+identifier,"SQa5wqF573N1GK4SV2D4n9yt9SiAD0".
+eof.
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 6 5
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 10
+	Return Code: 0
+	Parameters: inputs/bug6.123.15 
+	Input Size: 0
+	Output Size: 404
+	Stderr Size: 0
+	Input:
+
+	Output:
+comma.
+identifier,"P".
+rsquare.
+error,"+t!8ey$58#hg".
+lsquare.
+error,"KRCj~xe<*G7M4Jh3rdB67"Ya".
+string,"2w=6HGpMea2p]dcgBzE@$fo!1~q~Mu.q,C{\}7KRR)DB12sFL	[$=.)oG2e1w".
+lsquare.
+keyword,"if".
+bquote.
+string,"d-Wav]`wxf|M#zCa/vZ O)C{CqzI'9UO".
+numeric,93.
+string,"yhe 4QosI?7t%b*f$TZ)?moD;v4R=fb;=X1fS".
+character,"u".
+keyword,"=>".
+identifier,"H2".
+numeric,34.
+identifier,"H5".
+quote.
+keyword,"or".
+eof.
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 7 6
+Label:	
+	ENABLED
+	Exec. Time (CPU): 11
+	Exec. Time (total): 11
+	Return Code: 0
+	Parameters: inputs/bug6.123.17 
+	Input Size: 0
+	Output Size: 211
+	Stderr Size: 0
+	Input:
+
+	Output:
+string,"9MX77i91!;k,f;.St7,*,FY'".
+character,"q".
+keyword,"=>".
+string,"2	#PQt_JAdEVyBorN".
+string,"L".
+identifier,"KtG4".
+comma.
+error,"nKOUCw{Tr/J2d".
+rsquare.
+It can not get charcter
+error,"Omr-PWjk+Y".
+eof.
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 8 7
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 10
+	Return Code: 0
+	Parameters: inputs/bug6.123.18 
+	Input Size: 0
+	Output Size: 263
+	Stderr Size: 0
+	Input:
+
+	Output:
+lsquare.
+quote.
+error,"ty@DaEs1".
+bquote.
+error,"!t".
+rsquare.
+identifier,"DQ".
+rparen.
+identifier,"bc".
+quote.
+error,"Ql}#~Uw2%yj+g7wVnW9{".
+lparen.
+error,"5LJQweM6175".
+error,"#".
+numeric,80.
+rsquare.
+string,"Fn-sCp`,0t%2YZo#[kM'Dw;e,hi8Q".
+character,"r".
+eof.
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 9 8
+Label:	
+	ENABLED
+	Exec. Time (CPU): 11
+	Exec. Time (total): 11
+	Return Code: 0
+	Parameters: inputs/bug6.123.19 
+	Input Size: 0
+	Output Size: 268
+	Stderr Size: 0
+	Input:
+
+	Output:
+identifier,"YcQg".
+rparen.
+error,"OGD<ORel?4MD$epA5kYRgcB".
+string,";JS AJ:-i7B~v#+}qJf8s'a%BAj<)s: hRKSo".
+identifier,"NlJ1q7SWappMAS".
+numeric,2.
+character,"QE%~Ix%M	wU!	geA=oN0lX5".
+lsquare.
+error,"I?8".
+rsquare.
+character,"Lp651gSkwm?ud\6VE-".
+character,"s".
+eof.
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 10 9
+Label:	
+	ENABLED
+	Exec. Time (CPU): 11
+	Exec. Time (total): 11
+	Return Code: 0
+	Parameters: inputs/bug6.123.3 
+	Input Size: 0
+	Output Size: 734
+	Stderr Size: 0
+	Input:
+
+	Output:
+identifier,"nn54SDLBZ".
+quote.
+error,"or#".
+error,"K0oa74nsMv-drinU6Yyi8".
+lparen.
+error,"_".
+rparen.
+error,"lJ--T1!}ph2zq=Z3".
+lparen.
+error,"sNmL1~".
+bquote.
+error,"PZ/&REWeO"{kYU@vU^t".
+comma.
+character,"gp".
+lsquare.
+identifier,"NhAlB".
+comma.
+error,"p9$".
+bquote.
+error,"5#LLeHQXDn/oLTyI"".
+character,"ADH1pxor".
+character,"N".
+numeric,43.
+numeric,0.
+identifier,"LG".
+lparen.
+numeric,69.
+rsquare.
+character,"H".
+error,"fo46_NK16I-Ry8To?|L|C=|nIPiwMz+O3=dRj#_".
+identifier,"pr".
+rsquare.
+character,"e"{+W".
+quote.
+error,"-+xu1\E%BB4".
+character,"c".
+lparen.
+lparen.
+string,"agYFp}MU%j~H<wtT~_{MB:N".
+identifier,"B3Jk".
+character,"n".
+string,"5]Vb4t.PRO{h+o%;74ZI3W|@rU2Ce[".
+keyword,"or".
+lparen.
+numeric,24.
+identifier,"q".
+eof.
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 11 10
+Label:	
+	ENABLED
+	Exec. Time (CPU): 11
+	Exec. Time (total): 12
+	Return Code: 0
+	Parameters: inputs/bug6.123.6 
+	Input Size: 0
+	Output Size: 404
+	Stderr Size: 0
+	Input:
+
+	Output:
+error,"a6P8t3i2h6skiw2U*<mIxVC".
+comma.
+error,"c^P".
+comma.
+error,"}Fy".
+lsquare.
+error,"?*gllYP5~pb".
+string,"n}(uZ`E6".
+identifier,"r364".
+identifier,"X337".
+error,"3^".
+lsquare.
+identifier,"G".
+error,"+}e1f".
+bquote.
+error,"Z8@4Lxy5".
+comma.
+error,"d^\i".
+lsquare.
+error,"6"Sw:	e1C".
+character,"f".
+error,"xor#g"&$On04$k".
+comma.
+identifier,"w".
+rsquare.
+error,"xdWMJ<".
+error,"bfeI	g^Q:^hSuu!".
+eof.
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 12 11
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 10
+	Return Code: 0
+	Parameters: inputs/bug6.123.8 
+	Input Size: 0
+	Output Size: 275
+	Stderr Size: 0
+	Input:
+
+	Output:
+keyword,"and".
+numeric,95.
+comma.
+comma.
+string," c5dzJcgEw#]LLkAqon2;`PcGG~J[wXx^ wWkfB0{".
+rparen.
+bquote.
+error,"HV!$q9j0|Q&niewx~wpw+G.dVNB$".
+error,"$x0&VHIdtma*W".
+rsquare.
+error,"4jp57pH{g74d	~NZ".
+character,"y".
+numeric,1.
+bquote.
+error,"?9E!<x".
+character,"h".
+eof.
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 13 12
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 11
+	Return Code: 0
+	Parameters: inputs/jk0 
+	Input Size: 0
+	Output Size: 246
+	Stderr Size: 0
+	Input:
+
+	Output:
+keyword,"=>".
+numeric,8.
+keyword,"or".
+keyword,"and".
+rparen.
+numeric,1.
+keyword,"and".
+keyword,"or".
+string,"#A#j".
+error,"$#charv".
+error,"o$#charCL5".
+rparen.
+rparen.
+keyword,"and".
+bquote.
+keyword,"if".
+keyword,"=>".
+lsquare.
+numeric,7.
+eof.
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 14 13
+Label:	
+	ENABLED
+	Exec. Time (CPU): 11
+	Exec. Time (total): 11
+	Return Code: 0
+	Parameters: inputs/jk16 
+	Input Size: 0
+	Output Size: 56
+	Stderr Size: 0
+	Input:
+
+	Output:
+keyword,"xor".
+string,"".
+quote.
+keyword,"lambda".
+eof.
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 15 14
+Label:	
+	ENABLED
+	Exec. Time (CPU): 11
+	Exec. Time (total): 11
+	Return Code: 0
+	Parameters: inputs/jk9 
+	Input Size: 0
+	Output Size: 106
+	Stderr Size: 0
+	Input:
+
+	Output:
+keyword,"if".
+identifier,"z7".
+keyword,"=>".
+rparen.
+keyword,"and".
+string,"#h#n".
+error,"$#charit".
+eof.
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 16 15
+Label:	
+	ENABLED
+	Exec. Time (CPU): 11
+	Exec. Time (total): 10
+	Return Code: 0
+	Parameters: inputs/newtst100.tst 
+	Input Size: 0
+	Output Size: 39
+	Stderr Size: 0
+	Input:
+
+	Output:
+It can not get charcter
+error,"".
+eof.
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 17 16
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 11
+	Return Code: 0
+	Parameters: inputs/newtst101.tst 
+	Input Size: 0
+	Output Size: 39
+	Stderr Size: 0
+	Input:
+
+	Output:
+It can not get charcter
+error,"".
+eof.
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 18 17
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 11
+	Return Code: 0
+	Parameters: inputs/newtst27.tst 
+	Input Size: 0
+	Output Size: 65
+	Stderr Size: 0
+	Input:
+
+	Output:
+error,"".
+quote.
+It can not get charcter
+identifier,"A7jQ".
+eof.
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 19 18
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 10
+	Return Code: 0
+	Parameters: inputs/newtst510.tst 
+	Input Size: 0
+	Output Size: 59
+	Stderr Size: 0
+	Input:
+
+	Output:
+error,"".
+It can not get charcter
+character,"ZckFn8".
+eof.
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 20 19
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 11
+	Return Code: 0
+	Parameters: inputs/newtst522.tst.noeof 
+	Input Size: 0
+	Output Size: 51
+	Stderr Size: 0
+	Input:
+
+	Output:
+error,"".
+It can not get charcter
+error,""x".
+eof.
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 21 20
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 10
+	Return Code: 0
+	Parameters: inputs/test10 
+	Input Size: 0
+	Output Size: 23
+	Stderr Size: 0
+	Input:
+
+	Output:
+error,""JNn1-n
+".
+eof.
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 22 21
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 10
+	Return Code: 0
+	Parameters: inputs/uslin.1004 
+	Input Size: 0
+	Output Size: 198
+	Stderr Size: 0
+	Input:
+
+	Output:
+identifier,"D5and".
+rparen.
+numeric,24.
+identifier,"EBif".
+numeric,86.
+keyword,"xor".
+keyword,"if".
+error,"d~pF#+C06r1lr2pICP7fw8FfqUVD2661n0lTd84AvQQ".
+lsquare.
+numeric,58273.
+identifier,"T".
+eof.
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 23 22
+Label:	
+	ENABLED
+	Exec. Time (CPU): 11
+	Exec. Time (total): 11
+	Return Code: 0
+	Parameters: inputs/uslin.301 
+	Input Size: 0
+	Output Size: 2444
+	Stderr Size: 0
+	Input:
+
+	Output:
+numeric,78.
+keyword,"or".
+error,"###t".
+identifier,"LV".
+string,"mfG|Qw,T	r$*lh)2".
+lsquare.
+error,"	aIE_bC*TKb	HzL".
+rparen.
+error,"?}e~s?WtXfD$O$C/KgN".
+identifier,"U".
+keyword,"and".
+comma.
+comma.
+identifier,"I8WmMG6Fc5zT297h3eCgP2UJHT45XKABuP6942gZ3h".
+rparen.
+identifier,"GOjELBrM7926Pg4iH278M1".
+identifier,"e24q4".
+keyword,"=>".
+error,"71aw\adfqb{@J.yZKYKU".
+keyword,"xor".
+identifier,"r3xnC4P9N7UG97Bj6nkTEGLdsj".
+numeric,61.
+lsquare.
+error,"b~M&c#".
+quote.
+error,"%AUv!*#D%*M7?QauSb".
+bquote.
+error,"bvez|5w53L".
+quote.
+error,"B.pTv$".
+lparen.
+error,"wrL"S|_CKqMywn!#YIY0".
+string,"Wl_E:)%$2K=\Zs@KnmOtERq`GsM6fLfcd[u{Y~0/OMn/2\gGFb".
+character,"eGvkM?gW@+/S".
+rsquare.
+error,"y_*|FRD9X*ufe0@YY!~yY".
+comma.
+error,"i$V_8crj^b+	EL".
+quote.
+error,"jFvDb.4t".
+quote.
+keyword,"or".
+keyword,"=>".
+identifier,"qhF".
+bquote.
+error,"GoLQ=kEowbH"jNZObO6xor".
+string,"*".
+identifier,"Zx718Dp4I55OV4Fo4l".
+error,"#".
+keyword,"and".
+lsquare.
+keyword,"lambda".
+identifier,"eb".
+lsquare.
+numeric,66.
+string,"|Tm|D^b/UY\B~A".
+character,"D".
+keyword,"or".
+error,"if#E".
+error,"#".
+lparen.
+numeric,22.
+identifier,"it".
+numeric,34.
+string,"J".
+identifier,"ycwi".
+rsquare.
+rparen.
+keyword,"or".
+error,"#.".
+rparen.
+character,"S".
+bquote.
+numeric,62.
+error,"|HJ~<DBDFY".
+error,"{{9uBXTD".
+lsquare.
+identifier,"U".
+bquote.
+error,"a&\%:77".
+error,"U9QW3kDsUMi2mr5f76KF"sQ	nEcu{~@ej5Cc".
+lsquare.
+error,"7nu<gC^22fm^"\".
+rsquare.
+lparen.
+error,"{uYH3x5zs{.$s".
+rparen.
+error,"G2Pzxji.o".
+rsquare.
+error,"-"".
+rsquare.
+keyword,"or".
+bquote.
+identifier,"zQO7m563n13pKR82".
+character,"Cif".
+character,"V9".
+identifier,"JW".
+comma.
+error,"awX@Z&8w98hr	".
+quote.
+error,"0JEP".
+comma.
+error,"&-2W".
+error,"jPm-}=|20886".
+numeric,23.
+error,"L8+@/2ds3c^%f8Wv".
+lsquare.
+error,"7vG".
+bquote.
+error,"i9^Na".
+quote.
+error,"Ym3/Q	yCvc~osNiyxNK3Mc#NTPwRz\iD".
+rsquare.
+error,"?q0B".
+numeric,16.
+identifier,"aD".
+rparen.
+identifier,"f30Z0P18T25Le911R767".
+identifier,"d".
+bquote.
+lsquare.
+identifier,"f".
+lsquare.
+error,"{D@taS".
+lparen.
+error,"HXAI@_5F".
+lparen.
+error,"%+bfG<<Ue@r".
+lsquare.
+error,"Lj:f".
+error,"Ga#y".
+rparen.
+rsquare.
+keyword,"xor".
+error,"<ntXS^yGy\ExU#g".
+error,"ALKjM}ol6k3SO7Hn2Z54915DEEt23371XvZ5A02qx6%|RE23yNhWUiBWl=T	c{cat~c3?6?"9".
+rsquare.
+error,"	".
+lsquare.
+identifier,"nE8".
+identifier,"SPT3bm2Ml744z8rv9N7Y4d70eWfP3IVT7Q3".
+bquote.
+numeric,58.
+error,"f62s747c6PRd27"zAfKKJ8@4oN8p/OaM~".
+rsquare.
+error,"bqaXs5-""T"!".
+keyword,"if".
+eof.
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 24 23
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 10
+	Return Code: 0
+	Parameters: xxxxxx 
+	Input Size: 0
+	Output Size: 31
+	Stderr Size: 0
+	Input:
+
+	Output:
+The file xxxxxx doesn't exists
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 25 24
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 11
+	Return Code: 0
+	Parameters: ? 1 inputs/jk29 
+	Input Size: 0
+	Output Size: 895
+	Stderr Size: 0
+	Input:
+
+	Output:
+keyword,"lambda".
+string,"#l#Z".
+keyword,"lambda".
+string,"$#charOcHP".
+numeric,5.
+rparen.
+keyword,"and".
+rparen.
+keyword,"or".
+error,"O9$#charJJ".
+keyword,"and".
+string,"#Y#M".
+character,"G#K".
+comma.
+string,"$#charVGKR".
+error,"i$#charF9".
+keyword,"if".
+keyword,"xor".
+keyword,"lambda".
+keyword,"xor".
+string,"#F#s".
+error,"P$#charw2".
+keyword,"if".
+character,"o#s".
+keyword,"xor".
+quote.
+rparen.
+string,"$#charUfNi".
+error,"f#o#y1".
+error,"e$#charxYkF3".
+error,"$#charn".
+identifier,"U".
+identifier,"E".
+error,"$#charuC".
+keyword,"xor".
+keyword,"lambda".
+keyword,"lambda".
+keyword,"or".
+lsquare.
+bquote.
+keyword,"=>".
+error,"P$#charb3".
+keyword,"xor".
+string,"#E#F".
+keyword,"=>".
+keyword,"xor".
+quote.
+error,"y#v#b0".
+lsquare.
+bquote.
+numeric,6.
+numeric,6.
+error,"$#charn".
+lparen.
+lparen.
+keyword,"or".
+error,"P6#q#u".
+keyword,"and".
+keyword,"or".
+keyword,"if".
+lsquare.
+numeric,0.
+eof.
+97
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 26 25
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 10
+	Return Code: 0
+	Parameters: ? 2 inputs/jk29 
+	Input Size: 0
+	Output Size: 12
+	Stderr Size: 0
+	Input:
+
+	Output:
+0
+error,"".
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 27 26
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 11
+	Return Code: 0
+	Parameters: ? 3 inputs/jk29 
+	Input Size: 0
+	Output Size: 712
+	Stderr Size: 0
+	Input:
+
+	Output:
+lambda
+"#l#Z"
+lambda
+"$#charOcHP"
+5
+)
+;$#charg9
+;$#charsqsZ3  o2#k#S 
+and
+)
+or
+O9$#charJJ
+and
+"#Y#M"
+#G#K
+,
+"$#charVGKR"
+;#O#F6
+i$#charF9
+;#d#C5
+;$#charr7 $#charSj
+if
+xor
+lambda
+;#n#O3
+xor
+"#F#s"
+P$#charw2
+;#Z#I4
+if
+#o#s
+xor
+'
+)
+"$#charUfNi"
+;#a#T7
+f#o#y1
+e$#charxYkF3
+$#charn
+U
+E
+;$#charg1
+$#charuC
+xor
+lambda
+lambda
+;#M#K2 ;#x#c7
+;$#charhRqT2 lambda #m#q "$#charqbRT"
+;$#chartlXg6  ;#j#J4 ;#c#u6
+or
+;#Y#c0 
+;#J#M5
+[
+;#i#U6 lambda "$#chargVcB"
+;#K#T6 => ;$#chary8
+`
+=>
+P$#charb3
+;#Z#c5 ;$#char5 
+xor
+"#E#F"
+=>
+xor
+;$#charwRRd9
+;$#charsjuG2 ;$#chareRMu4
+'
+y#v#b0
+;$#charn3 3 $#charo
+[
+;#Q#L8
+`
+6
+6
+;$#charz7
+$#charn
+;#b#H9 or "$#charZxBc" $#charAAbn
+(
+(
+or
+P6#q#u
+and
+;#Q#R8 ] #I#F
+;#x#G4
+or
+if
+[
+0
+;$#charyB2
+ÿ
+
+	Stderr:
+
+Travessed blocks:

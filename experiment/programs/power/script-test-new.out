@@ -1,0 +1,16 @@
+
+li -P __power power __power 
+
+
++------------------------------------------------------
+|FUNCTION                       LOC'S   CONNECTIONS
++------------------------------------------------------
+|power                          11      0
++------------------------------------------------------
+|main                           6       3
++------------------------------------------------------
+|TOTAL (2     FUNCTIONS)        17      3
++------------------------------------------------------
+pteste -create -S power -E power -C "gcc power.c driver.c -o power -w -lm" -research S_power
+tcase -create S_power
+muta -create S_power

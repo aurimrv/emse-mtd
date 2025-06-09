@@ -1,0 +1,9216 @@
+
+Teste Case # 1 0
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 10
+	Return Code: 1
+	Parameters: inputs/gr2385 
+	Input Size: 0
+	Output Size: 0
+	Stderr Size: 0
+	Input:
+
+	Output:
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 2 1
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 11
+	Return Code: 1
+	Parameters: inputs/gr2318 
+	Input Size: 0
+	Output Size: 0
+	Stderr Size: 0
+	Input:
+
+	Output:
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 3 2
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 10
+	Return Code: 1
+	Parameters: inputs/gr13272 
+	Input Size: 0
+	Output Size: 0
+	Stderr Size: 0
+	Input:
+
+	Output:
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 4 3
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 11
+	Return Code: 1
+	Parameters: inputs/gr11175 
+	Input Size: 0
+	Output Size: 0
+	Stderr Size: 0
+	Input:
+
+	Output:
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 5 4
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 11
+	Return Code: 1
+	Parameters: inputs/gr5066 
+	Input Size: 0
+	Output Size: 0
+	Stderr Size: 0
+	Input:
+
+	Output:
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 6 5
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 10
+	Return Code: 1
+	Parameters: inputs/gr12141 
+	Input Size: 0
+	Output Size: 0
+	Stderr Size: 0
+	Input:
+
+	Output:
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 7 6
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 10
+	Return Code: 1
+	Parameters: inputs/gr12143 
+	Input Size: 0
+	Output Size: 0
+	Stderr Size: 0
+	Input:
+
+	Output:
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 8 7
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 10
+	Return Code: 1
+	Parameters: inputs/gr8269 
+	Input Size: 0
+	Output Size: 0
+	Stderr Size: 0
+	Input:
+
+	Output:
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 9 8
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 10
+	Return Code: 1
+	Parameters: inputs/gr6255 
+	Input Size: 0
+	Output Size: 0
+	Stderr Size: 0
+	Input:
+
+	Output:
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 10 9
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 10
+	Return Code: 1
+	Parameters: inputs/gr5187 
+	Input Size: 0
+	Output Size: 0
+	Stderr Size: 0
+	Input:
+
+	Output:
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 11 10
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 10
+	Return Code: 1
+	Parameters: inputs/gr8720 
+	Input Size: 0
+	Output Size: 0
+	Stderr Size: 0
+	Input:
+
+	Output:
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 12 11
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 10
+	Return Code: 1
+	Parameters: inputs/gr10897 
+	Input Size: 0
+	Output Size: 0
+	Stderr Size: 0
+	Input:
+
+	Output:
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 13 12
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 11
+	Return Code: 1
+	Parameters: inputs/gr9671 
+	Input Size: 0
+	Output Size: 0
+	Stderr Size: 0
+	Input:
+
+	Output:
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 14 13
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 10
+	Return Code: 1
+	Parameters: inputs/gr9229 
+	Input Size: 0
+	Output Size: 0
+	Stderr Size: 0
+	Input:
+
+	Output:
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 15 14
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 11
+	Return Code: 1
+	Parameters: inputs/gr145 
+	Input Size: 0
+	Output Size: 0
+	Stderr Size: 0
+	Input:
+
+	Output:
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 16 15
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 11
+	Return Code: 1
+	Parameters: inputs/gr12255 
+	Input Size: 0
+	Output Size: 0
+	Stderr Size: 0
+	Input:
+
+	Output:
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 17 16
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 11
+	Return Code: 1
+	Parameters: inputs/gr13022 
+	Input Size: 0
+	Output Size: 0
+	Stderr Size: 0
+	Input:
+
+	Output:
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 18 17
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 10
+	Return Code: 1
+	Parameters: inputs/gr10758 
+	Input Size: 0
+	Output Size: 0
+	Stderr Size: 0
+	Input:
+
+	Output:
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 19 18
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 10
+	Return Code: 1
+	Parameters: inputs/gr10092 
+	Input Size: 0
+	Output Size: 0
+	Stderr Size: 0
+	Input:
+
+	Output:
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 20 19
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 11
+	Return Code: 1
+	Parameters: inputs/gr10694 
+	Input Size: 0
+	Output Size: 0
+	Stderr Size: 0
+	Input:
+
+	Output:
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 21 20
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 10
+	Return Code: 1
+	Parameters: inputs/gr6090 
+	Input Size: 0
+	Output Size: 0
+	Stderr Size: 0
+	Input:
+
+	Output:
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 22 21
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 10
+	Return Code: 1
+	Parameters: inputs/gr11023 
+	Input Size: 0
+	Output Size: 0
+	Stderr Size: 0
+	Input:
+
+	Output:
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 23 22
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 10
+	Return Code: 1
+	Parameters: inputs/gr7244 
+	Input Size: 0
+	Output Size: 0
+	Stderr Size: 0
+	Input:
+
+	Output:
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 24 23
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 10
+	Return Code: 1
+	Parameters: inputs/gr12348 
+	Input Size: 0
+	Output Size: 0
+	Stderr Size: 0
+	Input:
+
+	Output:
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 25 24
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 10
+	Return Code: 1
+	Parameters: inputs/gr8537 
+	Input Size: 0
+	Output Size: 0
+	Stderr Size: 0
+	Input:
+
+	Output:
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 26 25
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 10
+	Return Code: 1
+	Parameters: inputs/gr10162 
+	Input Size: 0
+	Output Size: 0
+	Stderr Size: 0
+	Input:
+
+	Output:
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 27 26
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 10
+	Return Code: 1
+	Parameters: inputs/gr10870 
+	Input Size: 0
+	Output Size: 0
+	Stderr Size: 0
+	Input:
+
+	Output:
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 28 27
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 11
+	Return Code: 1
+	Parameters: inputs/gr10329 
+	Input Size: 0
+	Output Size: 0
+	Stderr Size: 0
+	Input:
+
+	Output:
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 29 28
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 10
+	Return Code: 1
+	Parameters: inputs/gr9376 
+	Input Size: 0
+	Output Size: 0
+	Stderr Size: 0
+	Input:
+
+	Output:
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 30 29
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 10
+	Return Code: 1
+	Parameters: inputs/gr3944 
+	Input Size: 0
+	Output Size: 0
+	Stderr Size: 0
+	Input:
+
+	Output:
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 31 30
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 11
+	Return Code: 1
+	Parameters: inputs/gr5847 
+	Input Size: 0
+	Output Size: 0
+	Stderr Size: 0
+	Input:
+
+	Output:
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 32 31
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 11
+	Return Code: 1
+	Parameters: inputs/gr3000 
+	Input Size: 0
+	Output Size: 0
+	Stderr Size: 0
+	Input:
+
+	Output:
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 33 32
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 10
+	Return Code: 1
+	Parameters: inputs/gr12050 
+	Input Size: 0
+	Output Size: 0
+	Stderr Size: 0
+	Input:
+
+	Output:
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 34 33
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 10
+	Return Code: 1
+	Parameters: inputs/gr9194 
+	Input Size: 0
+	Output Size: 0
+	Stderr Size: 0
+	Input:
+
+	Output:
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 35 34
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 10
+	Return Code: 1
+	Parameters: inputs/gr10962 
+	Input Size: 0
+	Output Size: 0
+	Stderr Size: 0
+	Input:
+
+	Output:
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 36 35
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 10
+	Return Code: 1
+	Parameters: inputs/gr7646 
+	Input Size: 0
+	Output Size: 0
+	Stderr Size: 0
+	Input:
+
+	Output:
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 37 36
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 10
+	Return Code: 1
+	Parameters: inputs/gr13409 
+	Input Size: 0
+	Output Size: 0
+	Stderr Size: 0
+	Input:
+
+	Output:
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 38 37
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 10
+	Return Code: 1
+	Parameters: inputs/gr4628 
+	Input Size: 0
+	Output Size: 0
+	Stderr Size: 0
+	Input:
+
+	Output:
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 39 38
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 10
+	Return Code: 1
+	Parameters: inputs/gr11450 
+	Input Size: 0
+	Output Size: 0
+	Stderr Size: 0
+	Input:
+
+	Output:
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 40 39
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 10
+	Return Code: 1
+	Parameters: inputs/gr5930 
+	Input Size: 0
+	Output Size: 0
+	Stderr Size: 0
+	Input:
+
+	Output:
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 41 40
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 11
+	Return Code: 1
+	Parameters: inputs/gr4245 
+	Input Size: 0
+	Output Size: 0
+	Stderr Size: 0
+	Input:
+
+	Output:
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 42 41
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 10
+	Return Code: 1
+	Parameters: inputs/gr346 
+	Input Size: 0
+	Output Size: 0
+	Stderr Size: 0
+	Input:
+
+	Output:
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 43 42
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 10
+	Return Code: 1
+	Parameters: inputs/gr6129 
+	Input Size: 0
+	Output Size: 0
+	Stderr Size: 0
+	Input:
+
+	Output:
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 44 43
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 11
+	Return Code: 1
+	Parameters: inputs/gr1298 
+	Input Size: 0
+	Output Size: 0
+	Stderr Size: 0
+	Input:
+
+	Output:
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 45 44
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 10
+	Return Code: 1
+	Parameters: inputs/gr13107 
+	Input Size: 0
+	Output Size: 0
+	Stderr Size: 0
+	Input:
+
+	Output:
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 46 45
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 10
+	Return Code: 1
+	Parameters: inputs/gr13026 
+	Input Size: 0
+	Output Size: 0
+	Stderr Size: 0
+	Input:
+
+	Output:
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 47 46
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 10
+	Return Code: 1
+	Parameters: inputs/gr5093 
+	Input Size: 0
+	Output Size: 0
+	Stderr Size: 0
+	Input:
+
+	Output:
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 48 47
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 10
+	Return Code: 1
+	Parameters: inputs/gr13415 
+	Input Size: 0
+	Output Size: 0
+	Stderr Size: 0
+	Input:
+
+	Output:
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 49 48
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 10
+	Return Code: 1
+	Parameters: inputs/gr132 
+	Input Size: 0
+	Output Size: 0
+	Stderr Size: 0
+	Input:
+
+	Output:
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 50 49
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 10
+	Return Code: 1
+	Parameters: inputs/gr7275 
+	Input Size: 0
+	Output Size: 0
+	Stderr Size: 0
+	Input:
+
+	Output:
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 51 50
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 10
+	Return Code: 1
+	Parameters: inputs/gr2744 
+	Input Size: 0
+	Output Size: 0
+	Stderr Size: 0
+	Input:
+
+	Output:
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 52 51
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 10
+	Return Code: 1
+	Parameters: inputs/gr6592 
+	Input Size: 0
+	Output Size: 0
+	Stderr Size: 0
+	Input:
+
+	Output:
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 53 52
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 10
+	Return Code: 1
+	Parameters: inputs/gr5734 
+	Input Size: 0
+	Output Size: 0
+	Stderr Size: 0
+	Input:
+
+	Output:
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 54 53
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 10
+	Return Code: 1
+	Parameters: inputs/gr5791 
+	Input Size: 0
+	Output Size: 0
+	Stderr Size: 0
+	Input:
+
+	Output:
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 55 54
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 10
+	Return Code: 1
+	Parameters: inputs/gr4029 
+	Input Size: 0
+	Output Size: 0
+	Stderr Size: 0
+	Input:
+
+	Output:
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 56 55
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 10
+	Return Code: 1
+	Parameters: inputs/gr13125 
+	Input Size: 0
+	Output Size: 0
+	Stderr Size: 0
+	Input:
+
+	Output:
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 57 56
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 10
+	Return Code: 1
+	Parameters: inputs/gr5439 
+	Input Size: 0
+	Output Size: 0
+	Stderr Size: 0
+	Input:
+
+	Output:
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 58 57
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 11
+	Return Code: 1
+	Parameters: inputs/gr13524 
+	Input Size: 0
+	Output Size: 0
+	Stderr Size: 0
+	Input:
+
+	Output:
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 59 58
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 10
+	Return Code: 1
+	Parameters: inputs/gr3041 
+	Input Size: 0
+	Output Size: 0
+	Stderr Size: 0
+	Input:
+
+	Output:
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 60 59
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 10
+	Return Code: 1
+	Parameters: inputs/gr12165 
+	Input Size: 0
+	Output Size: 0
+	Stderr Size: 0
+	Input:
+
+	Output:
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 61 60
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 11
+	Return Code: 1
+	Parameters: inputs/gr7814 
+	Input Size: 0
+	Output Size: 0
+	Stderr Size: 0
+	Input:
+
+	Output:
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 62 61
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 10
+	Return Code: 1
+	Parameters: inputs/gr364 
+	Input Size: 0
+	Output Size: 0
+	Stderr Size: 0
+	Input:
+
+	Output:
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 63 62
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 10
+	Return Code: 1
+	Parameters: inputs/gr2810 
+	Input Size: 0
+	Output Size: 0
+	Stderr Size: 0
+	Input:
+
+	Output:
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 64 63
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 10
+	Return Code: 1
+	Parameters: inputs/gr4887 
+	Input Size: 0
+	Output Size: 0
+	Stderr Size: 0
+	Input:
+
+	Output:
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 65 64
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 10
+	Return Code: 1
+	Parameters: inputs/gr7058 
+	Input Size: 0
+	Output Size: 0
+	Stderr Size: 0
+	Input:
+
+	Output:
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 66 65
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 10
+	Return Code: 1
+	Parameters: inputs/gr574 
+	Input Size: 0
+	Output Size: 0
+	Stderr Size: 0
+	Input:
+
+	Output:
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 67 66
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 10
+	Return Code: 1
+	Parameters: inputs/gr7476 
+	Input Size: 0
+	Output Size: 0
+	Stderr Size: 0
+	Input:
+
+	Output:
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 68 67
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 10
+	Return Code: 1
+	Parameters: inputs/gr12839 
+	Input Size: 0
+	Output Size: 0
+	Stderr Size: 0
+	Input:
+
+	Output:
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 69 68
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 10
+	Return Code: 1
+	Parameters: inputs/gr8766 
+	Input Size: 0
+	Output Size: 0
+	Stderr Size: 0
+	Input:
+
+	Output:
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 70 69
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 10
+	Return Code: 1
+	Parameters: inputs/gr11533 
+	Input Size: 0
+	Output Size: 0
+	Stderr Size: 0
+	Input:
+
+	Output:
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 71 70
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 10
+	Return Code: 1
+	Parameters: inputs/gr2767 
+	Input Size: 0
+	Output Size: 0
+	Stderr Size: 0
+	Input:
+
+	Output:
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 72 71
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 10
+	Return Code: 1
+	Parameters: inputs/gr9378 
+	Input Size: 0
+	Output Size: 0
+	Stderr Size: 0
+	Input:
+
+	Output:
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 73 72
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 10
+	Return Code: 1
+	Parameters: inputs/gr13253 
+	Input Size: 0
+	Output Size: 0
+	Stderr Size: 0
+	Input:
+
+	Output:
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 74 73
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 10
+	Return Code: 1
+	Parameters: inputs/gr3876 
+	Input Size: 0
+	Output Size: 0
+	Stderr Size: 0
+	Input:
+
+	Output:
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 75 74
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 10
+	Return Code: 1
+	Parameters: inputs/gr12625 
+	Input Size: 0
+	Output Size: 0
+	Stderr Size: 0
+	Input:
+
+	Output:
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 76 75
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 10
+	Return Code: 1
+	Parameters: inputs/gr6618 
+	Input Size: 0
+	Output Size: 0
+	Stderr Size: 0
+	Input:
+
+	Output:
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 77 76
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 10
+	Return Code: 1
+	Parameters: inputs/gr11312 
+	Input Size: 0
+	Output Size: 0
+	Stderr Size: 0
+	Input:
+
+	Output:
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 78 77
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 10
+	Return Code: 1
+	Parameters: inputs/gr13506 
+	Input Size: 0
+	Output Size: 0
+	Stderr Size: 0
+	Input:
+
+	Output:
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 79 78
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 10
+	Return Code: 1
+	Parameters: inputs/gr6500 
+	Input Size: 0
+	Output Size: 0
+	Stderr Size: 0
+	Input:
+
+	Output:
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 80 79
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 10
+	Return Code: 1
+	Parameters: inputs/gr10548 
+	Input Size: 0
+	Output Size: 0
+	Stderr Size: 0
+	Input:
+
+	Output:
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 81 80
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 11
+	Return Code: 1
+	Parameters: inputs/gr4036 
+	Input Size: 0
+	Output Size: 0
+	Stderr Size: 0
+	Input:
+
+	Output:
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 82 81
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 10
+	Return Code: 1
+	Parameters: inputs/gr9756 
+	Input Size: 0
+	Output Size: 0
+	Stderr Size: 0
+	Input:
+
+	Output:
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 83 82
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 10
+	Return Code: 1
+	Parameters: inputs/gr645 
+	Input Size: 0
+	Output Size: 0
+	Stderr Size: 0
+	Input:
+
+	Output:
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 84 83
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 10
+	Return Code: 1
+	Parameters: inputs/gr11903 
+	Input Size: 0
+	Output Size: 0
+	Stderr Size: 0
+	Input:
+
+	Output:
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 85 84
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 10
+	Return Code: 1
+	Parameters: inputs/gr6985 
+	Input Size: 0
+	Output Size: 0
+	Stderr Size: 0
+	Input:
+
+	Output:
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 86 85
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 10
+	Return Code: 1
+	Parameters: inputs/gr1474 
+	Input Size: 0
+	Output Size: 0
+	Stderr Size: 0
+	Input:
+
+	Output:
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 87 86
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 10
+	Return Code: 1
+	Parameters: inputs/gr4548 
+	Input Size: 0
+	Output Size: 0
+	Stderr Size: 0
+	Input:
+
+	Output:
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 88 87
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 10
+	Return Code: 1
+	Parameters: inputs/gr10114 
+	Input Size: 0
+	Output Size: 0
+	Stderr Size: 0
+	Input:
+
+	Output:
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 89 88
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 10
+	Return Code: 1
+	Parameters: inputs/gr6833 
+	Input Size: 0
+	Output Size: 0
+	Stderr Size: 0
+	Input:
+
+	Output:
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 90 89
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 10
+	Return Code: 1
+	Parameters: inputs/gr168 
+	Input Size: 0
+	Output Size: 0
+	Stderr Size: 0
+	Input:
+
+	Output:
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 91 90
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 10
+	Return Code: 1
+	Parameters: inputs/gr7403 
+	Input Size: 0
+	Output Size: 0
+	Stderr Size: 0
+	Input:
+
+	Output:
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 92 91
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 10
+	Return Code: 1
+	Parameters: inputs/gr4350 
+	Input Size: 0
+	Output Size: 0
+	Stderr Size: 0
+	Input:
+
+	Output:
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 93 92
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 10
+	Return Code: 1
+	Parameters: inputs/gr12861 
+	Input Size: 0
+	Output Size: 0
+	Stderr Size: 0
+	Input:
+
+	Output:
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 94 93
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 10
+	Return Code: 1
+	Parameters: inputs/gr1106 
+	Input Size: 0
+	Output Size: 0
+	Stderr Size: 0
+	Input:
+
+	Output:
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 95 94
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 10
+	Return Code: 1
+	Parameters: inputs/gr9698 
+	Input Size: 0
+	Output Size: 0
+	Stderr Size: 0
+	Input:
+
+	Output:
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 96 95
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 10
+	Return Code: 1
+	Parameters: inputs/gr11423 
+	Input Size: 0
+	Output Size: 0
+	Stderr Size: 0
+	Input:
+
+	Output:
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 97 96
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 10
+	Return Code: 1
+	Parameters: inputs/gr11653 
+	Input Size: 0
+	Output Size: 0
+	Stderr Size: 0
+	Input:
+
+	Output:
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 98 97
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 10
+	Return Code: 1
+	Parameters: inputs/gr1340 
+	Input Size: 0
+	Output Size: 0
+	Stderr Size: 0
+	Input:
+
+	Output:
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 99 98
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 10
+	Return Code: 1
+	Parameters: inputs/gr13166 
+	Input Size: 0
+	Output Size: 0
+	Stderr Size: 0
+	Input:
+
+	Output:
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 100 99
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 11
+	Return Code: 1
+	Parameters: inputs/gr5937 
+	Input Size: 0
+	Output Size: 0
+	Stderr Size: 0
+	Input:
+
+	Output:
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 101 100
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 10
+	Return Code: 1
+	Parameters: inputs/gr12979 
+	Input Size: 0
+	Output Size: 0
+	Stderr Size: 0
+	Input:
+
+	Output:
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 102 101
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 10
+	Return Code: 1
+	Parameters: inputs/gr929 
+	Input Size: 0
+	Output Size: 0
+	Stderr Size: 0
+	Input:
+
+	Output:
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 103 102
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 10
+	Return Code: 1
+	Parameters: inputs/gr3585 
+	Input Size: 0
+	Output Size: 0
+	Stderr Size: 0
+	Input:
+
+	Output:
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 104 103
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 10
+	Return Code: 1
+	Parameters: inputs/gr11569 
+	Input Size: 0
+	Output Size: 0
+	Stderr Size: 0
+	Input:
+
+	Output:
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 105 104
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 10
+	Return Code: 1
+	Parameters: inputs/gr11045 
+	Input Size: 0
+	Output Size: 0
+	Stderr Size: 0
+	Input:
+
+	Output:
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 106 105
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 10
+	Return Code: 1
+	Parameters: inputs/gr8568 
+	Input Size: 0
+	Output Size: 0
+	Stderr Size: 0
+	Input:
+
+	Output:
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 107 106
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 10
+	Return Code: 1
+	Parameters: inputs/gr11415 
+	Input Size: 0
+	Output Size: 0
+	Stderr Size: 0
+	Input:
+
+	Output:
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 108 107
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 10
+	Return Code: 1
+	Parameters: inputs/gr200 
+	Input Size: 0
+	Output Size: 0
+	Stderr Size: 0
+	Input:
+
+	Output:
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 109 108
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 10
+	Return Code: 1
+	Parameters: inputs/gr1740 
+	Input Size: 0
+	Output Size: 0
+	Stderr Size: 0
+	Input:
+
+	Output:
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 110 109
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 10
+	Return Code: 1
+	Parameters: inputs/gr3765 
+	Input Size: 0
+	Output Size: 0
+	Stderr Size: 0
+	Input:
+
+	Output:
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 111 110
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 10
+	Return Code: 1
+	Parameters: inputs/gr477 
+	Input Size: 0
+	Output Size: 0
+	Stderr Size: 0
+	Input:
+
+	Output:
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 112 111
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 10
+	Return Code: 1
+	Parameters: inputs/gr3887 
+	Input Size: 0
+	Output Size: 0
+	Stderr Size: 0
+	Input:
+
+	Output:
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 113 112
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 11
+	Return Code: 1
+	Parameters: inputs/gr9426 
+	Input Size: 0
+	Output Size: 0
+	Stderr Size: 0
+	Input:
+
+	Output:
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 114 113
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 10
+	Return Code: 1
+	Parameters: inputs/gr8377 
+	Input Size: 0
+	Output Size: 0
+	Stderr Size: 0
+	Input:
+
+	Output:
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 115 114
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 10
+	Return Code: 1
+	Parameters: inputs/gr2918 
+	Input Size: 0
+	Output Size: 0
+	Stderr Size: 0
+	Input:
+
+	Output:
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 116 115
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 11
+	Return Code: 1
+	Parameters: inputs/gr8400 
+	Input Size: 0
+	Output Size: 0
+	Stderr Size: 0
+	Input:
+
+	Output:
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 117 116
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 10
+	Return Code: 1
+	Parameters: inputs/gr421 
+	Input Size: 0
+	Output Size: 0
+	Stderr Size: 0
+	Input:
+
+	Output:
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 118 117
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 11
+	Return Code: 1
+	Parameters: inputs/gr3291 
+	Input Size: 0
+	Output Size: 0
+	Stderr Size: 0
+	Input:
+
+	Output:
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 119 118
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 10
+	Return Code: 1
+	Parameters: inputs/gr13008 
+	Input Size: 0
+	Output Size: 0
+	Stderr Size: 0
+	Input:
+
+	Output:
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 120 119
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 10
+	Return Code: 1
+	Parameters: inputs/gr13131 
+	Input Size: 0
+	Output Size: 0
+	Stderr Size: 0
+	Input:
+
+	Output:
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 121 120
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 10
+	Return Code: 1
+	Parameters: inputs/gr2282 
+	Input Size: 0
+	Output Size: 0
+	Stderr Size: 0
+	Input:
+
+	Output:
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 122 121
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 11
+	Return Code: 1
+	Parameters: inputs/gr5077 
+	Input Size: 0
+	Output Size: 0
+	Stderr Size: 0
+	Input:
+
+	Output:
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 123 122
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 10
+	Return Code: 1
+	Parameters: inputs/gr6528 
+	Input Size: 0
+	Output Size: 0
+	Stderr Size: 0
+	Input:
+
+	Output:
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 124 123
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 10
+	Return Code: 1
+	Parameters: inputs/gr581 
+	Input Size: 0
+	Output Size: 0
+	Stderr Size: 0
+	Input:
+
+	Output:
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 125 124
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 10
+	Return Code: 1
+	Parameters: inputs/gr2922 
+	Input Size: 0
+	Output Size: 0
+	Stderr Size: 0
+	Input:
+
+	Output:
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 126 125
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 10
+	Return Code: 1
+	Parameters: inputs/gr10612 
+	Input Size: 0
+	Output Size: 0
+	Stderr Size: 0
+	Input:
+
+	Output:
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 127 126
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 10
+	Return Code: 1
+	Parameters: inputs/gr4726 
+	Input Size: 0
+	Output Size: 0
+	Stderr Size: 0
+	Input:
+
+	Output:
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 128 127
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 10
+	Return Code: 1
+	Parameters: inputs/gr12782 
+	Input Size: 0
+	Output Size: 0
+	Stderr Size: 0
+	Input:
+
+	Output:
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 129 128
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 10
+	Return Code: 1
+	Parameters: inputs/gr13351 
+	Input Size: 0
+	Output Size: 0
+	Stderr Size: 0
+	Input:
+
+	Output:
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 130 129
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 10
+	Return Code: 1
+	Parameters: inputs/gr114 
+	Input Size: 0
+	Output Size: 0
+	Stderr Size: 0
+	Input:
+
+	Output:
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 131 130
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 10
+	Return Code: 1
+	Parameters: inputs/gr2341 
+	Input Size: 0
+	Output Size: 0
+	Stderr Size: 0
+	Input:
+
+	Output:
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 132 131
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 10
+	Return Code: 1
+	Parameters: inputs/gr94 
+	Input Size: 0
+	Output Size: 0
+	Stderr Size: 0
+	Input:
+
+	Output:
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 133 132
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 11
+	Return Code: 1
+	Parameters: inputs/gr6550 
+	Input Size: 0
+	Output Size: 0
+	Stderr Size: 0
+	Input:
+
+	Output:
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 134 133
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 10
+	Return Code: 1
+	Parameters: inputs/gr1585 
+	Input Size: 0
+	Output Size: 0
+	Stderr Size: 0
+	Input:
+
+	Output:
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 135 134
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 10
+	Return Code: 1
+	Parameters: inputs/gr9269 
+	Input Size: 0
+	Output Size: 0
+	Stderr Size: 0
+	Input:
+
+	Output:
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 136 135
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 11
+	Return Code: 1
+	Parameters: inputs/gr4963 
+	Input Size: 0
+	Output Size: 0
+	Stderr Size: 0
+	Input:
+
+	Output:
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 137 136
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 10
+	Return Code: 1
+	Parameters: inputs/gr5726 
+	Input Size: 0
+	Output Size: 0
+	Stderr Size: 0
+	Input:
+
+	Output:
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 138 137
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 11
+	Return Code: 1
+	Parameters: inputs/gr5624 
+	Input Size: 0
+	Output Size: 0
+	Stderr Size: 0
+	Input:
+
+	Output:
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 139 138
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 10
+	Return Code: 1
+	Parameters: inputs/gr2943 
+	Input Size: 0
+	Output Size: 0
+	Stderr Size: 0
+	Input:
+
+	Output:
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 140 139
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 10
+	Return Code: 1
+	Parameters: inputs/gr5690 
+	Input Size: 0
+	Output Size: 0
+	Stderr Size: 0
+	Input:
+
+	Output:
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 141 140
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 10
+	Return Code: 1
+	Parameters: inputs/gr3952 
+	Input Size: 0
+	Output Size: 0
+	Stderr Size: 0
+	Input:
+
+	Output:
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 142 141
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 11
+	Return Code: 1
+	Parameters: inputs/gr62 
+	Input Size: 0
+	Output Size: 0
+	Stderr Size: 0
+	Input:
+
+	Output:
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 143 142
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 10
+	Return Code: 1
+	Parameters: inputs/gr12681 
+	Input Size: 0
+	Output Size: 0
+	Stderr Size: 0
+	Input:
+
+	Output:
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 144 143
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 10
+	Return Code: 1
+	Parameters: inputs/gr12624 
+	Input Size: 0
+	Output Size: 0
+	Stderr Size: 0
+	Input:
+
+	Output:
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 145 144
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 10
+	Return Code: 1
+	Parameters: inputs/gr11394 
+	Input Size: 0
+	Output Size: 0
+	Stderr Size: 0
+	Input:
+
+	Output:
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 146 145
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 11
+	Return Code: 1
+	Parameters: inputs/gr9037 
+	Input Size: 0
+	Output Size: 0
+	Stderr Size: 0
+	Input:
+
+	Output:
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 147 146
+Label:	
+	ENABLED
+	Exec. Time (CPU): 11
+	Exec. Time (total): 10
+	Return Code: 1
+	Parameters: inputs/gr4224 
+	Input Size: 0
+	Output Size: 0
+	Stderr Size: 0
+	Input:
+
+	Output:
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 148 147
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 11
+	Return Code: 1
+	Parameters: inputs/gr12429 
+	Input Size: 0
+	Output Size: 0
+	Stderr Size: 0
+	Input:
+
+	Output:
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 149 148
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 10
+	Return Code: 1
+	Parameters: inputs/gr1138 
+	Input Size: 0
+	Output Size: 0
+	Stderr Size: 0
+	Input:
+
+	Output:
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 150 149
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 10
+	Return Code: 1
+	Parameters: inputs/gr6546 
+	Input Size: 0
+	Output Size: 0
+	Stderr Size: 0
+	Input:
+
+	Output:
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 151 150
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 11
+	Return Code: 1
+	Parameters: inputs/gr10253 
+	Input Size: 0
+	Output Size: 0
+	Stderr Size: 0
+	Input:
+
+	Output:
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 152 151
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 10
+	Return Code: 1
+	Parameters: inputs/gr4943 
+	Input Size: 0
+	Output Size: 0
+	Stderr Size: 0
+	Input:
+
+	Output:
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 153 152
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 10
+	Return Code: 1
+	Parameters: inputs/gr4264 
+	Input Size: 0
+	Output Size: 0
+	Stderr Size: 0
+	Input:
+
+	Output:
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 154 153
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 11
+	Return Code: 1
+	Parameters: inputs/gr1351 
+	Input Size: 0
+	Output Size: 0
+	Stderr Size: 0
+	Input:
+
+	Output:
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 155 154
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 11
+	Return Code: 1
+	Parameters: inputs/gr9499 
+	Input Size: 0
+	Output Size: 0
+	Stderr Size: 0
+	Input:
+
+	Output:
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 156 155
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 10
+	Return Code: 1
+	Parameters: inputs/gr11821 
+	Input Size: 0
+	Output Size: 0
+	Stderr Size: 0
+	Input:
+
+	Output:
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 157 156
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 10
+	Return Code: 1
+	Parameters: inputs/gr9775 
+	Input Size: 0
+	Output Size: 0
+	Stderr Size: 0
+	Input:
+
+	Output:
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 158 157
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 11
+	Return Code: 1
+	Parameters: inputs/gr12712 
+	Input Size: 0
+	Output Size: 0
+	Stderr Size: 0
+	Input:
+
+	Output:
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 159 158
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 10
+	Return Code: 1
+	Parameters: inputs/gr7094 
+	Input Size: 0
+	Output Size: 0
+	Stderr Size: 0
+	Input:
+
+	Output:
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 160 159
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 10
+	Return Code: 1
+	Parameters: inputs/gr13486 
+	Input Size: 0
+	Output Size: 0
+	Stderr Size: 0
+	Input:
+
+	Output:
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 161 160
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 10
+	Return Code: 1
+	Parameters: inputs/gr7629 
+	Input Size: 0
+	Output Size: 0
+	Stderr Size: 0
+	Input:
+
+	Output:
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 162 161
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 11
+	Return Code: 1
+	Parameters: inputs/gr12588 
+	Input Size: 0
+	Output Size: 0
+	Stderr Size: 0
+	Input:
+
+	Output:
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 163 162
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 10
+	Return Code: 1
+	Parameters: inputs/gr4431 
+	Input Size: 0
+	Output Size: 0
+	Stderr Size: 0
+	Input:
+
+	Output:
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 164 163
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 10
+	Return Code: 1
+	Parameters: inputs/gr5206 
+	Input Size: 0
+	Output Size: 0
+	Stderr Size: 0
+	Input:
+
+	Output:
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 165 164
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 10
+	Return Code: 1
+	Parameters: inputs/gr11078 
+	Input Size: 0
+	Output Size: 0
+	Stderr Size: 0
+	Input:
+
+	Output:
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 166 165
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 10
+	Return Code: 1
+	Parameters: inputs/gr2318 
+	Input Size: 0
+	Output Size: 0
+	Stderr Size: 0
+	Input:
+
+	Output:
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 167 166
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 10
+	Return Code: 1
+	Parameters: inputs/gr3203 
+	Input Size: 0
+	Output Size: 0
+	Stderr Size: 0
+	Input:
+
+	Output:
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 168 167
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 10
+	Return Code: 1
+	Parameters: inputs/gr6997 
+	Input Size: 0
+	Output Size: 0
+	Stderr Size: 0
+	Input:
+
+	Output:
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 169 168
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 10
+	Return Code: 1
+	Parameters: inputs/gr12850 
+	Input Size: 0
+	Output Size: 0
+	Stderr Size: 0
+	Input:
+
+	Output:
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 170 169
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 10
+	Return Code: 1
+	Parameters: inputs/gr2425 
+	Input Size: 0
+	Output Size: 0
+	Stderr Size: 0
+	Input:
+
+	Output:
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 171 170
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 10
+	Return Code: 1
+	Parameters: inputs/gr8004 
+	Input Size: 0
+	Output Size: 0
+	Stderr Size: 0
+	Input:
+
+	Output:
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 172 171
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 10
+	Return Code: 1
+	Parameters: inputs/gr4083 
+	Input Size: 0
+	Output Size: 0
+	Stderr Size: 0
+	Input:
+
+	Output:
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 173 172
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 10
+	Return Code: 1
+	Parameters: inputs/gr1845 
+	Input Size: 0
+	Output Size: 0
+	Stderr Size: 0
+	Input:
+
+	Output:
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 174 173
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 10
+	Return Code: 1
+	Parameters: inputs/gr9937 
+	Input Size: 0
+	Output Size: 0
+	Stderr Size: 0
+	Input:
+
+	Output:
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 175 174
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 10
+	Return Code: 1
+	Parameters: inputs/gr4460 
+	Input Size: 0
+	Output Size: 0
+	Stderr Size: 0
+	Input:
+
+	Output:
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 176 175
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 10
+	Return Code: 1
+	Parameters: inputs/gr2852 
+	Input Size: 0
+	Output Size: 0
+	Stderr Size: 0
+	Input:
+
+	Output:
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 177 176
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 10
+	Return Code: 1
+	Parameters: inputs/gr4588 
+	Input Size: 0
+	Output Size: 0
+	Stderr Size: 0
+	Input:
+
+	Output:
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 178 177
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 10
+	Return Code: 1
+	Parameters: inputs/gr1696 
+	Input Size: 0
+	Output Size: 0
+	Stderr Size: 0
+	Input:
+
+	Output:
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 179 178
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 10
+	Return Code: 1
+	Parameters: inputs/gr5696 
+	Input Size: 0
+	Output Size: 0
+	Stderr Size: 0
+	Input:
+
+	Output:
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 180 179
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 10
+	Return Code: 1
+	Parameters: inputs/gr7977 
+	Input Size: 0
+	Output Size: 0
+	Stderr Size: 0
+	Input:
+
+	Output:
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 181 180
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 10
+	Return Code: 1
+	Parameters: inputs/gr9307 
+	Input Size: 0
+	Output Size: 0
+	Stderr Size: 0
+	Input:
+
+	Output:
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 182 181
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 11
+	Return Code: 1
+	Parameters: inputs/gr6496 
+	Input Size: 0
+	Output Size: 0
+	Stderr Size: 0
+	Input:
+
+	Output:
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 183 182
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 10
+	Return Code: 1
+	Parameters: inputs/gr4504 
+	Input Size: 0
+	Output Size: 0
+	Stderr Size: 0
+	Input:
+
+	Output:
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 184 183
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 10
+	Return Code: 1
+	Parameters: inputs/gr6558 
+	Input Size: 0
+	Output Size: 0
+	Stderr Size: 0
+	Input:
+
+	Output:
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 185 184
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 11
+	Return Code: 1
+	Parameters: inputs/gr10131 
+	Input Size: 0
+	Output Size: 0
+	Stderr Size: 0
+	Input:
+
+	Output:
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 186 185
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 10
+	Return Code: 1
+	Parameters: inputs/gr2807 
+	Input Size: 0
+	Output Size: 0
+	Stderr Size: 0
+	Input:
+
+	Output:
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 187 186
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 10
+	Return Code: 1
+	Parameters: inputs/gr12312 
+	Input Size: 0
+	Output Size: 0
+	Stderr Size: 0
+	Input:
+
+	Output:
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 188 187
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 10
+	Return Code: 1
+	Parameters: inputs/gr3748 
+	Input Size: 0
+	Output Size: 0
+	Stderr Size: 0
+	Input:
+
+	Output:
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 189 188
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 10
+	Return Code: 1
+	Parameters: inputs/gr2723 
+	Input Size: 0
+	Output Size: 0
+	Stderr Size: 0
+	Input:
+
+	Output:
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 190 189
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 10
+	Return Code: 1
+	Parameters: inputs/gr7176 
+	Input Size: 0
+	Output Size: 0
+	Stderr Size: 0
+	Input:
+
+	Output:
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 191 190
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 10
+	Return Code: 1
+	Parameters: inputs/gr9351 
+	Input Size: 0
+	Output Size: 0
+	Stderr Size: 0
+	Input:
+
+	Output:
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 192 191
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 10
+	Return Code: 1
+	Parameters: inputs/gr2287 
+	Input Size: 0
+	Output Size: 0
+	Stderr Size: 0
+	Input:
+
+	Output:
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 193 192
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 10
+	Return Code: 1
+	Parameters: inputs/gr1964 
+	Input Size: 0
+	Output Size: 0
+	Stderr Size: 0
+	Input:
+
+	Output:
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 194 193
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 10
+	Return Code: 1
+	Parameters: inputs/gr1999 
+	Input Size: 0
+	Output Size: 0
+	Stderr Size: 0
+	Input:
+
+	Output:
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 195 194
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 10
+	Return Code: 1
+	Parameters: inputs/gr8308 
+	Input Size: 0
+	Output Size: 0
+	Stderr Size: 0
+	Input:
+
+	Output:
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 196 195
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 10
+	Return Code: 1
+	Parameters: inputs/gr13285 
+	Input Size: 0
+	Output Size: 0
+	Stderr Size: 0
+	Input:
+
+	Output:
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 197 196
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 10
+	Return Code: 1
+	Parameters: inputs/gr5975 
+	Input Size: 0
+	Output Size: 0
+	Stderr Size: 0
+	Input:
+
+	Output:
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 198 197
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 10
+	Return Code: 1
+	Parameters: inputs/gr12798 
+	Input Size: 0
+	Output Size: 0
+	Stderr Size: 0
+	Input:
+
+	Output:
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 199 198
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 10
+	Return Code: 1
+	Parameters: inputs/gr12869 
+	Input Size: 0
+	Output Size: 0
+	Stderr Size: 0
+	Input:
+
+	Output:
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 200 199
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 10
+	Return Code: 1
+	Parameters: inputs/gr5382 
+	Input Size: 0
+	Output Size: 0
+	Stderr Size: 0
+	Input:
+
+	Output:
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 201 200
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 11
+	Return Code: 1
+	Parameters: inputs/gr9628 
+	Input Size: 0
+	Output Size: 0
+	Stderr Size: 0
+	Input:
+
+	Output:
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 202 201
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 10
+	Return Code: 1
+	Parameters: inputs/gr6621 
+	Input Size: 0
+	Output Size: 0
+	Stderr Size: 0
+	Input:
+
+	Output:
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 203 202
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 10
+	Return Code: 1
+	Parameters: inputs/gr1771 
+	Input Size: 0
+	Output Size: 0
+	Stderr Size: 0
+	Input:
+
+	Output:
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 204 203
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 10
+	Return Code: 1
+	Parameters: inputs/gr270 
+	Input Size: 0
+	Output Size: 0
+	Stderr Size: 0
+	Input:
+
+	Output:
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 205 204
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 10
+	Return Code: 1
+	Parameters: inputs/gr6537 
+	Input Size: 0
+	Output Size: 0
+	Stderr Size: 0
+	Input:
+
+	Output:
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 206 205
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 10
+	Return Code: 1
+	Parameters: inputs/gr4213 
+	Input Size: 0
+	Output Size: 0
+	Stderr Size: 0
+	Input:
+
+	Output:
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 207 206
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 10
+	Return Code: 1
+	Parameters: inputs/gr13157 
+	Input Size: 0
+	Output Size: 0
+	Stderr Size: 0
+	Input:
+
+	Output:
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 208 207
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 10
+	Return Code: 1
+	Parameters: inputs/gr9390 
+	Input Size: 0
+	Output Size: 0
+	Stderr Size: 0
+	Input:
+
+	Output:
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 209 208
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 10
+	Return Code: 1
+	Parameters: inputs/gr8532 
+	Input Size: 0
+	Output Size: 0
+	Stderr Size: 0
+	Input:
+
+	Output:
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 210 209
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 10
+	Return Code: 1
+	Parameters: inputs/gr4562 
+	Input Size: 0
+	Output Size: 0
+	Stderr Size: 0
+	Input:
+
+	Output:
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 211 210
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 10
+	Return Code: 1
+	Parameters: inputs/gr1186 
+	Input Size: 0
+	Output Size: 0
+	Stderr Size: 0
+	Input:
+
+	Output:
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 212 211
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 10
+	Return Code: 1
+	Parameters: inputs/gr5191 
+	Input Size: 0
+	Output Size: 0
+	Stderr Size: 0
+	Input:
+
+	Output:
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 213 212
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 10
+	Return Code: 1
+	Parameters: inputs/gr7140 
+	Input Size: 0
+	Output Size: 0
+	Stderr Size: 0
+	Input:
+
+	Output:
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 214 213
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 10
+	Return Code: 1
+	Parameters: inputs/gr8272 
+	Input Size: 0
+	Output Size: 0
+	Stderr Size: 0
+	Input:
+
+	Output:
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 215 214
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 10
+	Return Code: 1
+	Parameters: inputs/gr11790 
+	Input Size: 0
+	Output Size: 0
+	Stderr Size: 0
+	Input:
+
+	Output:
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 216 215
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 10
+	Return Code: 1
+	Parameters: inputs/gr7996 
+	Input Size: 0
+	Output Size: 0
+	Stderr Size: 0
+	Input:
+
+	Output:
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 217 216
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 10
+	Return Code: 1
+	Parameters: inputs/gr2904 
+	Input Size: 0
+	Output Size: 0
+	Stderr Size: 0
+	Input:
+
+	Output:
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 218 217
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 11
+	Return Code: 1
+	Parameters: inputs/gr12352 
+	Input Size: 0
+	Output Size: 0
+	Stderr Size: 0
+	Input:
+
+	Output:
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 219 218
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 10
+	Return Code: 1
+	Parameters: inputs/gr10459 
+	Input Size: 0
+	Output Size: 0
+	Stderr Size: 0
+	Input:
+
+	Output:
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 220 219
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 10
+	Return Code: 1
+	Parameters: inputs/gr12054 
+	Input Size: 0
+	Output Size: 0
+	Stderr Size: 0
+	Input:
+
+	Output:
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 221 220
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 11
+	Return Code: 1
+	Parameters: inputs/gr12832 
+	Input Size: 0
+	Output Size: 0
+	Stderr Size: 0
+	Input:
+
+	Output:
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 222 221
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 10
+	Return Code: 1
+	Parameters: inputs/gr7813 
+	Input Size: 0
+	Output Size: 0
+	Stderr Size: 0
+	Input:
+
+	Output:
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 223 222
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 10
+	Return Code: 1
+	Parameters: inputs/gr7231 
+	Input Size: 0
+	Output Size: 0
+	Stderr Size: 0
+	Input:
+
+	Output:
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 224 223
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 10
+	Return Code: 1
+	Parameters: inputs/gr4193 
+	Input Size: 0
+	Output Size: 0
+	Stderr Size: 0
+	Input:
+
+	Output:
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 225 224
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 11
+	Return Code: 1
+	Parameters: inputs/gr6306 
+	Input Size: 0
+	Output Size: 0
+	Stderr Size: 0
+	Input:
+
+	Output:
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 226 225
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 10
+	Return Code: 1
+	Parameters: inputs/gr5378 
+	Input Size: 0
+	Output Size: 0
+	Stderr Size: 0
+	Input:
+
+	Output:
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 227 226
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 10
+	Return Code: 1
+	Parameters: inputs/gr12695 
+	Input Size: 0
+	Output Size: 0
+	Stderr Size: 0
+	Input:
+
+	Output:
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 228 227
+Label:	
+	ENABLED
+	Exec. Time (CPU): 11
+	Exec. Time (total): 10
+	Return Code: 1
+	Parameters: inputs/gr7866 
+	Input Size: 0
+	Output Size: 0
+	Stderr Size: 0
+	Input:
+
+	Output:
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 229 228
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 11
+	Return Code: 1
+	Parameters: inputs/gr12068 
+	Input Size: 0
+	Output Size: 0
+	Stderr Size: 0
+	Input:
+
+	Output:
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 230 229
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 10
+	Return Code: 1
+	Parameters: inputs/gr40 
+	Input Size: 0
+	Output Size: 0
+	Stderr Size: 0
+	Input:
+
+	Output:
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 231 230
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 11
+	Return Code: 1
+	Parameters: inputs/gr3309 
+	Input Size: 0
+	Output Size: 0
+	Stderr Size: 0
+	Input:
+
+	Output:
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 232 231
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 10
+	Return Code: 1
+	Parameters: inputs/gr6863 
+	Input Size: 0
+	Output Size: 0
+	Stderr Size: 0
+	Input:
+
+	Output:
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 233 232
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 10
+	Return Code: 1
+	Parameters: inputs/gr1783 
+	Input Size: 0
+	Output Size: 0
+	Stderr Size: 0
+	Input:
+
+	Output:
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 234 233
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 10
+	Return Code: 1
+	Parameters: inputs/gr331 
+	Input Size: 0
+	Output Size: 0
+	Stderr Size: 0
+	Input:
+
+	Output:
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 235 234
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 10
+	Return Code: 1
+	Parameters: inputs/gr1115 
+	Input Size: 0
+	Output Size: 0
+	Stderr Size: 0
+	Input:
+
+	Output:
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 236 235
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 10
+	Return Code: 1
+	Parameters: inputs/gr4266 
+	Input Size: 0
+	Output Size: 0
+	Stderr Size: 0
+	Input:
+
+	Output:
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 237 236
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 10
+	Return Code: 1
+	Parameters: inputs/gr6119 
+	Input Size: 0
+	Output Size: 0
+	Stderr Size: 0
+	Input:
+
+	Output:
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 238 237
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 10
+	Return Code: 1
+	Parameters: inputs/gr3779 
+	Input Size: 0
+	Output Size: 0
+	Stderr Size: 0
+	Input:
+
+	Output:
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 239 238
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 11
+	Return Code: 1
+	Parameters: inputs/gr612 
+	Input Size: 0
+	Output Size: 0
+	Stderr Size: 0
+	Input:
+
+	Output:
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 240 239
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 10
+	Return Code: 1
+	Parameters: inputs/gr10815 
+	Input Size: 0
+	Output Size: 0
+	Stderr Size: 0
+	Input:
+
+	Output:
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 241 240
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 10
+	Return Code: 1
+	Parameters: inputs/gr6485 
+	Input Size: 0
+	Output Size: 0
+	Stderr Size: 0
+	Input:
+
+	Output:
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 242 241
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 10
+	Return Code: 1
+	Parameters: inputs/gr12663 
+	Input Size: 0
+	Output Size: 0
+	Stderr Size: 0
+	Input:
+
+	Output:
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 243 242
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 10
+	Return Code: 1
+	Parameters: inputs/gr134 
+	Input Size: 0
+	Output Size: 0
+	Stderr Size: 0
+	Input:
+
+	Output:
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 244 243
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 10
+	Return Code: 1
+	Parameters: inputs/gr2523 
+	Input Size: 0
+	Output Size: 0
+	Stderr Size: 0
+	Input:
+
+	Output:
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 245 244
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 10
+	Return Code: 1
+	Parameters: inputs/gr6150 
+	Input Size: 0
+	Output Size: 0
+	Stderr Size: 0
+	Input:
+
+	Output:
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 246 245
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 10
+	Return Code: 1
+	Parameters: inputs/gr334 
+	Input Size: 0
+	Output Size: 0
+	Stderr Size: 0
+	Input:
+
+	Output:
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 247 246
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 10
+	Return Code: 1
+	Parameters: inputs/gr362 
+	Input Size: 0
+	Output Size: 0
+	Stderr Size: 0
+	Input:
+
+	Output:
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 248 247
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 10
+	Return Code: 1
+	Parameters: inputs/gr3640 
+	Input Size: 0
+	Output Size: 0
+	Stderr Size: 0
+	Input:
+
+	Output:
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 249 248
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 11
+	Return Code: 1
+	Parameters: inputs/gr8207 
+	Input Size: 0
+	Output Size: 0
+	Stderr Size: 0
+	Input:
+
+	Output:
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 250 249
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 10
+	Return Code: 1
+	Parameters: inputs/gr480 
+	Input Size: 0
+	Output Size: 0
+	Stderr Size: 0
+	Input:
+
+	Output:
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 251 250
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 11
+	Return Code: 1
+	Parameters: inputs/gr6213 
+	Input Size: 0
+	Output Size: 0
+	Stderr Size: 0
+	Input:
+
+	Output:
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 252 251
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 10
+	Return Code: 1
+	Parameters: inputs/gr8262 
+	Input Size: 0
+	Output Size: 0
+	Stderr Size: 0
+	Input:
+
+	Output:
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 253 252
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 10
+	Return Code: 1
+	Parameters: inputs/gr2997 
+	Input Size: 0
+	Output Size: 0
+	Stderr Size: 0
+	Input:
+
+	Output:
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 254 253
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 10
+	Return Code: 1
+	Parameters: inputs/gr781 
+	Input Size: 0
+	Output Size: 0
+	Stderr Size: 0
+	Input:
+
+	Output:
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 255 254
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 10
+	Return Code: 1
+	Parameters: inputs/gr58 
+	Input Size: 0
+	Output Size: 0
+	Stderr Size: 0
+	Input:
+
+	Output:
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 256 255
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 10
+	Return Code: 1
+	Parameters: inputs/gr8492 
+	Input Size: 0
+	Output Size: 0
+	Stderr Size: 0
+	Input:
+
+	Output:
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 257 256
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 10
+	Return Code: 1
+	Parameters: inputs/gr551 
+	Input Size: 0
+	Output Size: 0
+	Stderr Size: 0
+	Input:
+
+	Output:
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 258 257
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 10
+	Return Code: 1
+	Parameters: inputs/gr11742 
+	Input Size: 0
+	Output Size: 0
+	Stderr Size: 0
+	Input:
+
+	Output:
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 259 258
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 10
+	Return Code: 1
+	Parameters: inputs/gr7881 
+	Input Size: 0
+	Output Size: 0
+	Stderr Size: 0
+	Input:
+
+	Output:
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 260 259
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 10
+	Return Code: 1
+	Parameters: inputs/gr5584 
+	Input Size: 0
+	Output Size: 0
+	Stderr Size: 0
+	Input:
+
+	Output:
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 261 260
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 10
+	Return Code: 1
+	Parameters: inputs/gr3648 
+	Input Size: 0
+	Output Size: 0
+	Stderr Size: 0
+	Input:
+
+	Output:
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 262 261
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 10
+	Return Code: 1
+	Parameters: inputs/gr10598 
+	Input Size: 0
+	Output Size: 0
+	Stderr Size: 0
+	Input:
+
+	Output:
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 263 262
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 10
+	Return Code: 1
+	Parameters: inputs/gr866 
+	Input Size: 0
+	Output Size: 0
+	Stderr Size: 0
+	Input:
+
+	Output:
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 264 263
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 10
+	Return Code: 1
+	Parameters: inputs/gr3017 
+	Input Size: 0
+	Output Size: 0
+	Stderr Size: 0
+	Input:
+
+	Output:
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 265 264
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 10
+	Return Code: 1
+	Parameters: inputs/gr12506 
+	Input Size: 0
+	Output Size: 0
+	Stderr Size: 0
+	Input:
+
+	Output:
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 266 265
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 10
+	Return Code: 1
+	Parameters: inputs/gr12558 
+	Input Size: 0
+	Output Size: 0
+	Stderr Size: 0
+	Input:
+
+	Output:
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 267 266
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 10
+	Return Code: 1
+	Parameters: inputs/gr4421 
+	Input Size: 0
+	Output Size: 0
+	Stderr Size: 0
+	Input:
+
+	Output:
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 268 267
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 10
+	Return Code: 1
+	Parameters: inputs/gr8871 
+	Input Size: 0
+	Output Size: 0
+	Stderr Size: 0
+	Input:
+
+	Output:
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 269 268
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 11
+	Return Code: 1
+	Parameters: inputs/gr10427 
+	Input Size: 0
+	Output Size: 0
+	Stderr Size: 0
+	Input:
+
+	Output:
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 270 269
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 11
+	Return Code: 1
+	Parameters: inputs/gr4170 
+	Input Size: 0
+	Output Size: 0
+	Stderr Size: 0
+	Input:
+
+	Output:
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 271 270
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 10
+	Return Code: 1
+	Parameters: inputs/gr705 
+	Input Size: 0
+	Output Size: 0
+	Stderr Size: 0
+	Input:
+
+	Output:
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 272 271
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 10
+	Return Code: 1
+	Parameters: inputs/gr6314 
+	Input Size: 0
+	Output Size: 0
+	Stderr Size: 0
+	Input:
+
+	Output:
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 273 272
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 10
+	Return Code: 1
+	Parameters: inputs/gr12806 
+	Input Size: 0
+	Output Size: 0
+	Stderr Size: 0
+	Input:
+
+	Output:
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 274 273
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 10
+	Return Code: 1
+	Parameters: inputs/gr800 
+	Input Size: 0
+	Output Size: 0
+	Stderr Size: 0
+	Input:
+
+	Output:
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 275 274
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 10
+	Return Code: 1
+	Parameters: inputs/gr4270 
+	Input Size: 0
+	Output Size: 0
+	Stderr Size: 0
+	Input:
+
+	Output:
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 276 275
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 10
+	Return Code: 1
+	Parameters: inputs/gr10923 
+	Input Size: 0
+	Output Size: 0
+	Stderr Size: 0
+	Input:
+
+	Output:
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 277 276
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 10
+	Return Code: 1
+	Parameters: inputs/gr4322 
+	Input Size: 0
+	Output Size: 0
+	Stderr Size: 0
+	Input:
+
+	Output:
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 278 277
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 10
+	Return Code: 1
+	Parameters: inputs/gr7506 
+	Input Size: 0
+	Output Size: 0
+	Stderr Size: 0
+	Input:
+
+	Output:
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 279 278
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 10
+	Return Code: 1
+	Parameters: inputs/gr7185 
+	Input Size: 0
+	Output Size: 0
+	Stderr Size: 0
+	Input:
+
+	Output:
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 280 279
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 10
+	Return Code: 1
+	Parameters: inputs/gr7773 
+	Input Size: 0
+	Output Size: 0
+	Stderr Size: 0
+	Input:
+
+	Output:
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 281 280
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 10
+	Return Code: 1
+	Parameters: inputs/gr3759 
+	Input Size: 0
+	Output Size: 0
+	Stderr Size: 0
+	Input:
+
+	Output:
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 282 281
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 10
+	Return Code: 1
+	Parameters: inputs/gr6825 
+	Input Size: 0
+	Output Size: 0
+	Stderr Size: 0
+	Input:
+
+	Output:
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 283 282
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 10
+	Return Code: 1
+	Parameters: inputs/gr4754 
+	Input Size: 0
+	Output Size: 0
+	Stderr Size: 0
+	Input:
+
+	Output:
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 284 283
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 10
+	Return Code: 1
+	Parameters: inputs/gr7776 
+	Input Size: 0
+	Output Size: 0
+	Stderr Size: 0
+	Input:
+
+	Output:
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 285 284
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 10
+	Return Code: 1
+	Parameters: inputs/gr12346 
+	Input Size: 0
+	Output Size: 0
+	Stderr Size: 0
+	Input:
+
+	Output:
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 286 285
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 10
+	Return Code: 1
+	Parameters: inputs/gr9248 
+	Input Size: 0
+	Output Size: 0
+	Stderr Size: 0
+	Input:
+
+	Output:
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 287 286
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 10
+	Return Code: 1
+	Parameters: inputs/gr2587 
+	Input Size: 0
+	Output Size: 0
+	Stderr Size: 0
+	Input:
+
+	Output:
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 288 287
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 11
+	Return Code: 1
+	Parameters: inputs/gr9605 
+	Input Size: 0
+	Output Size: 0
+	Stderr Size: 0
+	Input:
+
+	Output:
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 289 288
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 11
+	Return Code: 1
+	Parameters: inputs/gr1818 
+	Input Size: 0
+	Output Size: 0
+	Stderr Size: 0
+	Input:
+
+	Output:
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 290 289
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 10
+	Return Code: 1
+	Parameters: inputs/gr1259 
+	Input Size: 0
+	Output Size: 0
+	Stderr Size: 0
+	Input:
+
+	Output:
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 291 290
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 10
+	Return Code: 1
+	Parameters: inputs/gr3639 
+	Input Size: 0
+	Output Size: 0
+	Stderr Size: 0
+	Input:
+
+	Output:
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 292 291
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 10
+	Return Code: 1
+	Parameters: inputs/gr5106 
+	Input Size: 0
+	Output Size: 0
+	Stderr Size: 0
+	Input:
+
+	Output:
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 293 292
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 10
+	Return Code: 1
+	Parameters: inputs/gr816 
+	Input Size: 0
+	Output Size: 0
+	Stderr Size: 0
+	Input:
+
+	Output:
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 294 293
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 10
+	Return Code: 1
+	Parameters: inputs/gr10419 
+	Input Size: 0
+	Output Size: 0
+	Stderr Size: 0
+	Input:
+
+	Output:
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 295 294
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 10
+	Return Code: 1
+	Parameters: inputs/gr7465 
+	Input Size: 0
+	Output Size: 0
+	Stderr Size: 0
+	Input:
+
+	Output:
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 296 295
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 10
+	Return Code: 1
+	Parameters: inputs/gr3102 
+	Input Size: 0
+	Output Size: 0
+	Stderr Size: 0
+	Input:
+
+	Output:
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 297 296
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 10
+	Return Code: 1
+	Parameters: inputs/gr5469 
+	Input Size: 0
+	Output Size: 0
+	Stderr Size: 0
+	Input:
+
+	Output:
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 298 297
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 10
+	Return Code: 1
+	Parameters: inputs/gr6705 
+	Input Size: 0
+	Output Size: 0
+	Stderr Size: 0
+	Input:
+
+	Output:
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 299 298
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 11
+	Return Code: 1
+	Parameters: inputs/gr739 
+	Input Size: 0
+	Output Size: 0
+	Stderr Size: 0
+	Input:
+
+	Output:
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 300 299
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 10
+	Return Code: 1
+	Parameters: inputs/gr237 
+	Input Size: 0
+	Output Size: 0
+	Stderr Size: 0
+	Input:
+
+	Output:
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 301 300
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 10
+	Return Code: 1
+	Parameters: inputs/gr2602 
+	Input Size: 0
+	Output Size: 0
+	Stderr Size: 0
+	Input:
+
+	Output:
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 302 301
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 10
+	Return Code: 1
+	Parameters: inputs/gr5663 
+	Input Size: 0
+	Output Size: 0
+	Stderr Size: 0
+	Input:
+
+	Output:
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 303 302
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 10
+	Return Code: 1
+	Parameters: inputs/gr1195 
+	Input Size: 0
+	Output Size: 0
+	Stderr Size: 0
+	Input:
+
+	Output:
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 304 303
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 10
+	Return Code: 1
+	Parameters: inputs/gr1509 
+	Input Size: 0
+	Output Size: 0
+	Stderr Size: 0
+	Input:
+
+	Output:
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 305 304
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 11
+	Return Code: 1
+	Parameters: inputs/gr2036 
+	Input Size: 0
+	Output Size: 0
+	Stderr Size: 0
+	Input:
+
+	Output:
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 306 305
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 10
+	Return Code: 1
+	Parameters: inputs/gr4591 
+	Input Size: 0
+	Output Size: 0
+	Stderr Size: 0
+	Input:
+
+	Output:
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 307 306
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 10
+	Return Code: 1
+	Parameters: inputs/gr8531 
+	Input Size: 0
+	Output Size: 0
+	Stderr Size: 0
+	Input:
+
+	Output:
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 308 307
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 10
+	Return Code: 1
+	Parameters: inputs/gr8797 
+	Input Size: 0
+	Output Size: 0
+	Stderr Size: 0
+	Input:
+
+	Output:
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 309 308
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 10
+	Return Code: 1
+	Parameters: inputs/gr5109 
+	Input Size: 0
+	Output Size: 0
+	Stderr Size: 0
+	Input:
+
+	Output:
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 310 309
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 10
+	Return Code: 1
+	Parameters: inputs/gr7010 
+	Input Size: 0
+	Output Size: 0
+	Stderr Size: 0
+	Input:
+
+	Output:
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 311 310
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 10
+	Return Code: 1
+	Parameters: inputs/gr142 
+	Input Size: 0
+	Output Size: 0
+	Stderr Size: 0
+	Input:
+
+	Output:
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 312 311
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 10
+	Return Code: 1
+	Parameters: inputs/gr161 
+	Input Size: 0
+	Output Size: 0
+	Stderr Size: 0
+	Input:
+
+	Output:
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 313 312
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 10
+	Return Code: 1
+	Parameters: inputs/gr6366 
+	Input Size: 0
+	Output Size: 0
+	Stderr Size: 0
+	Input:
+
+	Output:
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 314 313
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 10
+	Return Code: 1
+	Parameters: inputs/gr5726 
+	Input Size: 0
+	Output Size: 0
+	Stderr Size: 0
+	Input:
+
+	Output:
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 315 314
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 10
+	Return Code: 1
+	Parameters: inputs/gr12467 
+	Input Size: 0
+	Output Size: 0
+	Stderr Size: 0
+	Input:
+
+	Output:
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 316 315
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 10
+	Return Code: 1
+	Parameters: inputs/gr8502 
+	Input Size: 0
+	Output Size: 0
+	Stderr Size: 0
+	Input:
+
+	Output:
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 317 316
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 10
+	Return Code: 1
+	Parameters: inputs/gr13283 
+	Input Size: 0
+	Output Size: 0
+	Stderr Size: 0
+	Input:
+
+	Output:
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 318 317
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 10
+	Return Code: 1
+	Parameters: inputs/gr9648 
+	Input Size: 0
+	Output Size: 0
+	Stderr Size: 0
+	Input:
+
+	Output:
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 319 318
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 10
+	Return Code: 1
+	Parameters: inputs/gr5118 
+	Input Size: 0
+	Output Size: 0
+	Stderr Size: 0
+	Input:
+
+	Output:
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 320 319
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 10
+	Return Code: 1
+	Parameters: inputs/gr9003 
+	Input Size: 0
+	Output Size: 0
+	Stderr Size: 0
+	Input:
+
+	Output:
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 321 320
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 11
+	Return Code: 1
+	Parameters: inputs/gr6404 
+	Input Size: 0
+	Output Size: 0
+	Stderr Size: 0
+	Input:
+
+	Output:
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 322 321
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 10
+	Return Code: 1
+	Parameters: inputs/gr142 
+	Input Size: 0
+	Output Size: 0
+	Stderr Size: 0
+	Input:
+
+	Output:
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 323 322
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 10
+	Return Code: 1
+	Parameters: inputs/gr13100 
+	Input Size: 0
+	Output Size: 0
+	Stderr Size: 0
+	Input:
+
+	Output:
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 324 323
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 11
+	Return Code: 1
+	Parameters: inputs/gr4882 
+	Input Size: 0
+	Output Size: 0
+	Stderr Size: 0
+	Input:
+
+	Output:
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 325 324
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 10
+	Return Code: 1
+	Parameters: inputs/gr3010 
+	Input Size: 0
+	Output Size: 0
+	Stderr Size: 0
+	Input:
+
+	Output:
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 326 325
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 10
+	Return Code: 1
+	Parameters: inputs/gr6261 
+	Input Size: 0
+	Output Size: 0
+	Stderr Size: 0
+	Input:
+
+	Output:
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 327 326
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 10
+	Return Code: 1
+	Parameters: inputs/gr1739 
+	Input Size: 0
+	Output Size: 0
+	Stderr Size: 0
+	Input:
+
+	Output:
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 328 327
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 10
+	Return Code: 1
+	Parameters: inputs/gr6696 
+	Input Size: 0
+	Output Size: 0
+	Stderr Size: 0
+	Input:
+
+	Output:
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 329 328
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 10
+	Return Code: 1
+	Parameters: inputs/gr74 
+	Input Size: 0
+	Output Size: 0
+	Stderr Size: 0
+	Input:
+
+	Output:
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 330 329
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 10
+	Return Code: 1
+	Parameters: inputs/gr5916 
+	Input Size: 0
+	Output Size: 0
+	Stderr Size: 0
+	Input:
+
+	Output:
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 331 330
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 10
+	Return Code: 1
+	Parameters: inputs/gr5075 
+	Input Size: 0
+	Output Size: 0
+	Stderr Size: 0
+	Input:
+
+	Output:
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 332 331
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 10
+	Return Code: 1
+	Parameters: inputs/gr5203 
+	Input Size: 0
+	Output Size: 0
+	Stderr Size: 0
+	Input:
+
+	Output:
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 333 332
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 10
+	Return Code: 1
+	Parameters: inputs/gr8851 
+	Input Size: 0
+	Output Size: 0
+	Stderr Size: 0
+	Input:
+
+	Output:
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 334 333
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 10
+	Return Code: 1
+	Parameters: inputs/gr9279 
+	Input Size: 0
+	Output Size: 0
+	Stderr Size: 0
+	Input:
+
+	Output:
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 335 334
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 10
+	Return Code: 1
+	Parameters: inputs/gr6941 
+	Input Size: 0
+	Output Size: 0
+	Stderr Size: 0
+	Input:
+
+	Output:
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 336 335
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 10
+	Return Code: 1
+	Parameters: inputs/gr639 
+	Input Size: 0
+	Output Size: 0
+	Stderr Size: 0
+	Input:
+
+	Output:
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 337 336
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 10
+	Return Code: 1
+	Parameters: inputs/gr6815 
+	Input Size: 0
+	Output Size: 0
+	Stderr Size: 0
+	Input:
+
+	Output:
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 338 337
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 10
+	Return Code: 1
+	Parameters: inputs/gr522 
+	Input Size: 0
+	Output Size: 0
+	Stderr Size: 0
+	Input:
+
+	Output:
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 339 338
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 10
+	Return Code: 1
+	Parameters: inputs/gr5625 
+	Input Size: 0
+	Output Size: 0
+	Stderr Size: 0
+	Input:
+
+	Output:
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 340 339
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 10
+	Return Code: 1
+	Parameters: inputs/gr1635 
+	Input Size: 0
+	Output Size: 0
+	Stderr Size: 0
+	Input:
+
+	Output:
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 341 340
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 10
+	Return Code: 1
+	Parameters: inputs/gr9048 
+	Input Size: 0
+	Output Size: 0
+	Stderr Size: 0
+	Input:
+
+	Output:
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 342 341
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 10
+	Return Code: 1
+	Parameters: inputs/gr3161 
+	Input Size: 0
+	Output Size: 0
+	Stderr Size: 0
+	Input:
+
+	Output:
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 343 342
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 10
+	Return Code: 1
+	Parameters: inputs/gr10116 
+	Input Size: 0
+	Output Size: 0
+	Stderr Size: 0
+	Input:
+
+	Output:
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 344 343
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 10
+	Return Code: 1
+	Parameters: inputs/gr609 
+	Input Size: 0
+	Output Size: 0
+	Stderr Size: 0
+	Input:
+
+	Output:
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 345 344
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 10
+	Return Code: 1
+	Parameters: inputs/gr10005 
+	Input Size: 0
+	Output Size: 0
+	Stderr Size: 0
+	Input:
+
+	Output:
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 346 345
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 10
+	Return Code: 1
+	Parameters: inputs/gr7680 
+	Input Size: 0
+	Output Size: 0
+	Stderr Size: 0
+	Input:
+
+	Output:
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 347 346
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 10
+	Return Code: 1
+	Parameters: inputs/gr13435 
+	Input Size: 0
+	Output Size: 0
+	Stderr Size: 0
+	Input:
+
+	Output:
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 348 347
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 10
+	Return Code: 1
+	Parameters: inputs/gr13225 
+	Input Size: 0
+	Output Size: 0
+	Stderr Size: 0
+	Input:
+
+	Output:
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 349 348
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 10
+	Return Code: 1
+	Parameters: inputs/gr2121 
+	Input Size: 0
+	Output Size: 0
+	Stderr Size: 0
+	Input:
+
+	Output:
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 350 349
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 10
+	Return Code: 1
+	Parameters: inputs/gr7252 
+	Input Size: 0
+	Output Size: 0
+	Stderr Size: 0
+	Input:
+
+	Output:
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 351 350
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 10
+	Return Code: 1
+	Parameters: inputs/gr4626 
+	Input Size: 0
+	Output Size: 0
+	Stderr Size: 0
+	Input:
+
+	Output:
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 352 351
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 11
+	Return Code: 1
+	Parameters: inputs/gr13268 
+	Input Size: 0
+	Output Size: 0
+	Stderr Size: 0
+	Input:
+
+	Output:
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 353 352
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 10
+	Return Code: 1
+	Parameters: inputs/gr11255 
+	Input Size: 0
+	Output Size: 0
+	Stderr Size: 0
+	Input:
+
+	Output:
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 354 353
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 10
+	Return Code: 1
+	Parameters: inputs/gr10487 
+	Input Size: 0
+	Output Size: 0
+	Stderr Size: 0
+	Input:
+
+	Output:
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 355 354
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 10
+	Return Code: 1
+	Parameters: inputs/gr11687 
+	Input Size: 0
+	Output Size: 0
+	Stderr Size: 0
+	Input:
+
+	Output:
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 356 355
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 10
+	Return Code: 1
+	Parameters: inputs/gr4825 
+	Input Size: 0
+	Output Size: 0
+	Stderr Size: 0
+	Input:
+
+	Output:
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 357 356
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 10
+	Return Code: 1
+	Parameters: inputs/gr4967 
+	Input Size: 0
+	Output Size: 0
+	Stderr Size: 0
+	Input:
+
+	Output:
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 358 357
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 10
+	Return Code: 1
+	Parameters: inputs/gr13042 
+	Input Size: 0
+	Output Size: 0
+	Stderr Size: 0
+	Input:
+
+	Output:
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 359 358
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 10
+	Return Code: 1
+	Parameters: inputs/gr10934 
+	Input Size: 0
+	Output Size: 0
+	Stderr Size: 0
+	Input:
+
+	Output:
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 360 359
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 11
+	Return Code: 1
+	Parameters: inputs/gr13142 
+	Input Size: 0
+	Output Size: 0
+	Stderr Size: 0
+	Input:
+
+	Output:
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 361 360
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 10
+	Return Code: 1
+	Parameters: inputs/gr11949 
+	Input Size: 0
+	Output Size: 0
+	Stderr Size: 0
+	Input:
+
+	Output:
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 362 361
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 10
+	Return Code: 1
+	Parameters: inputs/gr8401 
+	Input Size: 0
+	Output Size: 0
+	Stderr Size: 0
+	Input:
+
+	Output:
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 363 362
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 10
+	Return Code: 1
+	Parameters: inputs/gr13515 
+	Input Size: 0
+	Output Size: 0
+	Stderr Size: 0
+	Input:
+
+	Output:
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 364 363
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 10
+	Return Code: 1
+	Parameters: inputs/gr13322 
+	Input Size: 0
+	Output Size: 0
+	Stderr Size: 0
+	Input:
+
+	Output:
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 365 364
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 10
+	Return Code: 1
+	Parameters: inputs/gr10238 
+	Input Size: 0
+	Output Size: 0
+	Stderr Size: 0
+	Input:
+
+	Output:
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 366 365
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 10
+	Return Code: 1
+	Parameters: inputs/gr1097 
+	Input Size: 0
+	Output Size: 0
+	Stderr Size: 0
+	Input:
+
+	Output:
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 367 366
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 10
+	Return Code: 1
+	Parameters: inputs/gr6410 
+	Input Size: 0
+	Output Size: 0
+	Stderr Size: 0
+	Input:
+
+	Output:
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 368 367
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 10
+	Return Code: 1
+	Parameters: inputs/gr13341 
+	Input Size: 0
+	Output Size: 0
+	Stderr Size: 0
+	Input:
+
+	Output:
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 369 368
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 10
+	Return Code: 1
+	Parameters: inputs/gr9522 
+	Input Size: 0
+	Output Size: 0
+	Stderr Size: 0
+	Input:
+
+	Output:
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 370 369
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 10
+	Return Code: 1
+	Parameters: inputs/gr101 
+	Input Size: 0
+	Output Size: 0
+	Stderr Size: 0
+	Input:
+
+	Output:
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 371 370
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 10
+	Return Code: 1
+	Parameters: inputs/gr3792 
+	Input Size: 0
+	Output Size: 0
+	Stderr Size: 0
+	Input:
+
+	Output:
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 372 371
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 10
+	Return Code: 1
+	Parameters: inputs/gr8550 
+	Input Size: 0
+	Output Size: 0
+	Stderr Size: 0
+	Input:
+
+	Output:
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 373 372
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 10
+	Return Code: 1
+	Parameters: inputs/gr7934 
+	Input Size: 0
+	Output Size: 0
+	Stderr Size: 0
+	Input:
+
+	Output:
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 374 373
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 10
+	Return Code: 1
+	Parameters: inputs/gr7752 
+	Input Size: 0
+	Output Size: 0
+	Stderr Size: 0
+	Input:
+
+	Output:
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 375 374
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 11
+	Return Code: 1
+	Parameters: inputs/gr5108 
+	Input Size: 0
+	Output Size: 0
+	Stderr Size: 0
+	Input:
+
+	Output:
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 376 375
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 10
+	Return Code: 1
+	Parameters: inputs/gr8934 
+	Input Size: 0
+	Output Size: 0
+	Stderr Size: 0
+	Input:
+
+	Output:
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 377 376
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 10
+	Return Code: 1
+	Parameters: inputs/gr5234 
+	Input Size: 0
+	Output Size: 0
+	Stderr Size: 0
+	Input:
+
+	Output:
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 378 377
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 10
+	Return Code: 1
+	Parameters: inputs/gr3643 
+	Input Size: 0
+	Output Size: 0
+	Stderr Size: 0
+	Input:
+
+	Output:
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 379 378
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 11
+	Return Code: 1
+	Parameters: inputs/gr8079 
+	Input Size: 0
+	Output Size: 0
+	Stderr Size: 0
+	Input:
+
+	Output:
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 380 379
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 10
+	Return Code: 1
+	Parameters: inputs/gr1757 
+	Input Size: 0
+	Output Size: 0
+	Stderr Size: 0
+	Input:
+
+	Output:
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 381 380
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 10
+	Return Code: 1
+	Parameters: inputs/gr546 
+	Input Size: 0
+	Output Size: 0
+	Stderr Size: 0
+	Input:
+
+	Output:
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 382 381
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 10
+	Return Code: 1
+	Parameters: inputs/gr12859 
+	Input Size: 0
+	Output Size: 0
+	Stderr Size: 0
+	Input:
+
+	Output:
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 383 382
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 10
+	Return Code: 1
+	Parameters: inputs/gr5084 
+	Input Size: 0
+	Output Size: 0
+	Stderr Size: 0
+	Input:
+
+	Output:
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 384 383
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 10
+	Return Code: 1
+	Parameters: inputs/gr8718 
+	Input Size: 0
+	Output Size: 0
+	Stderr Size: 0
+	Input:
+
+	Output:
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 385 384
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 10
+	Return Code: 1
+	Parameters: inputs/gr1133 
+	Input Size: 0
+	Output Size: 0
+	Stderr Size: 0
+	Input:
+
+	Output:
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 386 385
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 10
+	Return Code: 1
+	Parameters: inputs/gr4113 
+	Input Size: 0
+	Output Size: 0
+	Stderr Size: 0
+	Input:
+
+	Output:
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 387 386
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 10
+	Return Code: 1
+	Parameters: inputs/gr5187 
+	Input Size: 0
+	Output Size: 0
+	Stderr Size: 0
+	Input:
+
+	Output:
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 388 387
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 11
+	Return Code: 1
+	Parameters: inputs/gr4420 
+	Input Size: 0
+	Output Size: 0
+	Stderr Size: 0
+	Input:
+
+	Output:
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 389 388
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 10
+	Return Code: 1
+	Parameters: inputs/gr10630 
+	Input Size: 0
+	Output Size: 0
+	Stderr Size: 0
+	Input:
+
+	Output:
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 390 389
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 11
+	Return Code: 1
+	Parameters: inputs/gr13147 
+	Input Size: 0
+	Output Size: 0
+	Stderr Size: 0
+	Input:
+
+	Output:
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 391 390
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 11
+	Return Code: 1
+	Parameters: inputs/gr9655 
+	Input Size: 0
+	Output Size: 0
+	Stderr Size: 0
+	Input:
+
+	Output:
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 392 391
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 10
+	Return Code: 1
+	Parameters: inputs/gr3708 
+	Input Size: 0
+	Output Size: 0
+	Stderr Size: 0
+	Input:
+
+	Output:
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 393 392
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 11
+	Return Code: 1
+	Parameters: inputs/gr1413 
+	Input Size: 0
+	Output Size: 0
+	Stderr Size: 0
+	Input:
+
+	Output:
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 394 393
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 11
+	Return Code: 1
+	Parameters: inputs/gr17 
+	Input Size: 0
+	Output Size: 0
+	Stderr Size: 0
+	Input:
+
+	Output:
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 395 394
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 10
+	Return Code: 1
+	Parameters: inputs/gr3912 
+	Input Size: 0
+	Output Size: 0
+	Stderr Size: 0
+	Input:
+
+	Output:
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 396 395
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 10
+	Return Code: 1
+	Parameters: inputs/gr7529 
+	Input Size: 0
+	Output Size: 0
+	Stderr Size: 0
+	Input:
+
+	Output:
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 397 396
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 10
+	Return Code: 1
+	Parameters: inputs/gr8992 
+	Input Size: 0
+	Output Size: 0
+	Stderr Size: 0
+	Input:
+
+	Output:
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 398 397
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 10
+	Return Code: 1
+	Parameters: inputs/gr4695 
+	Input Size: 0
+	Output Size: 0
+	Stderr Size: 0
+	Input:
+
+	Output:
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 399 398
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 10
+	Return Code: 1
+	Parameters: inputs/gr1212 
+	Input Size: 0
+	Output Size: 0
+	Stderr Size: 0
+	Input:
+
+	Output:
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 400 399
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 10
+	Return Code: 1
+	Parameters: inputs/gr12802 
+	Input Size: 0
+	Output Size: 0
+	Stderr Size: 0
+	Input:
+
+	Output:
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 401 400
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 10
+	Return Code: 1
+	Parameters: inputs/gr4338 
+	Input Size: 0
+	Output Size: 0
+	Stderr Size: 0
+	Input:
+
+	Output:
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 402 401
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 10
+	Return Code: 1
+	Parameters: inputs/gr3521 
+	Input Size: 0
+	Output Size: 0
+	Stderr Size: 0
+	Input:
+
+	Output:
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 403 402
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 10
+	Return Code: 1
+	Parameters: inputs/gr13373 
+	Input Size: 0
+	Output Size: 0
+	Stderr Size: 0
+	Input:
+
+	Output:
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 404 403
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 10
+	Return Code: 1
+	Parameters: inputs/gr11194 
+	Input Size: 0
+	Output Size: 0
+	Stderr Size: 0
+	Input:
+
+	Output:
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 405 404
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 10
+	Return Code: 1
+	Parameters: inputs/gr10537 
+	Input Size: 0
+	Output Size: 0
+	Stderr Size: 0
+	Input:
+
+	Output:
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 406 405
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 11
+	Return Code: 1
+	Parameters: inputs/gr8868 
+	Input Size: 0
+	Output Size: 0
+	Stderr Size: 0
+	Input:
+
+	Output:
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 407 406
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 10
+	Return Code: 1
+	Parameters: inputs/gr1609 
+	Input Size: 0
+	Output Size: 0
+	Stderr Size: 0
+	Input:
+
+	Output:
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 408 407
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 10
+	Return Code: 1
+	Parameters: inputs/gr1489 
+	Input Size: 0
+	Output Size: 0
+	Stderr Size: 0
+	Input:
+
+	Output:
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 409 408
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 10
+	Return Code: 1
+	Parameters: inputs/gr8982 
+	Input Size: 0
+	Output Size: 0
+	Stderr Size: 0
+	Input:
+
+	Output:
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 410 409
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 11
+	Return Code: 1
+	Parameters: inputs/gr6489 
+	Input Size: 0
+	Output Size: 0
+	Stderr Size: 0
+	Input:
+
+	Output:
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 411 410
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 11
+	Return Code: 1
+	Parameters: inputs/gr3545 
+	Input Size: 0
+	Output Size: 0
+	Stderr Size: 0
+	Input:
+
+	Output:
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 412 411
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 10
+	Return Code: 1
+	Parameters: inputs/gr11047 
+	Input Size: 0
+	Output Size: 0
+	Stderr Size: 0
+	Input:
+
+	Output:
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 413 412
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 10
+	Return Code: 1
+	Parameters: inputs/gr5580 
+	Input Size: 0
+	Output Size: 0
+	Stderr Size: 0
+	Input:
+
+	Output:
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 414 413
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 10
+	Return Code: 1
+	Parameters: inputs/gr2132 
+	Input Size: 0
+	Output Size: 0
+	Stderr Size: 0
+	Input:
+
+	Output:
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 415 414
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 10
+	Return Code: 1
+	Parameters: inputs/gr6119 
+	Input Size: 0
+	Output Size: 0
+	Stderr Size: 0
+	Input:
+
+	Output:
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 416 415
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 10
+	Return Code: 1
+	Parameters: inputs/gr4466 
+	Input Size: 0
+	Output Size: 0
+	Stderr Size: 0
+	Input:
+
+	Output:
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 417 416
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 10
+	Return Code: 1
+	Parameters: inputs/gr7959 
+	Input Size: 0
+	Output Size: 0
+	Stderr Size: 0
+	Input:
+
+	Output:
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 418 417
+Label:	
+	ENABLED
+	Exec. Time (CPU): 11
+	Exec. Time (total): 10
+	Return Code: 1
+	Parameters: inputs/gr1825 
+	Input Size: 0
+	Output Size: 0
+	Stderr Size: 0
+	Input:
+
+	Output:
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 419 418
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 10
+	Return Code: 1
+	Parameters: inputs/gr9513 
+	Input Size: 0
+	Output Size: 0
+	Stderr Size: 0
+	Input:
+
+	Output:
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 420 419
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 10
+	Return Code: 1
+	Parameters: inputs/gr1152 
+	Input Size: 0
+	Output Size: 0
+	Stderr Size: 0
+	Input:
+
+	Output:
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 421 420
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 10
+	Return Code: 1
+	Parameters: inputs/gr11430 
+	Input Size: 0
+	Output Size: 0
+	Stderr Size: 0
+	Input:
+
+	Output:
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 422 421
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 10
+	Return Code: 1
+	Parameters: inputs/gr10193 
+	Input Size: 0
+	Output Size: 0
+	Stderr Size: 0
+	Input:
+
+	Output:
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 423 422
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 10
+	Return Code: 1
+	Parameters: inputs/gr3050 
+	Input Size: 0
+	Output Size: 0
+	Stderr Size: 0
+	Input:
+
+	Output:
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 424 423
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 10
+	Return Code: 1
+	Parameters: inputs/gr8613 
+	Input Size: 0
+	Output Size: 0
+	Stderr Size: 0
+	Input:
+
+	Output:
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 425 424
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 10
+	Return Code: 1
+	Parameters: inputs/gr8045 
+	Input Size: 0
+	Output Size: 0
+	Stderr Size: 0
+	Input:
+
+	Output:
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 426 425
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 10
+	Return Code: 1
+	Parameters: inputs/gr11339 
+	Input Size: 0
+	Output Size: 0
+	Stderr Size: 0
+	Input:
+
+	Output:
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 427 426
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 11
+	Return Code: 1
+	Parameters: inputs/gr3978 
+	Input Size: 0
+	Output Size: 0
+	Stderr Size: 0
+	Input:
+
+	Output:
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 428 427
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 10
+	Return Code: 1
+	Parameters: inputs/gr8917 
+	Input Size: 0
+	Output Size: 0
+	Stderr Size: 0
+	Input:
+
+	Output:
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 429 428
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 10
+	Return Code: 1
+	Parameters: inputs/gr9467 
+	Input Size: 0
+	Output Size: 0
+	Stderr Size: 0
+	Input:
+
+	Output:
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 430 429
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 10
+	Return Code: 1
+	Parameters: inputs/gr10346 
+	Input Size: 0
+	Output Size: 0
+	Stderr Size: 0
+	Input:
+
+	Output:
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 431 430
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 10
+	Return Code: 1
+	Parameters: inputs/gr6950 
+	Input Size: 0
+	Output Size: 0
+	Stderr Size: 0
+	Input:
+
+	Output:
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 432 431
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 10
+	Return Code: 1
+	Parameters: inputs/gr1054 
+	Input Size: 0
+	Output Size: 0
+	Stderr Size: 0
+	Input:
+
+	Output:
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 433 432
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 10
+	Return Code: 1
+	Parameters: inputs/gr356 
+	Input Size: 0
+	Output Size: 0
+	Stderr Size: 0
+	Input:
+
+	Output:
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 434 433
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 10
+	Return Code: 1
+	Parameters: inputs/gr12942 
+	Input Size: 0
+	Output Size: 0
+	Stderr Size: 0
+	Input:
+
+	Output:
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 435 434
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 10
+	Return Code: 1
+	Parameters: inputs/gr5635 
+	Input Size: 0
+	Output Size: 0
+	Stderr Size: 0
+	Input:
+
+	Output:
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 436 435
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 10
+	Return Code: 1
+	Parameters: inputs/gr4304 
+	Input Size: 0
+	Output Size: 0
+	Stderr Size: 0
+	Input:
+
+	Output:
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 437 436
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 11
+	Return Code: 1
+	Parameters: inputs/gr7570 
+	Input Size: 0
+	Output Size: 0
+	Stderr Size: 0
+	Input:
+
+	Output:
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 438 437
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 10
+	Return Code: 1
+	Parameters: inputs/gr8177 
+	Input Size: 0
+	Output Size: 0
+	Stderr Size: 0
+	Input:
+
+	Output:
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 439 438
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 10
+	Return Code: 1
+	Parameters: inputs/gr7404 
+	Input Size: 0
+	Output Size: 0
+	Stderr Size: 0
+	Input:
+
+	Output:
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 440 439
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 10
+	Return Code: 1
+	Parameters: inputs/gr11309 
+	Input Size: 0
+	Output Size: 0
+	Stderr Size: 0
+	Input:
+
+	Output:
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 441 440
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 10
+	Return Code: 1
+	Parameters: inputs/gr1811 
+	Input Size: 0
+	Output Size: 0
+	Stderr Size: 0
+	Input:
+
+	Output:
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 442 441
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 10
+	Return Code: 1
+	Parameters: inputs/gr9002 
+	Input Size: 0
+	Output Size: 0
+	Stderr Size: 0
+	Input:
+
+	Output:
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 443 442
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 10
+	Return Code: 1
+	Parameters: inputs/gr11132 
+	Input Size: 0
+	Output Size: 0
+	Stderr Size: 0
+	Input:
+
+	Output:
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 444 443
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 10
+	Return Code: 1
+	Parameters: inputs/gr9308 
+	Input Size: 0
+	Output Size: 0
+	Stderr Size: 0
+	Input:
+
+	Output:
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 445 444
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 10
+	Return Code: 1
+	Parameters: inputs/gr3508 
+	Input Size: 0
+	Output Size: 0
+	Stderr Size: 0
+	Input:
+
+	Output:
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 446 445
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 10
+	Return Code: 1
+	Parameters: inputs/gr662 
+	Input Size: 0
+	Output Size: 0
+	Stderr Size: 0
+	Input:
+
+	Output:
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 447 446
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 10
+	Return Code: 1
+	Parameters: inputs/gr5513 
+	Input Size: 0
+	Output Size: 0
+	Stderr Size: 0
+	Input:
+
+	Output:
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 448 447
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 10
+	Return Code: 1
+	Parameters: inputs/gr2876 
+	Input Size: 0
+	Output Size: 0
+	Stderr Size: 0
+	Input:
+
+	Output:
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 449 448
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 10
+	Return Code: 1
+	Parameters: inputs/gr10317 
+	Input Size: 0
+	Output Size: 0
+	Stderr Size: 0
+	Input:
+
+	Output:
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 450 449
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 11
+	Return Code: 1
+	Parameters: inputs/gr4522 
+	Input Size: 0
+	Output Size: 0
+	Stderr Size: 0
+	Input:
+
+	Output:
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 451 450
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 10
+	Return Code: 1
+	Parameters: inputs/gr11265 
+	Input Size: 0
+	Output Size: 0
+	Stderr Size: 0
+	Input:
+
+	Output:
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 452 451
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 10
+	Return Code: 1
+	Parameters: inputs/gr7191 
+	Input Size: 0
+	Output Size: 0
+	Stderr Size: 0
+	Input:
+
+	Output:
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 453 452
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 10
+	Return Code: 1
+	Parameters: inputs/gr2249 
+	Input Size: 0
+	Output Size: 0
+	Stderr Size: 0
+	Input:
+
+	Output:
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 454 453
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 10
+	Return Code: 1
+	Parameters: inputs/gr13129 
+	Input Size: 0
+	Output Size: 0
+	Stderr Size: 0
+	Input:
+
+	Output:
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 455 454
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 10
+	Return Code: 1
+	Parameters: inputs/gr4373 
+	Input Size: 0
+	Output Size: 0
+	Stderr Size: 0
+	Input:
+
+	Output:
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 456 455
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 10
+	Return Code: 1
+	Parameters: inputs/gr3236 
+	Input Size: 0
+	Output Size: 0
+	Stderr Size: 0
+	Input:
+
+	Output:
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 457 456
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 10
+	Return Code: 1
+	Parameters: inputs/gr9233 
+	Input Size: 0
+	Output Size: 0
+	Stderr Size: 0
+	Input:
+
+	Output:
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 458 457
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 10
+	Return Code: 1
+	Parameters: inputs/gr4066 
+	Input Size: 0
+	Output Size: 0
+	Stderr Size: 0
+	Input:
+
+	Output:
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 459 458
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 10
+	Return Code: 1
+	Parameters: inputs/gr4780 
+	Input Size: 0
+	Output Size: 0
+	Stderr Size: 0
+	Input:
+
+	Output:
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 460 459
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 10
+	Return Code: 1
+	Parameters: inputs/gr2040 
+	Input Size: 0
+	Output Size: 0
+	Stderr Size: 0
+	Input:
+
+	Output:
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 461 460
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 10
+	Return Code: 1
+	Parameters: inputs/gr11381 
+	Input Size: 0
+	Output Size: 0
+	Stderr Size: 0
+	Input:
+
+	Output:
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 462 461
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 10
+	Return Code: 1
+	Parameters: inputs/gr1953 
+	Input Size: 0
+	Output Size: 0
+	Stderr Size: 0
+	Input:
+
+	Output:
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 463 462
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 10
+	Return Code: 1
+	Parameters: inputs/gr7131 
+	Input Size: 0
+	Output Size: 0
+	Stderr Size: 0
+	Input:
+
+	Output:
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 464 463
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 10
+	Return Code: 1
+	Parameters: inputs/gr13211 
+	Input Size: 0
+	Output Size: 0
+	Stderr Size: 0
+	Input:
+
+	Output:
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 465 464
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 11
+	Return Code: 1
+	Parameters: inputs/gr269 
+	Input Size: 0
+	Output Size: 0
+	Stderr Size: 0
+	Input:
+
+	Output:
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 466 465
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 10
+	Return Code: 1
+	Parameters: inputs/gr4599 
+	Input Size: 0
+	Output Size: 0
+	Stderr Size: 0
+	Input:
+
+	Output:
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 467 466
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 10
+	Return Code: 1
+	Parameters: inputs/gr10335 
+	Input Size: 0
+	Output Size: 0
+	Stderr Size: 0
+	Input:
+
+	Output:
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 468 467
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 10
+	Return Code: 1
+	Parameters: inputs/gr2774 
+	Input Size: 0
+	Output Size: 0
+	Stderr Size: 0
+	Input:
+
+	Output:
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 469 468
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 10
+	Return Code: 1
+	Parameters: inputs/gr7823 
+	Input Size: 0
+	Output Size: 0
+	Stderr Size: 0
+	Input:
+
+	Output:
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 470 469
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 10
+	Return Code: 1
+	Parameters: inputs/gr9438 
+	Input Size: 0
+	Output Size: 0
+	Stderr Size: 0
+	Input:
+
+	Output:
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 471 470
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 10
+	Return Code: 1
+	Parameters: inputs/gr1427 
+	Input Size: 0
+	Output Size: 0
+	Stderr Size: 0
+	Input:
+
+	Output:
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 472 471
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 10
+	Return Code: 1
+	Parameters: inputs/gr6289 
+	Input Size: 0
+	Output Size: 0
+	Stderr Size: 0
+	Input:
+
+	Output:
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 473 472
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 10
+	Return Code: 1
+	Parameters: inputs/gr3702 
+	Input Size: 0
+	Output Size: 0
+	Stderr Size: 0
+	Input:
+
+	Output:
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 474 473
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 10
+	Return Code: 1
+	Parameters: inputs/gr9319 
+	Input Size: 0
+	Output Size: 0
+	Stderr Size: 0
+	Input:
+
+	Output:
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 475 474
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 11
+	Return Code: 1
+	Parameters: inputs/gr2463 
+	Input Size: 0
+	Output Size: 0
+	Stderr Size: 0
+	Input:
+
+	Output:
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 476 475
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 10
+	Return Code: 1
+	Parameters: inputs/gr542 
+	Input Size: 0
+	Output Size: 0
+	Stderr Size: 0
+	Input:
+
+	Output:
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 477 476
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 10
+	Return Code: 1
+	Parameters: inputs/gr5326 
+	Input Size: 0
+	Output Size: 0
+	Stderr Size: 0
+	Input:
+
+	Output:
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 478 477
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 10
+	Return Code: 1
+	Parameters: inputs/gr11431 
+	Input Size: 0
+	Output Size: 0
+	Stderr Size: 0
+	Input:
+
+	Output:
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 479 478
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 10
+	Return Code: 1
+	Parameters: inputs/gr12049 
+	Input Size: 0
+	Output Size: 0
+	Stderr Size: 0
+	Input:
+
+	Output:
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 480 479
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 10
+	Return Code: 1
+	Parameters: inputs/gr958 
+	Input Size: 0
+	Output Size: 0
+	Stderr Size: 0
+	Input:
+
+	Output:
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 481 480
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 10
+	Return Code: 1
+	Parameters: inputs/gr7765 
+	Input Size: 0
+	Output Size: 0
+	Stderr Size: 0
+	Input:
+
+	Output:
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 482 481
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 10
+	Return Code: 1
+	Parameters: inputs/gr6495 
+	Input Size: 0
+	Output Size: 0
+	Stderr Size: 0
+	Input:
+
+	Output:
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 483 482
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 10
+	Return Code: 1
+	Parameters: inputs/gr11030 
+	Input Size: 0
+	Output Size: 0
+	Stderr Size: 0
+	Input:
+
+	Output:
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 484 483
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 10
+	Return Code: 1
+	Parameters: inputs/gr10275 
+	Input Size: 0
+	Output Size: 0
+	Stderr Size: 0
+	Input:
+
+	Output:
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 485 484
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 10
+	Return Code: 1
+	Parameters: inputs/gr5952 
+	Input Size: 0
+	Output Size: 0
+	Stderr Size: 0
+	Input:
+
+	Output:
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 486 485
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 10
+	Return Code: 1
+	Parameters: inputs/gr1330 
+	Input Size: 0
+	Output Size: 0
+	Stderr Size: 0
+	Input:
+
+	Output:
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 487 486
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 10
+	Return Code: 1
+	Parameters: inputs/gr3273 
+	Input Size: 0
+	Output Size: 0
+	Stderr Size: 0
+	Input:
+
+	Output:
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 488 487
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 10
+	Return Code: 1
+	Parameters: inputs/gr7548 
+	Input Size: 0
+	Output Size: 0
+	Stderr Size: 0
+	Input:
+
+	Output:
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 489 488
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 11
+	Return Code: 1
+	Parameters: inputs/gr11600 
+	Input Size: 0
+	Output Size: 0
+	Stderr Size: 0
+	Input:
+
+	Output:
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 490 489
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 10
+	Return Code: 1
+	Parameters: inputs/gr1818 
+	Input Size: 0
+	Output Size: 0
+	Stderr Size: 0
+	Input:
+
+	Output:
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 491 490
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 10
+	Return Code: 1
+	Parameters: inputs/gr6071 
+	Input Size: 0
+	Output Size: 0
+	Stderr Size: 0
+	Input:
+
+	Output:
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 492 491
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 10
+	Return Code: 1
+	Parameters: inputs/gr12275 
+	Input Size: 0
+	Output Size: 0
+	Stderr Size: 0
+	Input:
+
+	Output:
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 493 492
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 10
+	Return Code: 1
+	Parameters: inputs/gr3618 
+	Input Size: 0
+	Output Size: 0
+	Stderr Size: 0
+	Input:
+
+	Output:
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 494 493
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 10
+	Return Code: 1
+	Parameters: inputs/gr9030 
+	Input Size: 0
+	Output Size: 0
+	Stderr Size: 0
+	Input:
+
+	Output:
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 495 494
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 10
+	Return Code: 1
+	Parameters: inputs/gr9537 
+	Input Size: 0
+	Output Size: 0
+	Stderr Size: 0
+	Input:
+
+	Output:
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 496 495
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 11
+	Return Code: 1
+	Parameters: inputs/gr2539 
+	Input Size: 0
+	Output Size: 0
+	Stderr Size: 0
+	Input:
+
+	Output:
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 497 496
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 10
+	Return Code: 1
+	Parameters: inputs/gr10651 
+	Input Size: 0
+	Output Size: 0
+	Stderr Size: 0
+	Input:
+
+	Output:
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 498 497
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 10
+	Return Code: 1
+	Parameters: inputs/gr5153 
+	Input Size: 0
+	Output Size: 0
+	Stderr Size: 0
+	Input:
+
+	Output:
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 499 498
+Label:	
+	ENABLED
+	Exec. Time (CPU): 11
+	Exec. Time (total): 10
+	Return Code: 1
+	Parameters: inputs/gr983 
+	Input Size: 0
+	Output Size: 0
+	Stderr Size: 0
+	Input:
+
+	Output:
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 500 499
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 10
+	Return Code: 1
+	Parameters: inputs/gr3384 
+	Input Size: 0
+	Output Size: 0
+	Stderr Size: 0
+	Input:
+
+	Output:
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 501 500
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 10
+	Return Code: 1
+	Parameters: inputs/gr12908 
+	Input Size: 0
+	Output Size: 0
+	Stderr Size: 0
+	Input:
+
+	Output:
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 502 501
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 10
+	Return Code: 1
+	Parameters: inputs/gr12666 
+	Input Size: 0
+	Output Size: 0
+	Stderr Size: 0
+	Input:
+
+	Output:
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 503 502
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 10
+	Return Code: 1
+	Parameters: inputs/gr10089 
+	Input Size: 0
+	Output Size: 0
+	Stderr Size: 0
+	Input:
+
+	Output:
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 504 503
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 10
+	Return Code: 1
+	Parameters: inputs/gr11278 
+	Input Size: 0
+	Output Size: 0
+	Stderr Size: 0
+	Input:
+
+	Output:
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 505 504
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 10
+	Return Code: 1
+	Parameters: inputs/gr10721 
+	Input Size: 0
+	Output Size: 0
+	Stderr Size: 0
+	Input:
+
+	Output:
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 506 505
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 10
+	Return Code: 1
+	Parameters: inputs/gr13215 
+	Input Size: 0
+	Output Size: 0
+	Stderr Size: 0
+	Input:
+
+	Output:
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 507 506
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 10
+	Return Code: 1
+	Parameters: inputs/gr8883 
+	Input Size: 0
+	Output Size: 0
+	Stderr Size: 0
+	Input:
+
+	Output:
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 508 507
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 11
+	Return Code: 1
+	Parameters: inputs/gr9053 
+	Input Size: 0
+	Output Size: 0
+	Stderr Size: 0
+	Input:
+
+	Output:
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 509 508
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 11
+	Return Code: 1
+	Parameters: inputs/gr11295 
+	Input Size: 0
+	Output Size: 0
+	Stderr Size: 0
+	Input:
+
+	Output:
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 510 509
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 10
+	Return Code: 1
+	Parameters: inputs/gr1446 
+	Input Size: 0
+	Output Size: 0
+	Stderr Size: 0
+	Input:
+
+	Output:
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 511 510
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 10
+	Return Code: 1
+	Parameters: inputs/gr13175 
+	Input Size: 0
+	Output Size: 0
+	Stderr Size: 0
+	Input:
+
+	Output:
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 512 511
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 10
+	Return Code: 1
+	Parameters: inputs/gr540 
+	Input Size: 0
+	Output Size: 0
+	Stderr Size: 0
+	Input:
+
+	Output:
+
+	Stderr:
+
+Travessed blocks:

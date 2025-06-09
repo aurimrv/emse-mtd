@@ -1,0 +1,7510 @@
+@__bswap_16
+2
+
+1
+	Def: 
+	Use: 
+	0
+2
+	Def: 
+	Use: 
+	0
+@__bswap_32
+2
+
+1
+	Def: 
+	Use: 
+	0
+2
+	Def: 
+	Use: 
+	0
+@__bswap_64
+2
+
+1
+	Def: 
+	Use: 
+	0
+2
+	Def: 
+	Use: 
+	0
+@__uint16_identity
+2
+
+1
+	Def: 
+	Use: 
+	0
+2
+	Def: 
+	Use: 
+	0
+@__uint32_identity
+2
+
+1
+	Def: 
+	Use: 
+	0
+2
+	Def: 
+	Use: 
+	0
+@__uint64_identity
+2
+
+1
+	Def: 
+	Use: 
+	0
+2
+	Def: 
+	Use: 
+	0
+@main
+13
+
+1
+	Def: 
+	Use: 
+	2 3 0
+2
+	Def: 
+	Use: 
+	3 0
+3
+	Def: 
+	Use: 
+	4 5 0
+4
+	Def: 
+	Use: 
+	5 0
+5
+	Def: 
+	Use: 
+	6 7 0
+6
+	Def: 
+	Use: 
+	7 0
+7
+	Def: 
+	Use: 
+	8 9 0
+8
+	Def: 
+	Use: 
+	9 0
+9
+	Def: 
+	Use: 
+	10 11 0
+10
+	Def: 
+	Use: 
+	11 0
+11
+	Def: 
+	Use: 
+	12 13 0
+12
+	Def: 
+	Use: 
+	13 0
+13
+	Def: 
+	Use: 
+	0
+@adddef
+37
+
+1
+	Def: 
+	Use: 
+	2 4 0
+2
+	Def: 
+	Use: 
+	0
+3
+	Def: 
+	Use: 
+	4 0
+4
+	Def: 
+	Use: 
+	5 7 0
+5
+	Def: 
+	Use: 
+	0
+6
+	Def: 
+	Use: 
+	7 0
+7
+	Def: 
+	Use: 
+	8 12 0
+8
+	Def: 
+	Use: 
+	9 10 0
+9
+	Def: 
+	Use: 
+	10 0
+10
+	Def: 
+	Use: 
+	0
+11
+	Def: 
+	Use: 
+	12 0
+12
+	Def: 
+	Use: 
+	13 15 0
+13
+	Def: 
+	Use: 
+	0
+14
+	Def: 
+	Use: 
+	15 0
+15
+	Def: 
+	Use: 
+	16 20 0
+16
+	Def: 
+	Use: 
+	17 18 0
+17
+	Def: 
+	Use: 
+	18 0
+18
+	Def: 
+	Use: 
+	0
+19
+	Def: 
+	Use: 
+	20 0
+20
+	Def: 
+	Use: 
+	21 23 0
+21
+	Def: 
+	Use: 
+	0
+22
+	Def: 
+	Use: 
+	23 0
+23
+	Def: 
+	Use: 
+	24 28 0
+24
+	Def: 
+	Use: 
+	25 26 0
+25
+	Def: 
+	Use: 
+	26 0
+26
+	Def: 
+	Use: 
+	0
+27
+	Def: 
+	Use: 
+	28 0
+28
+	Def: 
+	Use: 
+	29 31 0
+29
+	Def: 
+	Use: 
+	0
+30
+	Def: 
+	Use: 
+	31 0
+31
+	Def: 
+	Use: 
+	32 36 0
+32
+	Def: 
+	Use: 
+	33 34 0
+33
+	Def: 
+	Use: 
+	34 0
+34
+	Def: 
+	Use: 
+	0
+35
+	Def: 
+	Use: 
+	36 0
+36
+	Def: 
+	Use: 
+	0
+37
+	Def: 
+	Use: 
+	0
+@addscan
+43
+
+1
+	Def: 
+	Use: 
+	2 3 0
+2
+	Def: 
+	Use: 
+	4 0
+3
+	Def: 
+	Use: 
+	4 0
+4
+	Def: 
+	Use: 
+	5 0
+5
+	Def: 
+	Use: 
+	6 34 0
+6
+	Def: 
+	Use: 
+	7 9 0
+7
+	Def: 
+	Use: 
+	5 0
+8
+	Def: 
+	Use: 
+	9 0
+9
+	Def: 
+	Use: 
+	10 17 21 22 29 0
+10
+	Def: 
+	Use: 
+	11 15 0
+11
+	Def: 
+	Use: 
+	12 13 0
+12
+	Def: 
+	Use: 
+	14 0
+13
+	Def: 
+	Use: 
+	14 0
+14
+	Def: 
+	Use: 
+	16 0
+15
+	Def: 
+	Use: 
+	16 0
+16
+	Def: 
+	Use: 
+	30 0
+17
+	Def: 
+	Use: 
+	18 19 0
+18
+	Def: 
+	Use: 
+	20 0
+19
+	Def: 
+	Use: 
+	20 0
+20
+	Def: 
+	Use: 
+	30 0
+21
+	Def: 
+	Use: 
+	30 0
+22
+	Def: 
+	Use: 
+	23 25 0
+23
+	Def: 
+	Use: 
+	0
+24
+	Def: 
+	Use: 
+	25 0
+25
+	Def: 
+	Use: 
+	26 27 0
+26
+	Def: 
+	Use: 
+	28 0
+27
+	Def: 
+	Use: 
+	28 0
+28
+	Def: 
+	Use: 
+	30 0
+29
+	Def: 
+	Use: 
+	30 0
+30
+	Def: 
+	Use: 
+	31 32 0
+31
+	Def: 
+	Use: 
+	33 0
+32
+	Def: 
+	Use: 
+	33 0
+33
+	Def: 
+	Use: 
+	5 0
+34
+	Def: 
+	Use: 
+	35 36 0
+35
+	Def: 
+	Use: 
+	36 0
+36
+	Def: 
+	Use: 
+	37 38 0
+37
+	Def: 
+	Use: 
+	42 0
+38
+	Def: 
+	Use: 
+	39 40 0
+39
+	Def: 
+	Use: 
+	41 0
+40
+	Def: 
+	Use: 
+	41 0
+41
+	Def: 
+	Use: 
+	42 0
+42
+	Def: 
+	Use: 
+	0
+43
+	Def: 
+	Use: 
+	0
+@adremdef
+19
+
+1
+	Def: 
+	Use: 
+	2 4 0
+2
+	Def: 
+	Use: 
+	0
+3
+	Def: 
+	Use: 
+	4 0
+4
+	Def: 
+	Use: 
+	5 7 0
+5
+	Def: 
+	Use: 
+	0
+6
+	Def: 
+	Use: 
+	7 0
+7
+	Def: 
+	Use: 
+	8 9 0
+8
+	Def: 
+	Use: 
+	9 0
+9
+	Def: 
+	Use: 
+	10 12 0
+10
+	Def: 
+	Use: 
+	0
+11
+	Def: 
+	Use: 
+	12 0
+12
+	Def: 
+	Use: 
+	13 15 0
+13
+	Def: 
+	Use: 
+	0
+14
+	Def: 
+	Use: 
+	15 0
+15
+	Def: 
+	Use: 
+	16 18 0
+16
+	Def: 
+	Use: 
+	0
+17
+	Def: 
+	Use: 
+	18 0
+18
+	Def: 
+	Use: 
+	0
+19
+	Def: 
+	Use: 
+	0
+@ampunit
+11
+
+1
+	Def: 
+	Use: 
+	2 3 0
+2
+	Def: 
+	Use: 
+	10 0
+3
+	Def: 
+	Use: 
+	4 5 0
+4
+	Def: 
+	Use: 
+	9 0
+5
+	Def: 
+	Use: 
+	6 7 0
+6
+	Def: 
+	Use: 
+	8 0
+7
+	Def: 
+	Use: 
+	0
+8
+	Def: 
+	Use: 
+	9 0
+9
+	Def: 
+	Use: 
+	10 0
+10
+	Def: 
+	Use: 
+	0
+11
+	Def: 
+	Use: 
+	0
+@ampval
+7
+
+1
+	Def: 
+	Use: 
+	2 4 0
+2
+	Def: 
+	Use: 
+	0
+3
+	Def: 
+	Use: 
+	4 0
+4
+	Def: 
+	Use: 
+	5 6 0
+5
+	Def: 
+	Use: 
+	6 0
+6
+	Def: 
+	Use: 
+	0
+7
+	Def: 
+	Use: 
+	0
+@angclaus
+10
+
+1
+	Def: 
+	Use: 
+	2 4 0
+2
+	Def: 
+	Use: 
+	0
+3
+	Def: 
+	Use: 
+	4 0
+4
+	Def: 
+	Use: 
+	5 7 0
+5
+	Def: 
+	Use: 
+	0
+6
+	Def: 
+	Use: 
+	7 0
+7
+	Def: 
+	Use: 
+	8 9 0
+8
+	Def: 
+	Use: 
+	9 0
+9
+	Def: 
+	Use: 
+	0
+10
+	Def: 
+	Use: 
+	0
+@angledir
+14
+
+1
+	Def: 
+	Use: 
+	2 4 0
+2
+	Def: 
+	Use: 
+	0
+3
+	Def: 
+	Use: 
+	4 0
+4
+	Def: 
+	Use: 
+	5 7 0
+5
+	Def: 
+	Use: 
+	0
+6
+	Def: 
+	Use: 
+	7 0
+7
+	Def: 
+	Use: 
+	8 10 0
+8
+	Def: 
+	Use: 
+	0
+9
+	Def: 
+	Use: 
+	10 0
+10
+	Def: 
+	Use: 
+	11 13 0
+11
+	Def: 
+	Use: 
+	0
+12
+	Def: 
+	Use: 
+	13 0
+13
+	Def: 
+	Use: 
+	0
+14
+	Def: 
+	Use: 
+	0
+@anglerot
+11
+
+1
+	Def: 
+	Use: 
+	2 4 0
+2
+	Def: 
+	Use: 
+	0
+3
+	Def: 
+	Use: 
+	4 0
+4
+	Def: 
+	Use: 
+	5 7 0
+5
+	Def: 
+	Use: 
+	0
+6
+	Def: 
+	Use: 
+	7 0
+7
+	Def: 
+	Use: 
+	8 10 0
+8
+	Def: 
+	Use: 
+	0
+9
+	Def: 
+	Use: 
+	10 0
+10
+	Def: 
+	Use: 
+	0
+11
+	Def: 
+	Use: 
+	0
+@angstep
+10
+
+1
+	Def: 
+	Use: 
+	2 3 0
+2
+	Def: 
+	Use: 
+	3 0
+3
+	Def: 
+	Use: 
+	4 6 0
+4
+	Def: 
+	Use: 
+	0
+5
+	Def: 
+	Use: 
+	6 0
+6
+	Def: 
+	Use: 
+	7 9 0
+7
+	Def: 
+	Use: 
+	0
+8
+	Def: 
+	Use: 
+	9 0
+9
+	Def: 
+	Use: 
+	0
+10
+	Def: 
+	Use: 
+	0
+@angunit
+8
+
+1
+	Def: 
+	Use: 
+	2 3 0
+2
+	Def: 
+	Use: 
+	7 0
+3
+	Def: 
+	Use: 
+	4 5 0
+4
+	Def: 
+	Use: 
+	6 0
+5
+	Def: 
+	Use: 
+	0
+6
+	Def: 
+	Use: 
+	7 0
+7
+	Def: 
+	Use: 
+	0
+8
+	Def: 
+	Use: 
+	0
+@angval
+7
+
+1
+	Def: 
+	Use: 
+	2 4 0
+2
+	Def: 
+	Use: 
+	0
+3
+	Def: 
+	Use: 
+	4 0
+4
+	Def: 
+	Use: 
+	5 6 0
+5
+	Def: 
+	Use: 
+	6 0
+6
+	Def: 
+	Use: 
+	0
+7
+	Def: 
+	Use: 
+	0
+@answer
+7
+
+1
+	Def: 
+	Use: 
+	2 4 0
+2
+	Def: 
+	Use: 
+	0
+3
+	Def: 
+	Use: 
+	4 0
+4
+	Def: 
+	Use: 
+	5 6 0
+5
+	Def: 
+	Use: 
+	0
+6
+	Def: 
+	Use: 
+	0
+7
+	Def: 
+	Use: 
+	0
+@beampha
+16
+
+1
+	Def: 
+	Use: 
+	2 4 0
+2
+	Def: 
+	Use: 
+	0
+3
+	Def: 
+	Use: 
+	4 0
+4
+	Def: 
+	Use: 
+	5 7 0
+5
+	Def: 
+	Use: 
+	0
+6
+	Def: 
+	Use: 
+	7 0
+7
+	Def: 
+	Use: 
+	8 9 0
+8
+	Def: 
+	Use: 
+	9 0
+9
+	Def: 
+	Use: 
+	10 12 0
+10
+	Def: 
+	Use: 
+	0
+11
+	Def: 
+	Use: 
+	12 0
+12
+	Def: 
+	Use: 
+	13 15 0
+13
+	Def: 
+	Use: 
+	0
+14
+	Def: 
+	Use: 
+	15 0
+15
+	Def: 
+	Use: 
+	0
+16
+	Def: 
+	Use: 
+	0
+@blockdef
+21
+
+1
+	Def: 
+	Use: 
+	2 4 0
+2
+	Def: 
+	Use: 
+	0
+3
+	Def: 
+	Use: 
+	4 0
+4
+	Def: 
+	Use: 
+	5 7 0
+5
+	Def: 
+	Use: 
+	0
+6
+	Def: 
+	Use: 
+	7 0
+7
+	Def: 
+	Use: 
+	8 10 0
+8
+	Def: 
+	Use: 
+	0
+9
+	Def: 
+	Use: 
+	10 0
+10
+	Def: 
+	Use: 
+	11 12 0
+11
+	Def: 
+	Use: 
+	12 0
+12
+	Def: 
+	Use: 
+	13 15 0
+13
+	Def: 
+	Use: 
+	0
+14
+	Def: 
+	Use: 
+	15 0
+15
+	Def: 
+	Use: 
+	16 18 0
+16
+	Def: 
+	Use: 
+	0
+17
+	Def: 
+	Use: 
+	18 0
+18
+	Def: 
+	Use: 
+	19 20 0
+19
+	Def: 
+	Use: 
+	20 0
+20
+	Def: 
+	Use: 
+	0
+21
+	Def: 
+	Use: 
+	0
+@circpol
+11
+
+1
+	Def: 
+	Use: 
+	2 4 0
+2
+	Def: 
+	Use: 
+	0
+3
+	Def: 
+	Use: 
+	4 0
+4
+	Def: 
+	Use: 
+	5 7 0
+5
+	Def: 
+	Use: 
+	0
+6
+	Def: 
+	Use: 
+	7 0
+7
+	Def: 
+	Use: 
+	8 10 0
+8
+	Def: 
+	Use: 
+	0
+9
+	Def: 
+	Use: 
+	10 0
+10
+	Def: 
+	Use: 
+	0
+11
+	Def: 
+	Use: 
+	0
+@circspec
+10
+
+1
+	Def: 
+	Use: 
+	2 4 0
+2
+	Def: 
+	Use: 
+	0
+3
+	Def: 
+	Use: 
+	4 0
+4
+	Def: 
+	Use: 
+	5 7 0
+5
+	Def: 
+	Use: 
+	0
+6
+	Def: 
+	Use: 
+	7 0
+7
+	Def: 
+	Use: 
+	8 9 0
+8
+	Def: 
+	Use: 
+	9 0
+9
+	Def: 
+	Use: 
+	0
+10
+	Def: 
+	Use: 
+	0
+@cosinus
+8
+
+1
+	Def: 
+	Use: 
+	2 4 0
+2
+	Def: 
+	Use: 
+	0
+3
+	Def: 
+	Use: 
+	4 0
+4
+	Def: 
+	Use: 
+	5 7 0
+5
+	Def: 
+	Use: 
+	0
+6
+	Def: 
+	Use: 
+	7 0
+7
+	Def: 
+	Use: 
+	0
+8
+	Def: 
+	Use: 
+	0
+@dacos
+2
+
+1
+	Def: 
+	Use: 
+	0
+2
+	Def: 
+	Use: 
+	0
+@dasin
+2
+
+1
+	Def: 
+	Use: 
+	0
+2
+	Def: 
+	Use: 
+	0
+@datan
+2
+
+1
+	Def: 
+	Use: 
+	0
+2
+	Def: 
+	Use: 
+	0
+@dcos
+2
+
+1
+	Def: 
+	Use: 
+	0
+2
+	Def: 
+	Use: 
+	0
+@degconv
+6
+
+1
+	Def: 
+	Use: 
+	2 3 4 0
+2
+	Def: 
+	Use: 
+	5 0
+3
+	Def: 
+	Use: 
+	5 0
+4
+	Def: 
+	Use: 
+	5 0
+5
+	Def: 
+	Use: 
+	0
+6
+	Def: 
+	Use: 
+	0
+@doubmax
+4
+
+1
+	Def: 
+	Use: 
+	2 3 0
+2
+	Def: 
+	Use: 
+	0
+3
+	Def: 
+	Use: 
+	0
+4
+	Def: 
+	Use: 
+	0
+@doubmin
+4
+
+1
+	Def: 
+	Use: 
+	2 3 0
+2
+	Def: 
+	Use: 
+	0
+3
+	Def: 
+	Use: 
+	0
+4
+	Def: 
+	Use: 
+	0
+@doubstep
+16
+
+1
+	Def: 
+	Use: 
+	2 4 0
+2
+	Def: 
+	Use: 
+	0
+3
+	Def: 
+	Use: 
+	4 0
+4
+	Def: 
+	Use: 
+	5 7 0
+5
+	Def: 
+	Use: 
+	0
+6
+	Def: 
+	Use: 
+	7 0
+7
+	Def: 
+	Use: 
+	8 10 0
+8
+	Def: 
+	Use: 
+	0
+9
+	Def: 
+	Use: 
+	10 0
+10
+	Def: 
+	Use: 
+	11 13 0
+11
+	Def: 
+	Use: 
+	0
+12
+	Def: 
+	Use: 
+	13 0
+13
+	Def: 
+	Use: 
+	14 15 0
+14
+	Def: 
+	Use: 
+	15 0
+15
+	Def: 
+	Use: 
+	0
+16
+	Def: 
+	Use: 
+	0
+@dsin
+2
+
+1
+	Def: 
+	Use: 
+	0
+2
+	Def: 
+	Use: 
+	0
+@elemdef
+13
+
+1
+	Def: 
+	Use: 
+	2 3 0
+2
+	Def: 
+	Use: 
+	3 0
+3
+	Def: 
+	Use: 
+	4 6 0
+4
+	Def: 
+	Use: 
+	0
+5
+	Def: 
+	Use: 
+	6 0
+6
+	Def: 
+	Use: 
+	7 9 0
+7
+	Def: 
+	Use: 
+	0
+8
+	Def: 
+	Use: 
+	9 0
+9
+	Def: 
+	Use: 
+	10 12 0
+10
+	Def: 
+	Use: 
+	0
+11
+	Def: 
+	Use: 
+	12 0
+12
+	Def: 
+	Use: 
+	0
+13
+	Def: 
+	Use: 
+	0
+@emsginit
+5
+
+1
+	Def: 
+	Use: 
+	2 0
+2
+	Def: 
+	Use: 
+	4 5 0
+3
+	Def: 
+	Use: 
+	2 0
+4
+	Def: 
+	Use: 
+	3 0
+5
+	Def: 
+	Use: 
+	0
+@EndOfTape
+5
+
+1
+	Def: 
+	Use: 
+	2 4 0
+2
+	Def: 
+	Use: 
+	0
+3
+	Def: 
+	Use: 
+	4 0
+4
+	Def: 
+	Use: 
+	0
+5
+	Def: 
+	Use: 
+	0
+@extmod
+5
+
+1
+	Def: 
+	Use: 
+	2 4 0
+2
+	Def: 
+	Use: 
+	0
+3
+	Def: 
+	Use: 
+	4 0
+4
+	Def: 
+	Use: 
+	0
+5
+	Def: 
+	Use: 
+	0
+@extremes
+13
+
+1
+	Def: 
+	Use: 
+	2 0
+2
+	Def: 
+	Use: 
+	3 12 0
+3
+	Def: 
+	Use: 
+	4 5 0
+4
+	Def: 
+	Use: 
+	5 0
+5
+	Def: 
+	Use: 
+	6 7 0
+6
+	Def: 
+	Use: 
+	7 0
+7
+	Def: 
+	Use: 
+	8 9 0
+8
+	Def: 
+	Use: 
+	9 0
+9
+	Def: 
+	Use: 
+	10 11 0
+10
+	Def: 
+	Use: 
+	11 0
+11
+	Def: 
+	Use: 
+	2 0
+12
+	Def: 
+	Use: 
+	0
+13
+	Def: 
+	Use: 
+	0
+@extsize
+13
+
+1
+	Def: 
+	Use: 
+	2 0
+2
+	Def: 
+	Use: 
+	3 12 0
+3
+	Def: 
+	Use: 
+	4 5 0
+4
+	Def: 
+	Use: 
+	5 0
+5
+	Def: 
+	Use: 
+	6 7 0
+6
+	Def: 
+	Use: 
+	7 0
+7
+	Def: 
+	Use: 
+	8 9 0
+8
+	Def: 
+	Use: 
+	9 0
+9
+	Def: 
+	Use: 
+	10 11 0
+10
+	Def: 
+	Use: 
+	11 0
+11
+	Def: 
+	Use: 
+	2 0
+12
+	Def: 
+	Use: 
+	0
+13
+	Def: 
+	Use: 
+	0
+@fixgramp
+9
+
+1
+	Def: 
+	Use: 
+	2 5 6 7 0
+2
+	Def: 
+	Use: 
+	3 4 0
+3
+	Def: 
+	Use: 
+	4 0
+4
+	Def: 
+	Use: 
+	8 0
+5
+	Def: 
+	Use: 
+	8 0
+6
+	Def: 
+	Use: 
+	8 0
+7
+	Def: 
+	Use: 
+	8 0
+8
+	Def: 
+	Use: 
+	0
+9
+	Def: 
+	Use: 
+	0
+@fixgrpha
+15
+
+1
+	Def: 
+	Use: 
+	2 5 6 7 12 13 0
+2
+	Def: 
+	Use: 
+	3 4 0
+3
+	Def: 
+	Use: 
+	4 0
+4
+	Def: 
+	Use: 
+	14 0
+5
+	Def: 
+	Use: 
+	14 0
+6
+	Def: 
+	Use: 
+	14 0
+7
+	Def: 
+	Use: 
+	8 9 0
+8
+	Def: 
+	Use: 
+	9 0
+9
+	Def: 
+	Use: 
+	10 11 0
+10
+	Def: 
+	Use: 
+	11 0
+11
+	Def: 
+	Use: 
+	14 0
+12
+	Def: 
+	Use: 
+	14 0
+13
+	Def: 
+	Use: 
+	14 0
+14
+	Def: 
+	Use: 
+	0
+15
+	Def: 
+	Use: 
+	0
+@fixnodor
+7
+
+1
+	Def: 
+	Use: 
+	2 3 0
+2
+	Def: 
+	Use: 
+	6 0
+3
+	Def: 
+	Use: 
+	4 5 0
+4
+	Def: 
+	Use: 
+	5 0
+5
+	Def: 
+	Use: 
+	6 0
+6
+	Def: 
+	Use: 
+	0
+7
+	Def: 
+	Use: 
+	0
+@fixport
+9
+
+1
+	Def: 
+	Use: 
+	2 0
+2
+	Def: 
+	Use: 
+	3 8 0
+3
+	Def: 
+	Use: 
+	4 7 0
+4
+	Def: 
+	Use: 
+	5 6 0
+5
+	Def: 
+	Use: 
+	6 0
+6
+	Def: 
+	Use: 
+	7 0
+7
+	Def: 
+	Use: 
+	2 0
+8
+	Def: 
+	Use: 
+	0
+9
+	Def: 
+	Use: 
+	0
+@fixselem
+10
+
+1
+	Def: 
+	Use: 
+	2 3 4 0
+2
+	Def: 
+	Use: 
+	5 0
+3
+	Def: 
+	Use: 
+	5 0
+4
+	Def: 
+	Use: 
+	5 0
+5
+	Def: 
+	Use: 
+	6 9 0
+6
+	Def: 
+	Use: 
+	7 8 0
+7
+	Def: 
+	Use: 
+	8 0
+8
+	Def: 
+	Use: 
+	9 0
+9
+	Def: 
+	Use: 
+	0
+10
+	Def: 
+	Use: 
+	0
+@fixsgrel
+78
+
+1
+	Def: 
+	Use: 
+	2 16 30 38 0
+2
+	Def: 
+	Use: 
+	3 7 0
+3
+	Def: 
+	Use: 
+	4 5 0
+4
+	Def: 
+	Use: 
+	6 0
+5
+	Def: 
+	Use: 
+	6 0
+6
+	Def: 
+	Use: 
+	15 0
+7
+	Def: 
+	Use: 
+	8 11 0
+8
+	Def: 
+	Use: 
+	9 10 0
+9
+	Def: 
+	Use: 
+	10 0
+10
+	Def: 
+	Use: 
+	14 0
+11
+	Def: 
+	Use: 
+	12 13 0
+12
+	Def: 
+	Use: 
+	13 0
+13
+	Def: 
+	Use: 
+	14 0
+14
+	Def: 
+	Use: 
+	15 0
+15
+	Def: 
+	Use: 
+	77 0
+16
+	Def: 
+	Use: 
+	17 21 0
+17
+	Def: 
+	Use: 
+	18 19 0
+18
+	Def: 
+	Use: 
+	20 0
+19
+	Def: 
+	Use: 
+	20 0
+20
+	Def: 
+	Use: 
+	29 0
+21
+	Def: 
+	Use: 
+	22 25 0
+22
+	Def: 
+	Use: 
+	23 24 0
+23
+	Def: 
+	Use: 
+	24 0
+24
+	Def: 
+	Use: 
+	28 0
+25
+	Def: 
+	Use: 
+	26 27 0
+26
+	Def: 
+	Use: 
+	27 0
+27
+	Def: 
+	Use: 
+	28 0
+28
+	Def: 
+	Use: 
+	29 0
+29
+	Def: 
+	Use: 
+	77 0
+30
+	Def: 
+	Use: 
+	31 32 0
+31
+	Def: 
+	Use: 
+	32 0
+32
+	Def: 
+	Use: 
+	33 34 0
+33
+	Def: 
+	Use: 
+	37 0
+34
+	Def: 
+	Use: 
+	35 36 0
+35
+	Def: 
+	Use: 
+	36 0
+36
+	Def: 
+	Use: 
+	37 0
+37
+	Def: 
+	Use: 
+	77 0
+38
+	Def: 
+	Use: 
+	39 40 0
+39
+	Def: 
+	Use: 
+	64 0
+40
+	Def: 
+	Use: 
+	41 51 0
+41
+	Def: 
+	Use: 
+	42 49 50 0
+42
+	Def: 
+	Use: 
+	43 44 0
+43
+	Def: 
+	Use: 
+	48 0
+44
+	Def: 
+	Use: 
+	45 46 0
+45
+	Def: 
+	Use: 
+	47 0
+46
+	Def: 
+	Use: 
+	47 0
+47
+	Def: 
+	Use: 
+	48 0
+48
+	Def: 
+	Use: 
+	50 0
+49
+	Def: 
+	Use: 
+	50 0
+50
+	Def: 
+	Use: 
+	63 0
+51
+	Def: 
+	Use: 
+	52 62 0
+52
+	Def: 
+	Use: 
+	53 56 0
+53
+	Def: 
+	Use: 
+	54 55 0
+54
+	Def: 
+	Use: 
+	55 0
+55
+	Def: 
+	Use: 
+	61 0
+56
+	Def: 
+	Use: 
+	57 60 0
+57
+	Def: 
+	Use: 
+	58 59 0
+58
+	Def: 
+	Use: 
+	59 0
+59
+	Def: 
+	Use: 
+	60 0
+60
+	Def: 
+	Use: 
+	61 0
+61
+	Def: 
+	Use: 
+	62 0
+62
+	Def: 
+	Use: 
+	63 0
+63
+	Def: 
+	Use: 
+	64 0
+64
+	Def: 
+	Use: 
+	65 70 76 0
+65
+	Def: 
+	Use: 
+	66 67 0
+66
+	Def: 
+	Use: 
+	67 0
+67
+	Def: 
+	Use: 
+	68 69 0
+68
+	Def: 
+	Use: 
+	69 0
+69
+	Def: 
+	Use: 
+	76 0
+70
+	Def: 
+	Use: 
+	71 72 0
+71
+	Def: 
+	Use: 
+	72 0
+72
+	Def: 
+	Use: 
+	73 74 0
+73
+	Def: 
+	Use: 
+	74 0
+74
+	Def: 
+	Use: 
+	76 0
+75
+	Def: 
+	Use: 
+	76 0
+76
+	Def: 
+	Use: 
+	77 0
+77
+	Def: 
+	Use: 
+	0
+78
+	Def: 
+	Use: 
+	0
+@fixsgrid
+24
+
+1
+	Def: 
+	Use: 
+	2 3 7 11 15 23 0
+2
+	Def: 
+	Use: 
+	23 0
+3
+	Def: 
+	Use: 
+	4 5 0
+4
+	Def: 
+	Use: 
+	6 0
+5
+	Def: 
+	Use: 
+	6 0
+6
+	Def: 
+	Use: 
+	23 0
+7
+	Def: 
+	Use: 
+	8 9 0
+8
+	Def: 
+	Use: 
+	10 0
+9
+	Def: 
+	Use: 
+	10 0
+10
+	Def: 
+	Use: 
+	23 0
+11
+	Def: 
+	Use: 
+	12 13 0
+12
+	Def: 
+	Use: 
+	14 0
+13
+	Def: 
+	Use: 
+	14 0
+14
+	Def: 
+	Use: 
+	23 0
+15
+	Def: 
+	Use: 
+	16 17 0
+16
+	Def: 
+	Use: 
+	17 0
+17
+	Def: 
+	Use: 
+	18 19 0
+18
+	Def: 
+	Use: 
+	19 0
+19
+	Def: 
+	Use: 
+	20 21 0
+20
+	Def: 
+	Use: 
+	21 0
+21
+	Def: 
+	Use: 
+	23 0
+22
+	Def: 
+	Use: 
+	23 0
+23
+	Def: 
+	Use: 
+	0
+24
+	Def: 
+	Use: 
+	0
+@floatsup
+1
+
+1
+	Def: 
+	Use: 
+	0
+@gainspec
+8
+
+1
+	Def: 
+	Use: 
+	2 4 0
+2
+	Def: 
+	Use: 
+	0
+3
+	Def: 
+	Use: 
+	4 0
+4
+	Def: 
+	Use: 
+	5 7 0
+5
+	Def: 
+	Use: 
+	0
+6
+	Def: 
+	Use: 
+	7 0
+7
+	Def: 
+	Use: 
+	0
+8
+	Def: 
+	Use: 
+	0
+@gainunit
+8
+
+1
+	Def: 
+	Use: 
+	2 3 0
+2
+	Def: 
+	Use: 
+	7 0
+3
+	Def: 
+	Use: 
+	4 5 0
+4
+	Def: 
+	Use: 
+	6 0
+5
+	Def: 
+	Use: 
+	0
+6
+	Def: 
+	Use: 
+	7 0
+7
+	Def: 
+	Use: 
+	0
+8
+	Def: 
+	Use: 
+	0
+@gainval
+7
+
+1
+	Def: 
+	Use: 
+	2 4 0
+2
+	Def: 
+	Use: 
+	0
+3
+	Def: 
+	Use: 
+	4 0
+4
+	Def: 
+	Use: 
+	5 6 0
+5
+	Def: 
+	Use: 
+	6 0
+6
+	Def: 
+	Use: 
+	0
+7
+	Def: 
+	Use: 
+	0
+@gaussel
+21
+
+1
+	Def: 
+	Use: 
+	2 4 0
+2
+	Def: 
+	Use: 
+	0
+3
+	Def: 
+	Use: 
+	4 0
+4
+	Def: 
+	Use: 
+	5 7 0
+5
+	Def: 
+	Use: 
+	0
+6
+	Def: 
+	Use: 
+	7 0
+7
+	Def: 
+	Use: 
+	8 10 0
+8
+	Def: 
+	Use: 
+	0
+9
+	Def: 
+	Use: 
+	10 0
+10
+	Def: 
+	Use: 
+	11 12 0
+11
+	Def: 
+	Use: 
+	12 0
+12
+	Def: 
+	Use: 
+	13 15 0
+13
+	Def: 
+	Use: 
+	0
+14
+	Def: 
+	Use: 
+	15 0
+15
+	Def: 
+	Use: 
+	16 18 0
+16
+	Def: 
+	Use: 
+	0
+17
+	Def: 
+	Use: 
+	18 0
+18
+	Def: 
+	Use: 
+	19 20 0
+19
+	Def: 
+	Use: 
+	20 0
+20
+	Def: 
+	Use: 
+	0
+21
+	Def: 
+	Use: 
+	0
+@geomspec
+17
+
+1
+	Def: 
+	Use: 
+	2 4 0
+2
+	Def: 
+	Use: 
+	0
+3
+	Def: 
+	Use: 
+	4 0
+4
+	Def: 
+	Use: 
+	5 7 0
+5
+	Def: 
+	Use: 
+	0
+6
+	Def: 
+	Use: 
+	7 0
+7
+	Def: 
+	Use: 
+	8 10 0
+8
+	Def: 
+	Use: 
+	0
+9
+	Def: 
+	Use: 
+	10 0
+10
+	Def: 
+	Use: 
+	11 13 0
+11
+	Def: 
+	Use: 
+	0
+12
+	Def: 
+	Use: 
+	13 0
+13
+	Def: 
+	Use: 
+	14 16 0
+14
+	Def: 
+	Use: 
+	0
+15
+	Def: 
+	Use: 
+	16 0
+16
+	Def: 
+	Use: 
+	0
+17
+	Def: 
+	Use: 
+	0
+@Get1Real
+8
+
+1
+	Def: 
+	Use: 
+	2 4 0
+2
+	Def: 
+	Use: 
+	0
+3
+	Def: 
+	Use: 
+	4 0
+4
+	Def: 
+	Use: 
+	5 7 0
+5
+	Def: 
+	Use: 
+	0
+6
+	Def: 
+	Use: 
+	7 0
+7
+	Def: 
+	Use: 
+	0
+8
+	Def: 
+	Use: 
+	0
+@GetInt
+13
+
+1
+	Def: 
+	Use: 
+	2 3 0
+2
+	Def: 
+	Use: 
+	0
+3
+	Def: 
+	Use: 
+	4 0
+4
+	Def: 
+	Use: 
+	5 8 0
+5
+	Def: 
+	Use: 
+	6 7 0
+6
+	Def: 
+	Use: 
+	7 0
+7
+	Def: 
+	Use: 
+	4 0
+8
+	Def: 
+	Use: 
+	9 11 0
+9
+	Def: 
+	Use: 
+	0
+10
+	Def: 
+	Use: 
+	12 0
+11
+	Def: 
+	Use: 
+	12 0
+12
+	Def: 
+	Use: 
+	0
+13
+	Def: 
+	Use: 
+	0
+@GetKeyword
+8
+
+1
+	Def: 
+	Use: 
+	2 0
+2
+	Def: 
+	Use: 
+	3 4 0
+3
+	Def: 
+	Use: 
+	2 0
+4
+	Def: 
+	Use: 
+	5 7 0
+5
+	Def: 
+	Use: 
+	0
+6
+	Def: 
+	Use: 
+	8 0
+7
+	Def: 
+	Use: 
+	0
+8
+	Def: 
+	Use: 
+	0
+@GetNatur
+11
+
+1
+	Def: 
+	Use: 
+	2 4 0
+2
+	Def: 
+	Use: 
+	0
+3
+	Def: 
+	Use: 
+	4 0
+4
+	Def: 
+	Use: 
+	5 7 0
+5
+	Def: 
+	Use: 
+	0
+6
+	Def: 
+	Use: 
+	7 0
+7
+	Def: 
+	Use: 
+	8 10 0
+8
+	Def: 
+	Use: 
+	0
+9
+	Def: 
+	Use: 
+	10 0
+10
+	Def: 
+	Use: 
+	0
+11
+	Def: 
+	Use: 
+	0
+@GetReal
+12
+
+1
+	Def: 
+	Use: 
+	2 3 0
+2
+	Def: 
+	Use: 
+	0
+3
+	Def: 
+	Use: 
+	4 0
+4
+	Def: 
+	Use: 
+	5 8 0
+5
+	Def: 
+	Use: 
+	6 7 0
+6
+	Def: 
+	Use: 
+	7 0
+7
+	Def: 
+	Use: 
+	4 0
+8
+	Def: 
+	Use: 
+	9 10 0
+9
+	Def: 
+	Use: 
+	11 0
+10
+	Def: 
+	Use: 
+	11 0
+11
+	Def: 
+	Use: 
+	0
+12
+	Def: 
+	Use: 
+	0
+@GetUName
+20
+
+1
+	Def: 
+	Use: 
+	2 0
+2
+	Def: 
+	Use: 
+	3 6 0
+3
+	Def: 
+	Use: 
+	4 5 0
+4
+	Def: 
+	Use: 
+	5 0
+5
+	Def: 
+	Use: 
+	2 0
+6
+	Def: 
+	Use: 
+	7 8 0
+7
+	Def: 
+	Use: 
+	9 0
+8
+	Def: 
+	Use: 
+	9 0
+9
+	Def: 
+	Use: 
+	10 11 0
+10
+	Def: 
+	Use: 
+	11 0
+11
+	Def: 
+	Use: 
+	12 13 0
+12
+	Def: 
+	Use: 
+	0
+13
+	Def: 
+	Use: 
+	14 16 0
+14
+	Def: 
+	Use: 
+	0
+15
+	Def: 
+	Use: 
+	16 0
+16
+	Def: 
+	Use: 
+	17 19 0
+17
+	Def: 
+	Use: 
+	0
+18
+	Def: 
+	Use: 
+	19 0
+19
+	Def: 
+	Use: 
+	0
+20
+	Def: 
+	Use: 
+	0
+@GetUReal
+8
+
+1
+	Def: 
+	Use: 
+	2 4 0
+2
+	Def: 
+	Use: 
+	0
+3
+	Def: 
+	Use: 
+	4 0
+4
+	Def: 
+	Use: 
+	5 7 0
+5
+	Def: 
+	Use: 
+	0
+6
+	Def: 
+	Use: 
+	7 0
+7
+	Def: 
+	Use: 
+	0
+8
+	Def: 
+	Use: 
+	0
+@glvainit
+1
+
+1
+	Def: 
+	Use: 
+	0
+@gnodevis
+4
+
+1
+	Def: 
+	Use: 
+	2 3 0
+2
+	Def: 
+	Use: 
+	3 0
+3
+	Def: 
+	Use: 
+	0
+4
+	Def: 
+	Use: 
+	0
+@gnodfind
+7
+
+1
+	Def: 
+	Use: 
+	2 0
+2
+	Def: 
+	Use: 
+	3 4 0
+3
+	Def: 
+	Use: 
+	2 0
+4
+	Def: 
+	Use: 
+	5 6 0
+5
+	Def: 
+	Use: 
+	0
+6
+	Def: 
+	Use: 
+	0
+7
+	Def: 
+	Use: 
+	0
+@grampexc
+18
+
+1
+	Def: 
+	Use: 
+	2 4 0
+2
+	Def: 
+	Use: 
+	0
+3
+	Def: 
+	Use: 
+	4 0
+4
+	Def: 
+	Use: 
+	5 9 0
+5
+	Def: 
+	Use: 
+	6 7 0
+6
+	Def: 
+	Use: 
+	7 0
+7
+	Def: 
+	Use: 
+	0
+8
+	Def: 
+	Use: 
+	9 0
+9
+	Def: 
+	Use: 
+	10 12 0
+10
+	Def: 
+	Use: 
+	0
+11
+	Def: 
+	Use: 
+	12 0
+12
+	Def: 
+	Use: 
+	13 17 0
+13
+	Def: 
+	Use: 
+	14 15 0
+14
+	Def: 
+	Use: 
+	15 0
+15
+	Def: 
+	Use: 
+	0
+16
+	Def: 
+	Use: 
+	17 0
+17
+	Def: 
+	Use: 
+	0
+18
+	Def: 
+	Use: 
+	0
+@greldef
+14
+
+1
+	Def: 
+	Use: 
+	2 4 0
+2
+	Def: 
+	Use: 
+	0
+3
+	Def: 
+	Use: 
+	4 0
+4
+	Def: 
+	Use: 
+	5 7 0
+5
+	Def: 
+	Use: 
+	0
+6
+	Def: 
+	Use: 
+	7 0
+7
+	Def: 
+	Use: 
+	8 10 0
+8
+	Def: 
+	Use: 
+	0
+9
+	Def: 
+	Use: 
+	10 0
+10
+	Def: 
+	Use: 
+	11 13 0
+11
+	Def: 
+	Use: 
+	0
+12
+	Def: 
+	Use: 
+	13 0
+13
+	Def: 
+	Use: 
+	0
+14
+	Def: 
+	Use: 
+	0
+@grexcdef
+11
+
+1
+	Def: 
+	Use: 
+	2 4 0
+2
+	Def: 
+	Use: 
+	0
+3
+	Def: 
+	Use: 
+	4 0
+4
+	Def: 
+	Use: 
+	5 7 0
+5
+	Def: 
+	Use: 
+	0
+6
+	Def: 
+	Use: 
+	7 0
+7
+	Def: 
+	Use: 
+	8 10 0
+8
+	Def: 
+	Use: 
+	0
+9
+	Def: 
+	Use: 
+	10 0
+10
+	Def: 
+	Use: 
+	0
+11
+	Def: 
+	Use: 
+	0
+@grgeodef
+17
+
+1
+	Def: 
+	Use: 
+	2 4 0
+2
+	Def: 
+	Use: 
+	0
+3
+	Def: 
+	Use: 
+	4 0
+4
+	Def: 
+	Use: 
+	5 7 0
+5
+	Def: 
+	Use: 
+	0
+6
+	Def: 
+	Use: 
+	7 0
+7
+	Def: 
+	Use: 
+	8 0
+8
+	Def: 
+	Use: 
+	9 16 0
+9
+	Def: 
+	Use: 
+	10 12 0
+10
+	Def: 
+	Use: 
+	0
+11
+	Def: 
+	Use: 
+	12 0
+12
+	Def: 
+	Use: 
+	13 15 0
+13
+	Def: 
+	Use: 
+	0
+14
+	Def: 
+	Use: 
+	15 0
+15
+	Def: 
+	Use: 
+	8 0
+16
+	Def: 
+	Use: 
+	17 0
+17
+	Def: 
+	Use: 
+	0
+@griddef1
+28
+
+1
+	Def: 
+	Use: 
+	2 4 0
+2
+	Def: 
+	Use: 
+	0
+3
+	Def: 
+	Use: 
+	4 0
+4
+	Def: 
+	Use: 
+	5 7 0
+5
+	Def: 
+	Use: 
+	0
+6
+	Def: 
+	Use: 
+	7 0
+7
+	Def: 
+	Use: 
+	8 12 0
+8
+	Def: 
+	Use: 
+	9 11 0
+9
+	Def: 
+	Use: 
+	0
+10
+	Def: 
+	Use: 
+	11 0
+11
+	Def: 
+	Use: 
+	12 0
+12
+	Def: 
+	Use: 
+	13 17 0
+13
+	Def: 
+	Use: 
+	14 16 0
+14
+	Def: 
+	Use: 
+	0
+15
+	Def: 
+	Use: 
+	16 0
+16
+	Def: 
+	Use: 
+	17 0
+17
+	Def: 
+	Use: 
+	18 22 0
+18
+	Def: 
+	Use: 
+	19 21 0
+19
+	Def: 
+	Use: 
+	0
+20
+	Def: 
+	Use: 
+	21 0
+21
+	Def: 
+	Use: 
+	22 0
+22
+	Def: 
+	Use: 
+	23 25 0
+23
+	Def: 
+	Use: 
+	0
+24
+	Def: 
+	Use: 
+	25 0
+25
+	Def: 
+	Use: 
+	26 27 0
+26
+	Def: 
+	Use: 
+	27 0
+27
+	Def: 
+	Use: 
+	0
+28
+	Def: 
+	Use: 
+	0
+@groupdef
+27
+
+1
+	Def: 
+	Use: 
+	2 4 0
+2
+	Def: 
+	Use: 
+	0
+3
+	Def: 
+	Use: 
+	4 0
+4
+	Def: 
+	Use: 
+	5 7 0
+5
+	Def: 
+	Use: 
+	0
+6
+	Def: 
+	Use: 
+	7 0
+7
+	Def: 
+	Use: 
+	8 10 0
+8
+	Def: 
+	Use: 
+	0
+9
+	Def: 
+	Use: 
+	10 0
+10
+	Def: 
+	Use: 
+	11 13 0
+11
+	Def: 
+	Use: 
+	0
+12
+	Def: 
+	Use: 
+	13 0
+13
+	Def: 
+	Use: 
+	14 15 0
+14
+	Def: 
+	Use: 
+	15 0
+15
+	Def: 
+	Use: 
+	16 18 0
+16
+	Def: 
+	Use: 
+	0
+17
+	Def: 
+	Use: 
+	18 0
+18
+	Def: 
+	Use: 
+	19 21 0
+19
+	Def: 
+	Use: 
+	0
+20
+	Def: 
+	Use: 
+	21 0
+21
+	Def: 
+	Use: 
+	22 24 0
+22
+	Def: 
+	Use: 
+	0
+23
+	Def: 
+	Use: 
+	24 0
+24
+	Def: 
+	Use: 
+	25 26 0
+25
+	Def: 
+	Use: 
+	26 0
+26
+	Def: 
+	Use: 
+	0
+27
+	Def: 
+	Use: 
+	0
+@grphaexc
+34
+
+1
+	Def: 
+	Use: 
+	2 4 0
+2
+	Def: 
+	Use: 
+	0
+3
+	Def: 
+	Use: 
+	4 0
+4
+	Def: 
+	Use: 
+	5 9 0
+5
+	Def: 
+	Use: 
+	6 7 0
+6
+	Def: 
+	Use: 
+	7 0
+7
+	Def: 
+	Use: 
+	0
+8
+	Def: 
+	Use: 
+	9 0
+9
+	Def: 
+	Use: 
+	10 12 0
+10
+	Def: 
+	Use: 
+	0
+11
+	Def: 
+	Use: 
+	12 0
+12
+	Def: 
+	Use: 
+	13 17 0
+13
+	Def: 
+	Use: 
+	14 15 0
+14
+	Def: 
+	Use: 
+	15 0
+15
+	Def: 
+	Use: 
+	0
+16
+	Def: 
+	Use: 
+	17 0
+17
+	Def: 
+	Use: 
+	18 20 0
+18
+	Def: 
+	Use: 
+	0
+19
+	Def: 
+	Use: 
+	20 0
+20
+	Def: 
+	Use: 
+	21 25 0
+21
+	Def: 
+	Use: 
+	22 23 0
+22
+	Def: 
+	Use: 
+	23 0
+23
+	Def: 
+	Use: 
+	0
+24
+	Def: 
+	Use: 
+	25 0
+25
+	Def: 
+	Use: 
+	26 28 0
+26
+	Def: 
+	Use: 
+	0
+27
+	Def: 
+	Use: 
+	28 0
+28
+	Def: 
+	Use: 
+	29 33 0
+29
+	Def: 
+	Use: 
+	30 31 0
+30
+	Def: 
+	Use: 
+	31 0
+31
+	Def: 
+	Use: 
+	0
+32
+	Def: 
+	Use: 
+	33 0
+33
+	Def: 
+	Use: 
+	0
+34
+	Def: 
+	Use: 
+	0
+@grwrite
+10
+
+1
+	Def: 
+	Use: 
+	2 3 0
+2
+	Def: 
+	Use: 
+	3 0
+3
+	Def: 
+	Use: 
+	4 0
+4
+	Def: 
+	Use: 
+	5 9 0
+5
+	Def: 
+	Use: 
+	6 0
+6
+	Def: 
+	Use: 
+	7 8 0
+7
+	Def: 
+	Use: 
+	6 0
+8
+	Def: 
+	Use: 
+	4 0
+9
+	Def: 
+	Use: 
+	0
+10
+	Def: 
+	Use: 
+	0
+@hexdef
+13
+
+1
+	Def: 
+	Use: 
+	2 4 0
+2
+	Def: 
+	Use: 
+	0
+3
+	Def: 
+	Use: 
+	4 0
+4
+	Def: 
+	Use: 
+	5 7 0
+5
+	Def: 
+	Use: 
+	0
+6
+	Def: 
+	Use: 
+	7 0
+7
+	Def: 
+	Use: 
+	8 10 0
+8
+	Def: 
+	Use: 
+	0
+9
+	Def: 
+	Use: 
+	10 0
+10
+	Def: 
+	Use: 
+	11 12 0
+11
+	Def: 
+	Use: 
+	12 0
+12
+	Def: 
+	Use: 
+	0
+13
+	Def: 
+	Use: 
+	0
+@hexgrdef
+11
+
+1
+	Def: 
+	Use: 
+	2 4 0
+2
+	Def: 
+	Use: 
+	0
+3
+	Def: 
+	Use: 
+	4 0
+4
+	Def: 
+	Use: 
+	5 7 0
+5
+	Def: 
+	Use: 
+	0
+6
+	Def: 
+	Use: 
+	7 0
+7
+	Def: 
+	Use: 
+	8 10 0
+8
+	Def: 
+	Use: 
+	0
+9
+	Def: 
+	Use: 
+	10 0
+10
+	Def: 
+	Use: 
+	0
+11
+	Def: 
+	Use: 
+	0
+@InKWords
+10
+
+1
+	Def: 
+	Use: 
+	2 3 0
+2
+	Def: 
+	Use: 
+	3 0
+3
+	Def: 
+	Use: 
+	4 0
+4
+	Def: 
+	Use: 
+	6 9 0
+5
+	Def: 
+	Use: 
+	4 0
+6
+	Def: 
+	Use: 
+	7 8 0
+7
+	Def: 
+	Use: 
+	0
+8
+	Def: 
+	Use: 
+	5 0
+9
+	Def: 
+	Use: 
+	0
+10
+	Def: 
+	Use: 
+	0
+@InserUN
+11
+
+1
+	Def: 
+	Use: 
+	2 3 0
+2
+	Def: 
+	Use: 
+	3 0
+3
+	Def: 
+	Use: 
+	4 0
+4
+	Def: 
+	Use: 
+	6 10 0
+5
+	Def: 
+	Use: 
+	4 0
+6
+	Def: 
+	Use: 
+	7 8 0
+7
+	Def: 
+	Use: 
+	8 0
+8
+	Def: 
+	Use: 
+	0
+9
+	Def: 
+	Use: 
+	5 0
+10
+	Def: 
+	Use: 
+	0
+11
+	Def: 
+	Use: 
+	0
+@interror
+1
+
+1
+	Def: 
+	Use: 
+	0
+@intmax
+4
+
+1
+	Def: 
+	Use: 
+	2 3 0
+2
+	Def: 
+	Use: 
+	0
+3
+	Def: 
+	Use: 
+	0
+4
+	Def: 
+	Use: 
+	0
+@intmin
+4
+
+1
+	Def: 
+	Use: 
+	2 3 0
+2
+	Def: 
+	Use: 
+	0
+3
+	Def: 
+	Use: 
+	0
+4
+	Def: 
+	Use: 
+	0
+@InUNames
+10
+
+1
+	Def: 
+	Use: 
+	2 3 0
+2
+	Def: 
+	Use: 
+	3 0
+3
+	Def: 
+	Use: 
+	4 0
+4
+	Def: 
+	Use: 
+	6 9 0
+5
+	Def: 
+	Use: 
+	4 0
+6
+	Def: 
+	Use: 
+	7 8 0
+7
+	Def: 
+	Use: 
+	0
+8
+	Def: 
+	Use: 
+	5 0
+9
+	Def: 
+	Use: 
+	0
+10
+	Def: 
+	Use: 
+	0
+@isletter
+4
+
+1
+	Def: 
+	Use: 
+	2 3 0
+2
+	Def: 
+	Use: 
+	0
+3
+	Def: 
+	Use: 
+	0
+4
+	Def: 
+	Use: 
+	0
+@kwdsinit
+11
+
+1
+	Def: 
+	Use: 
+	2 0
+2
+	Def: 
+	Use: 
+	4 5 0
+3
+	Def: 
+	Use: 
+	2 0
+4
+	Def: 
+	Use: 
+	3 0
+5
+	Def: 
+	Use: 
+	6 0
+6
+	Def: 
+	Use: 
+	8 11 0
+7
+	Def: 
+	Use: 
+	6 0
+8
+	Def: 
+	Use: 
+	9 10 0
+9
+	Def: 
+	Use: 
+	10 0
+10
+	Def: 
+	Use: 
+	7 0
+11
+	Def: 
+	Use: 
+	0
+@lenunit
+14
+
+1
+	Def: 
+	Use: 
+	2 3 0
+2
+	Def: 
+	Use: 
+	13 0
+3
+	Def: 
+	Use: 
+	4 5 0
+4
+	Def: 
+	Use: 
+	12 0
+5
+	Def: 
+	Use: 
+	6 7 0
+6
+	Def: 
+	Use: 
+	11 0
+7
+	Def: 
+	Use: 
+	8 9 0
+8
+	Def: 
+	Use: 
+	10 0
+9
+	Def: 
+	Use: 
+	0
+10
+	Def: 
+	Use: 
+	11 0
+11
+	Def: 
+	Use: 
+	12 0
+12
+	Def: 
+	Use: 
+	13 0
+13
+	Def: 
+	Use: 
+	0
+14
+	Def: 
+	Use: 
+	0
+@linconv
+7
+
+1
+	Def: 
+	Use: 
+	2 3 4 5 0
+2
+	Def: 
+	Use: 
+	6 0
+3
+	Def: 
+	Use: 
+	6 0
+4
+	Def: 
+	Use: 
+	6 0
+5
+	Def: 
+	Use: 
+	6 0
+6
+	Def: 
+	Use: 
+	0
+7
+	Def: 
+	Use: 
+	0
+@linpol
+11
+
+1
+	Def: 
+	Use: 
+	2 4 0
+2
+	Def: 
+	Use: 
+	0
+3
+	Def: 
+	Use: 
+	4 0
+4
+	Def: 
+	Use: 
+	5 7 0
+5
+	Def: 
+	Use: 
+	0
+6
+	Def: 
+	Use: 
+	7 0
+7
+	Def: 
+	Use: 
+	8 10 0
+8
+	Def: 
+	Use: 
+	0
+9
+	Def: 
+	Use: 
+	10 0
+10
+	Def: 
+	Use: 
+	0
+11
+	Def: 
+	Use: 
+	0
+@mksblock
+15
+
+1
+	Def: 
+	Use: 
+	2 0
+2
+	Def: 
+	Use: 
+	4 14 0
+3
+	Def: 
+	Use: 
+	2 0
+4
+	Def: 
+	Use: 
+	5 0
+5
+	Def: 
+	Use: 
+	7 13 0
+6
+	Def: 
+	Use: 
+	5 0
+7
+	Def: 
+	Use: 
+	8 9 0
+8
+	Def: 
+	Use: 
+	9 0
+9
+	Def: 
+	Use: 
+	10 11 0
+10
+	Def: 
+	Use: 
+	12 0
+11
+	Def: 
+	Use: 
+	12 0
+12
+	Def: 
+	Use: 
+	6 0
+13
+	Def: 
+	Use: 
+	3 0
+14
+	Def: 
+	Use: 
+	0
+15
+	Def: 
+	Use: 
+	0
+@mkshex
+11
+
+1
+	Def: 
+	Use: 
+	2 0
+2
+	Def: 
+	Use: 
+	4 10 0
+3
+	Def: 
+	Use: 
+	2 0
+4
+	Def: 
+	Use: 
+	5 6 0
+5
+	Def: 
+	Use: 
+	6 0
+6
+	Def: 
+	Use: 
+	7 8 0
+7
+	Def: 
+	Use: 
+	9 0
+8
+	Def: 
+	Use: 
+	9 0
+9
+	Def: 
+	Use: 
+	3 0
+10
+	Def: 
+	Use: 
+	0
+11
+	Def: 
+	Use: 
+	0
+@mksnode
+4
+
+1
+	Def: 
+	Use: 
+	2 3 0
+2
+	Def: 
+	Use: 
+	3 0
+3
+	Def: 
+	Use: 
+	0
+4
+	Def: 
+	Use: 
+	0
+@mmconv
+8
+
+1
+	Def: 
+	Use: 
+	2 3 4 5 6 0
+2
+	Def: 
+	Use: 
+	7 0
+3
+	Def: 
+	Use: 
+	7 0
+4
+	Def: 
+	Use: 
+	7 0
+5
+	Def: 
+	Use: 
+	7 0
+6
+	Def: 
+	Use: 
+	7 0
+7
+	Def: 
+	Use: 
+	0
+8
+	Def: 
+	Use: 
+	0
+@modspec
+23
+
+1
+	Def: 
+	Use: 
+	2 4 0
+2
+	Def: 
+	Use: 
+	0
+3
+	Def: 
+	Use: 
+	4 0
+4
+	Def: 
+	Use: 
+	5 7 0
+5
+	Def: 
+	Use: 
+	0
+6
+	Def: 
+	Use: 
+	7 0
+7
+	Def: 
+	Use: 
+	8 10 0
+8
+	Def: 
+	Use: 
+	0
+9
+	Def: 
+	Use: 
+	10 0
+10
+	Def: 
+	Use: 
+	11 13 0
+11
+	Def: 
+	Use: 
+	0
+12
+	Def: 
+	Use: 
+	13 0
+13
+	Def: 
+	Use: 
+	14 16 0
+14
+	Def: 
+	Use: 
+	0
+15
+	Def: 
+	Use: 
+	16 0
+16
+	Def: 
+	Use: 
+	17 19 0
+17
+	Def: 
+	Use: 
+	0
+18
+	Def: 
+	Use: 
+	19 0
+19
+	Def: 
+	Use: 
+	20 22 0
+20
+	Def: 
+	Use: 
+	0
+21
+	Def: 
+	Use: 
+	22 0
+22
+	Def: 
+	Use: 
+	0
+23
+	Def: 
+	Use: 
+	0
+@moseinit
+5
+
+1
+	Def: 
+	Use: 
+	2 0
+2
+	Def: 
+	Use: 
+	4 5 0
+3
+	Def: 
+	Use: 
+	2 0
+4
+	Def: 
+	Use: 
+	3 0
+5
+	Def: 
+	Use: 
+	0
+@nodecoor
+8
+
+1
+	Def: 
+	Use: 
+	2 4 0
+2
+	Def: 
+	Use: 
+	0
+3
+	Def: 
+	Use: 
+	4 0
+4
+	Def: 
+	Use: 
+	5 7 0
+5
+	Def: 
+	Use: 
+	0
+6
+	Def: 
+	Use: 
+	7 0
+7
+	Def: 
+	Use: 
+	0
+8
+	Def: 
+	Use: 
+	0
+@nodedef
+20
+
+1
+	Def: 
+	Use: 
+	2 4 0
+2
+	Def: 
+	Use: 
+	0
+3
+	Def: 
+	Use: 
+	4 0
+4
+	Def: 
+	Use: 
+	5 7 0
+5
+	Def: 
+	Use: 
+	0
+6
+	Def: 
+	Use: 
+	7 0
+7
+	Def: 
+	Use: 
+	8 10 0
+8
+	Def: 
+	Use: 
+	0
+9
+	Def: 
+	Use: 
+	10 0
+10
+	Def: 
+	Use: 
+	11 12 0
+11
+	Def: 
+	Use: 
+	12 0
+12
+	Def: 
+	Use: 
+	13 15 0
+13
+	Def: 
+	Use: 
+	0
+14
+	Def: 
+	Use: 
+	15 0
+15
+	Def: 
+	Use: 
+	16 17 0
+16
+	Def: 
+	Use: 
+	17 0
+17
+	Def: 
+	Use: 
+	18 19 0
+18
+	Def: 
+	Use: 
+	19 0
+19
+	Def: 
+	Use: 
+	0
+20
+	Def: 
+	Use: 
+	0
+@nodorien
+16
+
+1
+	Def: 
+	Use: 
+	2 4 0
+2
+	Def: 
+	Use: 
+	0
+3
+	Def: 
+	Use: 
+	4 0
+4
+	Def: 
+	Use: 
+	5 7 0
+5
+	Def: 
+	Use: 
+	0
+6
+	Def: 
+	Use: 
+	7 0
+7
+	Def: 
+	Use: 
+	8 10 0
+8
+	Def: 
+	Use: 
+	0
+9
+	Def: 
+	Use: 
+	10 0
+10
+	Def: 
+	Use: 
+	11 13 0
+11
+	Def: 
+	Use: 
+	0
+12
+	Def: 
+	Use: 
+	13 0
+13
+	Def: 
+	Use: 
+	14 15 0
+14
+	Def: 
+	Use: 
+	15 0
+15
+	Def: 
+	Use: 
+	0
+16
+	Def: 
+	Use: 
+	0
+@nomefile
+2
+
+1
+	Def: 
+	Use: 
+	0
+2
+	Def: 
+	Use: 
+	0
+@parserro
+17
+
+1
+	Def: 
+	Use: 
+	2 13 0
+2
+	Def: 
+	Use: 
+	3 0
+3
+	Def: 
+	Use: 
+	4 5 0
+4
+	Def: 
+	Use: 
+	3 0
+5
+	Def: 
+	Use: 
+	6 0
+6
+	Def: 
+	Use: 
+	7 8 0
+7
+	Def: 
+	Use: 
+	6 0
+8
+	Def: 
+	Use: 
+	9 0
+9
+	Def: 
+	Use: 
+	11 12 0
+10
+	Def: 
+	Use: 
+	9 0
+11
+	Def: 
+	Use: 
+	10 0
+12
+	Def: 
+	Use: 
+	13 0
+13
+	Def: 
+	Use: 
+	14 15 0
+14
+	Def: 
+	Use: 
+	16 0
+15
+	Def: 
+	Use: 
+	16 0
+16
+	Def: 
+	Use: 
+	0
+17
+	Def: 
+	Use: 
+	0
+@phaserot
+11
+
+1
+	Def: 
+	Use: 
+	2 4 0
+2
+	Def: 
+	Use: 
+	0
+3
+	Def: 
+	Use: 
+	4 0
+4
+	Def: 
+	Use: 
+	5 7 0
+5
+	Def: 
+	Use: 
+	0
+6
+	Def: 
+	Use: 
+	7 0
+7
+	Def: 
+	Use: 
+	8 10 0
+8
+	Def: 
+	Use: 
+	0
+9
+	Def: 
+	Use: 
+	10 0
+10
+	Def: 
+	Use: 
+	0
+11
+	Def: 
+	Use: 
+	0
+@polor
+17
+
+1
+	Def: 
+	Use: 
+	2 4 0
+2
+	Def: 
+	Use: 
+	0
+3
+	Def: 
+	Use: 
+	4 0
+4
+	Def: 
+	Use: 
+	5 7 0
+5
+	Def: 
+	Use: 
+	0
+6
+	Def: 
+	Use: 
+	7 0
+7
+	Def: 
+	Use: 
+	8 10 0
+8
+	Def: 
+	Use: 
+	0
+9
+	Def: 
+	Use: 
+	10 0
+10
+	Def: 
+	Use: 
+	11 13 0
+11
+	Def: 
+	Use: 
+	0
+12
+	Def: 
+	Use: 
+	13 0
+13
+	Def: 
+	Use: 
+	14 16 0
+14
+	Def: 
+	Use: 
+	0
+15
+	Def: 
+	Use: 
+	16 0
+16
+	Def: 
+	Use: 
+	0
+17
+	Def: 
+	Use: 
+	0
+@polorbis
+17
+
+1
+	Def: 
+	Use: 
+	2 4 0
+2
+	Def: 
+	Use: 
+	0
+3
+	Def: 
+	Use: 
+	4 0
+4
+	Def: 
+	Use: 
+	5 7 0
+5
+	Def: 
+	Use: 
+	0
+6
+	Def: 
+	Use: 
+	7 0
+7
+	Def: 
+	Use: 
+	8 10 0
+8
+	Def: 
+	Use: 
+	0
+9
+	Def: 
+	Use: 
+	10 0
+10
+	Def: 
+	Use: 
+	11 13 0
+11
+	Def: 
+	Use: 
+	0
+12
+	Def: 
+	Use: 
+	13 0
+13
+	Def: 
+	Use: 
+	14 16 0
+14
+	Def: 
+	Use: 
+	0
+15
+	Def: 
+	Use: 
+	16 0
+16
+	Def: 
+	Use: 
+	0
+17
+	Def: 
+	Use: 
+	0
+@polspec
+17
+
+1
+	Def: 
+	Use: 
+	2 4 0
+2
+	Def: 
+	Use: 
+	0
+3
+	Def: 
+	Use: 
+	4 0
+4
+	Def: 
+	Use: 
+	5 7 0
+5
+	Def: 
+	Use: 
+	0
+6
+	Def: 
+	Use: 
+	7 0
+7
+	Def: 
+	Use: 
+	8 10 0
+8
+	Def: 
+	Use: 
+	0
+9
+	Def: 
+	Use: 
+	10 0
+10
+	Def: 
+	Use: 
+	11 13 0
+11
+	Def: 
+	Use: 
+	0
+12
+	Def: 
+	Use: 
+	13 0
+13
+	Def: 
+	Use: 
+	14 16 0
+14
+	Def: 
+	Use: 
+	0
+15
+	Def: 
+	Use: 
+	16 0
+16
+	Def: 
+	Use: 
+	0
+17
+	Def: 
+	Use: 
+	0
+@polydef
+21
+
+1
+	Def: 
+	Use: 
+	2 4 0
+2
+	Def: 
+	Use: 
+	0
+3
+	Def: 
+	Use: 
+	4 0
+4
+	Def: 
+	Use: 
+	5 0
+5
+	Def: 
+	Use: 
+	6 17 0
+6
+	Def: 
+	Use: 
+	7 13 0
+7
+	Def: 
+	Use: 
+	8 9 0
+8
+	Def: 
+	Use: 
+	9 0
+9
+	Def: 
+	Use: 
+	10 11 0
+10
+	Def: 
+	Use: 
+	12 0
+11
+	Def: 
+	Use: 
+	12 0
+12
+	Def: 
+	Use: 
+	13 0
+13
+	Def: 
+	Use: 
+	14 16 0
+14
+	Def: 
+	Use: 
+	17 0
+15
+	Def: 
+	Use: 
+	16 0
+16
+	Def: 
+	Use: 
+	5 0
+17
+	Def: 
+	Use: 
+	18 20 0
+18
+	Def: 
+	Use: 
+	0
+19
+	Def: 
+	Use: 
+	20 0
+20
+	Def: 
+	Use: 
+	0
+21
+	Def: 
+	Use: 
+	0
+@portamp
+8
+
+1
+	Def: 
+	Use: 
+	2 4 0
+2
+	Def: 
+	Use: 
+	0
+3
+	Def: 
+	Use: 
+	4 0
+4
+	Def: 
+	Use: 
+	5 7 0
+5
+	Def: 
+	Use: 
+	0
+6
+	Def: 
+	Use: 
+	7 0
+7
+	Def: 
+	Use: 
+	0
+8
+	Def: 
+	Use: 
+	0
+@portdef
+31
+
+1
+	Def: 
+	Use: 
+	2 4 0
+2
+	Def: 
+	Use: 
+	0
+3
+	Def: 
+	Use: 
+	4 0
+4
+	Def: 
+	Use: 
+	5 7 0
+5
+	Def: 
+	Use: 
+	0
+6
+	Def: 
+	Use: 
+	7 0
+7
+	Def: 
+	Use: 
+	8 9 0
+8
+	Def: 
+	Use: 
+	9 0
+9
+	Def: 
+	Use: 
+	10 12 0
+10
+	Def: 
+	Use: 
+	0
+11
+	Def: 
+	Use: 
+	12 0
+12
+	Def: 
+	Use: 
+	13 15 0
+13
+	Def: 
+	Use: 
+	0
+14
+	Def: 
+	Use: 
+	15 0
+15
+	Def: 
+	Use: 
+	16 17 0
+16
+	Def: 
+	Use: 
+	17 0
+17
+	Def: 
+	Use: 
+	18 20 0
+18
+	Def: 
+	Use: 
+	0
+19
+	Def: 
+	Use: 
+	20 0
+20
+	Def: 
+	Use: 
+	21 22 0
+21
+	Def: 
+	Use: 
+	22 0
+22
+	Def: 
+	Use: 
+	23 25 0
+23
+	Def: 
+	Use: 
+	0
+24
+	Def: 
+	Use: 
+	25 0
+25
+	Def: 
+	Use: 
+	26 27 0
+26
+	Def: 
+	Use: 
+	27 0
+27
+	Def: 
+	Use: 
+	28 30 0
+28
+	Def: 
+	Use: 
+	0
+29
+	Def: 
+	Use: 
+	30 0
+30
+	Def: 
+	Use: 
+	0
+31
+	Def: 
+	Use: 
+	0
+@portspec
+23
+
+1
+	Def: 
+	Use: 
+	2 4 0
+2
+	Def: 
+	Use: 
+	0
+3
+	Def: 
+	Use: 
+	4 0
+4
+	Def: 
+	Use: 
+	5 7 0
+5
+	Def: 
+	Use: 
+	0
+6
+	Def: 
+	Use: 
+	7 0
+7
+	Def: 
+	Use: 
+	8 0
+8
+	Def: 
+	Use: 
+	10 22 0
+9
+	Def: 
+	Use: 
+	8 0
+10
+	Def: 
+	Use: 
+	11 12 0
+11
+	Def: 
+	Use: 
+	12 0
+12
+	Def: 
+	Use: 
+	13 15 0
+13
+	Def: 
+	Use: 
+	0
+14
+	Def: 
+	Use: 
+	15 0
+15
+	Def: 
+	Use: 
+	16 18 0
+16
+	Def: 
+	Use: 
+	0
+17
+	Def: 
+	Use: 
+	18 0
+18
+	Def: 
+	Use: 
+	19 20 0
+19
+	Def: 
+	Use: 
+	21 0
+20
+	Def: 
+	Use: 
+	21 0
+21
+	Def: 
+	Use: 
+	9 0
+22
+	Def: 
+	Use: 
+	0
+23
+	Def: 
+	Use: 
+	0
+@ppadef1
+8
+
+1
+	Def: 
+	Use: 
+	2 4 0
+2
+	Def: 
+	Use: 
+	0
+3
+	Def: 
+	Use: 
+	4 0
+4
+	Def: 
+	Use: 
+	5 7 0
+5
+	Def: 
+	Use: 
+	0
+6
+	Def: 
+	Use: 
+	7 0
+7
+	Def: 
+	Use: 
+	0
+8
+	Def: 
+	Use: 
+	0
+@pqlimits
+13
+
+1
+	Def: 
+	Use: 
+	2 0
+2
+	Def: 
+	Use: 
+	3 12 0
+3
+	Def: 
+	Use: 
+	4 5 0
+4
+	Def: 
+	Use: 
+	5 0
+5
+	Def: 
+	Use: 
+	6 7 0
+6
+	Def: 
+	Use: 
+	7 0
+7
+	Def: 
+	Use: 
+	8 9 0
+8
+	Def: 
+	Use: 
+	9 0
+9
+	Def: 
+	Use: 
+	10 11 0
+10
+	Def: 
+	Use: 
+	11 0
+11
+	Def: 
+	Use: 
+	2 0
+12
+	Def: 
+	Use: 
+	0
+13
+	Def: 
+	Use: 
+	0
+@prnfile
+7
+
+1
+	Def: 
+	Use: 
+	2 0
+2
+	Def: 
+	Use: 
+	3 6 0
+3
+	Def: 
+	Use: 
+	4 5 0
+4
+	Def: 
+	Use: 
+	5 0
+5
+	Def: 
+	Use: 
+	2 0
+6
+	Def: 
+	Use: 
+	0
+7
+	Def: 
+	Use: 
+	0
+@pscdef1
+8
+
+1
+	Def: 
+	Use: 
+	2 4 0
+2
+	Def: 
+	Use: 
+	0
+3
+	Def: 
+	Use: 
+	4 0
+4
+	Def: 
+	Use: 
+	5 7 0
+5
+	Def: 
+	Use: 
+	0
+6
+	Def: 
+	Use: 
+	7 0
+7
+	Def: 
+	Use: 
+	0
+8
+	Def: 
+	Use: 
+	0
+@pshdef1
+8
+
+1
+	Def: 
+	Use: 
+	2 4 0
+2
+	Def: 
+	Use: 
+	0
+3
+	Def: 
+	Use: 
+	4 0
+4
+	Def: 
+	Use: 
+	5 7 0
+5
+	Def: 
+	Use: 
+	0
+6
+	Def: 
+	Use: 
+	7 0
+7
+	Def: 
+	Use: 
+	0
+8
+	Def: 
+	Use: 
+	0
+@readfil3
+33
+
+1
+	Def: 
+	Use: 
+	2 4 0
+2
+	Def: 
+	Use: 
+	0
+3
+	Def: 
+	Use: 
+	4 0
+4
+	Def: 
+	Use: 
+	5 7 0
+5
+	Def: 
+	Use: 
+	0
+6
+	Def: 
+	Use: 
+	7 0
+7
+	Def: 
+	Use: 
+	8 0
+8
+	Def: 
+	Use: 
+	9 12 0
+9
+	Def: 
+	Use: 
+	10 11 0
+10
+	Def: 
+	Use: 
+	11 0
+11
+	Def: 
+	Use: 
+	8 0
+12
+	Def: 
+	Use: 
+	13 15 0
+13
+	Def: 
+	Use: 
+	0
+14
+	Def: 
+	Use: 
+	15 0
+15
+	Def: 
+	Use: 
+	16 0
+16
+	Def: 
+	Use: 
+	17 32 0
+17
+	Def: 
+	Use: 
+	18 27 0
+18
+	Def: 
+	Use: 
+	19 0
+19
+	Def: 
+	Use: 
+	20 21 0
+20
+	Def: 
+	Use: 
+	21 0
+21
+	Def: 
+	Use: 
+	22 0
+22
+	Def: 
+	Use: 
+	19 23 0
+23
+	Def: 
+	Use: 
+	24 26 0
+24
+	Def: 
+	Use: 
+	0
+25
+	Def: 
+	Use: 
+	26 0
+26
+	Def: 
+	Use: 
+	31 0
+27
+	Def: 
+	Use: 
+	28 30 0
+28
+	Def: 
+	Use: 
+	0
+29
+	Def: 
+	Use: 
+	30 0
+30
+	Def: 
+	Use: 
+	31 0
+31
+	Def: 
+	Use: 
+	16 0
+32
+	Def: 
+	Use: 
+	0
+33
+	Def: 
+	Use: 
+	0
+@recgrdef
+11
+
+1
+	Def: 
+	Use: 
+	2 4 0
+2
+	Def: 
+	Use: 
+	0
+3
+	Def: 
+	Use: 
+	4 0
+4
+	Def: 
+	Use: 
+	5 7 0
+5
+	Def: 
+	Use: 
+	0
+6
+	Def: 
+	Use: 
+	7 0
+7
+	Def: 
+	Use: 
+	8 10 0
+8
+	Def: 
+	Use: 
+	0
+9
+	Def: 
+	Use: 
+	10 0
+10
+	Def: 
+	Use: 
+	0
+11
+	Def: 
+	Use: 
+	0
+@recspec
+13
+
+1
+	Def: 
+	Use: 
+	2 4 0
+2
+	Def: 
+	Use: 
+	0
+3
+	Def: 
+	Use: 
+	4 0
+4
+	Def: 
+	Use: 
+	5 7 0
+5
+	Def: 
+	Use: 
+	0
+6
+	Def: 
+	Use: 
+	7 0
+7
+	Def: 
+	Use: 
+	8 10 0
+8
+	Def: 
+	Use: 
+	0
+9
+	Def: 
+	Use: 
+	10 0
+10
+	Def: 
+	Use: 
+	11 12 0
+11
+	Def: 
+	Use: 
+	12 0
+12
+	Def: 
+	Use: 
+	0
+13
+	Def: 
+	Use: 
+	0
+@remdef
+37
+
+1
+	Def: 
+	Use: 
+	2 4 0
+2
+	Def: 
+	Use: 
+	0
+3
+	Def: 
+	Use: 
+	4 0
+4
+	Def: 
+	Use: 
+	5 7 0
+5
+	Def: 
+	Use: 
+	0
+6
+	Def: 
+	Use: 
+	7 0
+7
+	Def: 
+	Use: 
+	8 12 0
+8
+	Def: 
+	Use: 
+	9 10 0
+9
+	Def: 
+	Use: 
+	10 0
+10
+	Def: 
+	Use: 
+	0
+11
+	Def: 
+	Use: 
+	12 0
+12
+	Def: 
+	Use: 
+	13 15 0
+13
+	Def: 
+	Use: 
+	0
+14
+	Def: 
+	Use: 
+	15 0
+15
+	Def: 
+	Use: 
+	16 20 0
+16
+	Def: 
+	Use: 
+	17 18 0
+17
+	Def: 
+	Use: 
+	18 0
+18
+	Def: 
+	Use: 
+	0
+19
+	Def: 
+	Use: 
+	20 0
+20
+	Def: 
+	Use: 
+	21 23 0
+21
+	Def: 
+	Use: 
+	0
+22
+	Def: 
+	Use: 
+	23 0
+23
+	Def: 
+	Use: 
+	24 28 0
+24
+	Def: 
+	Use: 
+	25 26 0
+25
+	Def: 
+	Use: 
+	26 0
+26
+	Def: 
+	Use: 
+	0
+27
+	Def: 
+	Use: 
+	28 0
+28
+	Def: 
+	Use: 
+	29 31 0
+29
+	Def: 
+	Use: 
+	0
+30
+	Def: 
+	Use: 
+	31 0
+31
+	Def: 
+	Use: 
+	32 36 0
+32
+	Def: 
+	Use: 
+	33 34 0
+33
+	Def: 
+	Use: 
+	34 0
+34
+	Def: 
+	Use: 
+	0
+35
+	Def: 
+	Use: 
+	36 0
+36
+	Def: 
+	Use: 
+	0
+37
+	Def: 
+	Use: 
+	0
+@secoramp
+20
+
+1
+	Def: 
+	Use: 
+	2 4 0
+2
+	Def: 
+	Use: 
+	0
+3
+	Def: 
+	Use: 
+	4 0
+4
+	Def: 
+	Use: 
+	5 7 0
+5
+	Def: 
+	Use: 
+	0
+6
+	Def: 
+	Use: 
+	7 0
+7
+	Def: 
+	Use: 
+	8 10 0
+8
+	Def: 
+	Use: 
+	0
+9
+	Def: 
+	Use: 
+	10 0
+10
+	Def: 
+	Use: 
+	11 13 0
+11
+	Def: 
+	Use: 
+	0
+12
+	Def: 
+	Use: 
+	13 0
+13
+	Def: 
+	Use: 
+	14 16 0
+14
+	Def: 
+	Use: 
+	0
+15
+	Def: 
+	Use: 
+	16 0
+16
+	Def: 
+	Use: 
+	17 19 0
+17
+	Def: 
+	Use: 
+	0
+18
+	Def: 
+	Use: 
+	19 0
+19
+	Def: 
+	Use: 
+	0
+20
+	Def: 
+	Use: 
+	0
+@secorder
+2
+
+1
+	Def: 
+	Use: 
+	0
+2
+	Def: 
+	Use: 
+	0
+@secorpha
+20
+
+1
+	Def: 
+	Use: 
+	2 4 0
+2
+	Def: 
+	Use: 
+	0
+3
+	Def: 
+	Use: 
+	4 0
+4
+	Def: 
+	Use: 
+	5 7 0
+5
+	Def: 
+	Use: 
+	0
+6
+	Def: 
+	Use: 
+	7 0
+7
+	Def: 
+	Use: 
+	8 10 0
+8
+	Def: 
+	Use: 
+	0
+9
+	Def: 
+	Use: 
+	10 0
+10
+	Def: 
+	Use: 
+	11 13 0
+11
+	Def: 
+	Use: 
+	0
+12
+	Def: 
+	Use: 
+	13 0
+13
+	Def: 
+	Use: 
+	14 16 0
+14
+	Def: 
+	Use: 
+	0
+15
+	Def: 
+	Use: 
+	16 0
+16
+	Def: 
+	Use: 
+	17 19 0
+17
+	Def: 
+	Use: 
+	0
+18
+	Def: 
+	Use: 
+	19 0
+19
+	Def: 
+	Use: 
+	0
+20
+	Def: 
+	Use: 
+	0
+@seqrothg
+5
+
+1
+	Def: 
+	Use: 
+	2 0
+2
+	Def: 
+	Use: 
+	3 4 0
+3
+	Def: 
+	Use: 
+	2 0
+4
+	Def: 
+	Use: 
+	0
+5
+	Def: 
+	Use: 
+	0
+@seqrotrg
+40
+
+1
+	Def: 
+	Use: 
+	2 3 0
+2
+	Def: 
+	Use: 
+	3 0
+3
+	Def: 
+	Use: 
+	4 0
+4
+	Def: 
+	Use: 
+	5 39 0
+5
+	Def: 
+	Use: 
+	6 9 0
+6
+	Def: 
+	Use: 
+	7 8 0
+7
+	Def: 
+	Use: 
+	8 0
+8
+	Def: 
+	Use: 
+	38 0
+9
+	Def: 
+	Use: 
+	10 16 0
+10
+	Def: 
+	Use: 
+	11 0
+11
+	Def: 
+	Use: 
+	12 15 0
+12
+	Def: 
+	Use: 
+	13 14 0
+13
+	Def: 
+	Use: 
+	14 0
+14
+	Def: 
+	Use: 
+	11 0
+15
+	Def: 
+	Use: 
+	16 0
+16
+	Def: 
+	Use: 
+	17 23 0
+17
+	Def: 
+	Use: 
+	18 0
+18
+	Def: 
+	Use: 
+	19 22 0
+19
+	Def: 
+	Use: 
+	20 21 0
+20
+	Def: 
+	Use: 
+	21 0
+21
+	Def: 
+	Use: 
+	18 0
+22
+	Def: 
+	Use: 
+	23 0
+23
+	Def: 
+	Use: 
+	24 30 0
+24
+	Def: 
+	Use: 
+	25 0
+25
+	Def: 
+	Use: 
+	26 29 0
+26
+	Def: 
+	Use: 
+	27 28 0
+27
+	Def: 
+	Use: 
+	28 0
+28
+	Def: 
+	Use: 
+	25 0
+29
+	Def: 
+	Use: 
+	30 0
+30
+	Def: 
+	Use: 
+	31 37 0
+31
+	Def: 
+	Use: 
+	32 0
+32
+	Def: 
+	Use: 
+	33 36 0
+33
+	Def: 
+	Use: 
+	34 35 0
+34
+	Def: 
+	Use: 
+	35 0
+35
+	Def: 
+	Use: 
+	32 0
+36
+	Def: 
+	Use: 
+	37 0
+37
+	Def: 
+	Use: 
+	38 0
+38
+	Def: 
+	Use: 
+	4 0
+39
+	Def: 
+	Use: 
+	0
+40
+	Def: 
+	Use: 
+	0
+@serotdir
+8
+
+1
+	Def: 
+	Use: 
+	2 4 0
+2
+	Def: 
+	Use: 
+	0
+3
+	Def: 
+	Use: 
+	4 0
+4
+	Def: 
+	Use: 
+	5 7 0
+5
+	Def: 
+	Use: 
+	0
+6
+	Def: 
+	Use: 
+	7 0
+7
+	Def: 
+	Use: 
+	0
+8
+	Def: 
+	Use: 
+	0
+@serotpar
+14
+
+1
+	Def: 
+	Use: 
+	2 4 0
+2
+	Def: 
+	Use: 
+	0
+3
+	Def: 
+	Use: 
+	4 0
+4
+	Def: 
+	Use: 
+	5 7 0
+5
+	Def: 
+	Use: 
+	0
+6
+	Def: 
+	Use: 
+	7 0
+7
+	Def: 
+	Use: 
+	8 10 0
+8
+	Def: 
+	Use: 
+	0
+9
+	Def: 
+	Use: 
+	10 0
+10
+	Def: 
+	Use: 
+	11 13 0
+11
+	Def: 
+	Use: 
+	0
+12
+	Def: 
+	Use: 
+	13 0
+13
+	Def: 
+	Use: 
+	0
+14
+	Def: 
+	Use: 
+	0
+@serotpha
+15
+
+1
+	Def: 
+	Use: 
+	2 4 0
+2
+	Def: 
+	Use: 
+	0
+3
+	Def: 
+	Use: 
+	4 0
+4
+	Def: 
+	Use: 
+	5 7 0
+5
+	Def: 
+	Use: 
+	0
+6
+	Def: 
+	Use: 
+	7 0
+7
+	Def: 
+	Use: 
+	8 9 0
+8
+	Def: 
+	Use: 
+	9 0
+9
+	Def: 
+	Use: 
+	10 12 0
+10
+	Def: 
+	Use: 
+	0
+11
+	Def: 
+	Use: 
+	12 0
+12
+	Def: 
+	Use: 
+	13 14 0
+13
+	Def: 
+	Use: 
+	14 0
+14
+	Def: 
+	Use: 
+	0
+15
+	Def: 
+	Use: 
+	0
+@sgramp2n
+33
+
+1
+	Def: 
+	Use: 
+	2 3 0
+2
+	Def: 
+	Use: 
+	15 0
+3
+	Def: 
+	Use: 
+	4 12 0
+4
+	Def: 
+	Use: 
+	5 0
+5
+	Def: 
+	Use: 
+	7 11 0
+6
+	Def: 
+	Use: 
+	5 0
+7
+	Def: 
+	Use: 
+	8 9 0
+8
+	Def: 
+	Use: 
+	10 0
+9
+	Def: 
+	Use: 
+	10 0
+10
+	Def: 
+	Use: 
+	6 0
+11
+	Def: 
+	Use: 
+	14 0
+12
+	Def: 
+	Use: 
+	0
+13
+	Def: 
+	Use: 
+	14 0
+14
+	Def: 
+	Use: 
+	15 0
+15
+	Def: 
+	Use: 
+	16 17 0
+16
+	Def: 
+	Use: 
+	18 0
+17
+	Def: 
+	Use: 
+	18 0
+18
+	Def: 
+	Use: 
+	19 20 0
+19
+	Def: 
+	Use: 
+	21 0
+20
+	Def: 
+	Use: 
+	21 0
+21
+	Def: 
+	Use: 
+	22 0
+22
+	Def: 
+	Use: 
+	23 32 0
+23
+	Def: 
+	Use: 
+	24 0
+24
+	Def: 
+	Use: 
+	25 31 0
+25
+	Def: 
+	Use: 
+	26 27 0
+26
+	Def: 
+	Use: 
+	27 0
+27
+	Def: 
+	Use: 
+	28 29 0
+28
+	Def: 
+	Use: 
+	30 0
+29
+	Def: 
+	Use: 
+	30 0
+30
+	Def: 
+	Use: 
+	24 0
+31
+	Def: 
+	Use: 
+	22 0
+32
+	Def: 
+	Use: 
+	0
+33
+	Def: 
+	Use: 
+	0
+@sgrampun
+13
+
+1
+	Def: 
+	Use: 
+	2 0
+2
+	Def: 
+	Use: 
+	3 12 0
+3
+	Def: 
+	Use: 
+	4 0
+4
+	Def: 
+	Use: 
+	5 11 0
+5
+	Def: 
+	Use: 
+	6 7 0
+6
+	Def: 
+	Use: 
+	7 0
+7
+	Def: 
+	Use: 
+	8 9 0
+8
+	Def: 
+	Use: 
+	10 0
+9
+	Def: 
+	Use: 
+	10 0
+10
+	Def: 
+	Use: 
+	4 0
+11
+	Def: 
+	Use: 
+	2 0
+12
+	Def: 
+	Use: 
+	0
+13
+	Def: 
+	Use: 
+	0
+@sgrpha2n
+28
+
+1
+	Def: 
+	Use: 
+	2 3 0
+2
+	Def: 
+	Use: 
+	15 0
+3
+	Def: 
+	Use: 
+	4 12 0
+4
+	Def: 
+	Use: 
+	5 0
+5
+	Def: 
+	Use: 
+	7 11 0
+6
+	Def: 
+	Use: 
+	5 0
+7
+	Def: 
+	Use: 
+	8 9 0
+8
+	Def: 
+	Use: 
+	10 0
+9
+	Def: 
+	Use: 
+	10 0
+10
+	Def: 
+	Use: 
+	6 0
+11
+	Def: 
+	Use: 
+	14 0
+12
+	Def: 
+	Use: 
+	0
+13
+	Def: 
+	Use: 
+	14 0
+14
+	Def: 
+	Use: 
+	15 0
+15
+	Def: 
+	Use: 
+	16 17 0
+16
+	Def: 
+	Use: 
+	18 0
+17
+	Def: 
+	Use: 
+	18 0
+18
+	Def: 
+	Use: 
+	19 20 0
+19
+	Def: 
+	Use: 
+	21 0
+20
+	Def: 
+	Use: 
+	21 0
+21
+	Def: 
+	Use: 
+	22 0
+22
+	Def: 
+	Use: 
+	23 27 0
+23
+	Def: 
+	Use: 
+	24 0
+24
+	Def: 
+	Use: 
+	25 26 0
+25
+	Def: 
+	Use: 
+	24 0
+26
+	Def: 
+	Use: 
+	22 0
+27
+	Def: 
+	Use: 
+	0
+28
+	Def: 
+	Use: 
+	0
+@sgrphasr
+28
+
+1
+	Def: 
+	Use: 
+	2 4 0
+2
+	Def: 
+	Use: 
+	0
+3
+	Def: 
+	Use: 
+	4 0
+4
+	Def: 
+	Use: 
+	5 7 0
+5
+	Def: 
+	Use: 
+	0
+6
+	Def: 
+	Use: 
+	7 0
+7
+	Def: 
+	Use: 
+	8 9 0
+8
+	Def: 
+	Use: 
+	10 0
+9
+	Def: 
+	Use: 
+	10 0
+10
+	Def: 
+	Use: 
+	11 15 0
+11
+	Def: 
+	Use: 
+	12 13 0
+12
+	Def: 
+	Use: 
+	14 0
+13
+	Def: 
+	Use: 
+	14 0
+14
+	Def: 
+	Use: 
+	19 0
+15
+	Def: 
+	Use: 
+	16 17 0
+16
+	Def: 
+	Use: 
+	18 0
+17
+	Def: 
+	Use: 
+	18 0
+18
+	Def: 
+	Use: 
+	19 0
+19
+	Def: 
+	Use: 
+	20 21 0
+20
+	Def: 
+	Use: 
+	24 0
+21
+	Def: 
+	Use: 
+	22 23 0
+22
+	Def: 
+	Use: 
+	23 0
+23
+	Def: 
+	Use: 
+	24 0
+24
+	Def: 
+	Use: 
+	25 0
+25
+	Def: 
+	Use: 
+	26 27 0
+26
+	Def: 
+	Use: 
+	25 0
+27
+	Def: 
+	Use: 
+	0
+28
+	Def: 
+	Use: 
+	0
+@sgrphaun
+8
+
+1
+	Def: 
+	Use: 
+	2 0
+2
+	Def: 
+	Use: 
+	3 7 0
+3
+	Def: 
+	Use: 
+	4 0
+4
+	Def: 
+	Use: 
+	5 6 0
+5
+	Def: 
+	Use: 
+	4 0
+6
+	Def: 
+	Use: 
+	2 0
+7
+	Def: 
+	Use: 
+	0
+8
+	Def: 
+	Use: 
+	0
+@sgrrot
+7
+
+1
+	Def: 
+	Use: 
+	2 3 0
+2
+	Def: 
+	Use: 
+	3 0
+3
+	Def: 
+	Use: 
+	4 0
+4
+	Def: 
+	Use: 
+	5 6 0
+5
+	Def: 
+	Use: 
+	4 0
+6
+	Def: 
+	Use: 
+	0
+7
+	Def: 
+	Use: 
+	0
+@simamp
+9
+
+1
+	Def: 
+	Use: 
+	2 3 5 0
+2
+	Def: 
+	Use: 
+	5 0
+3
+	Def: 
+	Use: 
+	5 0
+4
+	Def: 
+	Use: 
+	5 0
+5
+	Def: 
+	Use: 
+	6 8 0
+6
+	Def: 
+	Use: 
+	0
+7
+	Def: 
+	Use: 
+	9 0
+8
+	Def: 
+	Use: 
+	0
+9
+	Def: 
+	Use: 
+	0
+@simgroup
+5
+
+1
+	Def: 
+	Use: 
+	2 4 0
+2
+	Def: 
+	Use: 
+	0
+3
+	Def: 
+	Use: 
+	5 0
+4
+	Def: 
+	Use: 
+	0
+5
+	Def: 
+	Use: 
+	0
+@simpha
+10
+
+1
+	Def: 
+	Use: 
+	2 3 4 6 0
+2
+	Def: 
+	Use: 
+	6 0
+3
+	Def: 
+	Use: 
+	6 0
+4
+	Def: 
+	Use: 
+	6 0
+5
+	Def: 
+	Use: 
+	6 0
+6
+	Def: 
+	Use: 
+	7 9 0
+7
+	Def: 
+	Use: 
+	0
+8
+	Def: 
+	Use: 
+	10 0
+9
+	Def: 
+	Use: 
+	0
+10
+	Def: 
+	Use: 
+	0
+@simpol
+8
+
+1
+	Def: 
+	Use: 
+	2 0
+2
+	Def: 
+	Use: 
+	3 7 0
+3
+	Def: 
+	Use: 
+	4 0
+4
+	Def: 
+	Use: 
+	5 6 0
+5
+	Def: 
+	Use: 
+	4 0
+6
+	Def: 
+	Use: 
+	2 0
+7
+	Def: 
+	Use: 
+	0
+8
+	Def: 
+	Use: 
+	0
+@sinelem
+22
+
+1
+	Def: 
+	Use: 
+	2 4 0
+2
+	Def: 
+	Use: 
+	0
+3
+	Def: 
+	Use: 
+	4 0
+4
+	Def: 
+	Use: 
+	5 7 0
+5
+	Def: 
+	Use: 
+	0
+6
+	Def: 
+	Use: 
+	7 0
+7
+	Def: 
+	Use: 
+	8 9 0
+8
+	Def: 
+	Use: 
+	9 0
+9
+	Def: 
+	Use: 
+	10 12 0
+10
+	Def: 
+	Use: 
+	0
+11
+	Def: 
+	Use: 
+	12 0
+12
+	Def: 
+	Use: 
+	13 14 0
+13
+	Def: 
+	Use: 
+	14 0
+14
+	Def: 
+	Use: 
+	15 16 0
+15
+	Def: 
+	Use: 
+	16 0
+16
+	Def: 
+	Use: 
+	17 19 0
+17
+	Def: 
+	Use: 
+	0
+18
+	Def: 
+	Use: 
+	19 0
+19
+	Def: 
+	Use: 
+	20 21 0
+20
+	Def: 
+	Use: 
+	21 0
+21
+	Def: 
+	Use: 
+	0
+22
+	Def: 
+	Use: 
+	0
+@sinstep
+10
+
+1
+	Def: 
+	Use: 
+	2 4 0
+2
+	Def: 
+	Use: 
+	0
+3
+	Def: 
+	Use: 
+	4 0
+4
+	Def: 
+	Use: 
+	5 7 0
+5
+	Def: 
+	Use: 
+	0
+6
+	Def: 
+	Use: 
+	7 0
+7
+	Def: 
+	Use: 
+	8 9 0
+8
+	Def: 
+	Use: 
+	9 0
+9
+	Def: 
+	Use: 
+	0
+10
+	Def: 
+	Use: 
+	0
+@squgrdef
+11
+
+1
+	Def: 
+	Use: 
+	2 4 0
+2
+	Def: 
+	Use: 
+	0
+3
+	Def: 
+	Use: 
+	4 0
+4
+	Def: 
+	Use: 
+	5 7 0
+5
+	Def: 
+	Use: 
+	0
+6
+	Def: 
+	Use: 
+	7 0
+7
+	Def: 
+	Use: 
+	8 10 0
+8
+	Def: 
+	Use: 
+	0
+9
+	Def: 
+	Use: 
+	10 0
+10
+	Def: 
+	Use: 
+	0
+11
+	Def: 
+	Use: 
+	0
+@TapeGet
+5
+
+1
+	Def: 
+	Use: 
+	2 3 0
+2
+	Def: 
+	Use: 
+	4 0
+3
+	Def: 
+	Use: 
+	4 0
+4
+	Def: 
+	Use: 
+	0
+5
+	Def: 
+	Use: 
+	0
+@trigrdef
+15
+
+1
+	Def: 
+	Use: 
+	2 4 0
+2
+	Def: 
+	Use: 
+	0
+3
+	Def: 
+	Use: 
+	4 0
+4
+	Def: 
+	Use: 
+	5 7 0
+5
+	Def: 
+	Use: 
+	0
+6
+	Def: 
+	Use: 
+	7 0
+7
+	Def: 
+	Use: 
+	8 14 0
+8
+	Def: 
+	Use: 
+	9 11 0
+9
+	Def: 
+	Use: 
+	0
+10
+	Def: 
+	Use: 
+	11 0
+11
+	Def: 
+	Use: 
+	12 13 0
+12
+	Def: 
+	Use: 
+	13 0
+13
+	Def: 
+	Use: 
+	14 0
+14
+	Def: 
+	Use: 
+	0
+15
+	Def: 
+	Use: 
+	0
+@unaminit
+5
+
+1
+	Def: 
+	Use: 
+	2 0
+2
+	Def: 
+	Use: 
+	4 5 0
+3
+	Def: 
+	Use: 
+	2 0
+4
+	Def: 
+	Use: 
+	3 0
+5
+	Def: 
+	Use: 
+	0
+@unifamp
+7
+
+1
+	Def: 
+	Use: 
+	2 4 0
+2
+	Def: 
+	Use: 
+	0
+3
+	Def: 
+	Use: 
+	4 0
+4
+	Def: 
+	Use: 
+	5 6 0
+5
+	Def: 
+	Use: 
+	6 0
+6
+	Def: 
+	Use: 
+	0
+7
+	Def: 
+	Use: 
+	0
+@unifpha
+7
+
+1
+	Def: 
+	Use: 
+	2 4 0
+2
+	Def: 
+	Use: 
+	0
+3
+	Def: 
+	Use: 
+	4 0
+4
+	Def: 
+	Use: 
+	5 6 0
+5
+	Def: 
+	Use: 
+	6 0
+6
+	Def: 
+	Use: 
+	0
+7
+	Def: 
+	Use: 
+	0
+@uvdir
+14
+
+1
+	Def: 
+	Use: 
+	2 4 0
+2
+	Def: 
+	Use: 
+	0
+3
+	Def: 
+	Use: 
+	4 0
+4
+	Def: 
+	Use: 
+	5 7 0
+5
+	Def: 
+	Use: 
+	0
+6
+	Def: 
+	Use: 
+	7 0
+7
+	Def: 
+	Use: 
+	8 10 0
+8
+	Def: 
+	Use: 
+	0
+9
+	Def: 
+	Use: 
+	10 0
+10
+	Def: 
+	Use: 
+	11 13 0
+11
+	Def: 
+	Use: 
+	0
+12
+	Def: 
+	Use: 
+	13 0
+13
+	Def: 
+	Use: 
+	0
+14
+	Def: 
+	Use: 
+	0
+@uvval
+8
+
+1
+	Def: 
+	Use: 
+	2 4 0
+2
+	Def: 
+	Use: 
+	0
+3
+	Def: 
+	Use: 
+	4 0
+4
+	Def: 
+	Use: 
+	5 7 0
+5
+	Def: 
+	Use: 
+	0
+6
+	Def: 
+	Use: 
+	7 0
+7
+	Def: 
+	Use: 
+	0
+8
+	Def: 
+	Use: 
+	0
+@versdef
+28
+
+1
+	Def: 
+	Use: 
+	2 4 0
+2
+	Def: 
+	Use: 
+	0
+3
+	Def: 
+	Use: 
+	4 0
+4
+	Def: 
+	Use: 
+	5 7 0
+5
+	Def: 
+	Use: 
+	0
+6
+	Def: 
+	Use: 
+	7 0
+7
+	Def: 
+	Use: 
+	8 10 0
+8
+	Def: 
+	Use: 
+	0
+9
+	Def: 
+	Use: 
+	10 0
+10
+	Def: 
+	Use: 
+	11 13 0
+11
+	Def: 
+	Use: 
+	0
+12
+	Def: 
+	Use: 
+	13 0
+13
+	Def: 
+	Use: 
+	14 16 0
+14
+	Def: 
+	Use: 
+	0
+15
+	Def: 
+	Use: 
+	16 0
+16
+	Def: 
+	Use: 
+	17 19 0
+17
+	Def: 
+	Use: 
+	0
+18
+	Def: 
+	Use: 
+	19 0
+19
+	Def: 
+	Use: 
+	20 22 0
+20
+	Def: 
+	Use: 
+	0
+21
+	Def: 
+	Use: 
+	22 0
+22
+	Def: 
+	Use: 
+	23 25 0
+23
+	Def: 
+	Use: 
+	0
+24
+	Def: 
+	Use: 
+	25 0
+25
+	Def: 
+	Use: 
+	26 27 0
+26
+	Def: 
+	Use: 
+	27 0
+27
+	Def: 
+	Use: 
+	0
+28
+	Def: 
+	Use: 
+	0
+@waitcont
+1
+
+1
+	Def: 
+	Use: 
+	0
+@xycoord
+8
+
+1
+	Def: 
+	Use: 
+	2 4 0
+2
+	Def: 
+	Use: 
+	0
+3
+	Def: 
+	Use: 
+	4 0
+4
+	Def: 
+	Use: 
+	5 7 0
+5
+	Def: 
+	Use: 
+	0
+6
+	Def: 
+	Use: 
+	7 0
+7
+	Def: 
+	Use: 
+	0
+8
+	Def: 
+	Use: 
+	0

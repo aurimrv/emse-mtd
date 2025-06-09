@@ -1,0 +1,49 @@
+inputs/universe/tst88 outputs/t1 
+inputs/universe/tst34 outputs/t2 
+inputs/universe/tst16 outputs/t3 
+inputs/universe/jkADr.mat outputs/t4 
+inputs/universe/tst6 outputs/t5 
+inputs/universe/tst13 outputs/t6 
+inputs/universe/tst108 outputs/t7 
+inputs/universe/tst8 outputs/t11 
+inputs/universe/tst55 outputs/t13 
+inputs/universe/tst76 outputs/t14 
+inputs/universe/tst109 outputs/t15 
+inputs/universe/tst90 outputs/t19 
+inputs/universe/tst56 outputs/t21 
+inputs/universe/tst91 outputs/t27 
+inputs/universe/tst77 outputs/t30 
+inputs/universe/tst5 outputs/t40 
+inputs/universe/tst115 outputs/t53 
+inputs/universe/tst68 outputs/t55 
+inputs/universe/tst47 outputs/t61 
+inputs/universe/tst73 outputs/t63 
+inputs/universe/tst64 outputs/t66 
+inputs/universe/tst94 outputs/t87 
+inputs/universe/tst70 outputs/t113 
+inputs/universe/test14 outputs/t131 
+inputs/universe/test51 outputs/t169 
+inputs/universe/test105 outputs/t223 
+inputs/universe/test191.inc outputs/t413 
+inputs/universe/test325.inc outputs/t447 
+inputs/universe/tst2B.mat outputs/t545 
+inputs/universe/jkAEn.mat outputs/t603 
+inputs/universe/jkAEp.mat outputs/t605 
+inputs/universe/bnewt7 outputs/t989 
+inputs/dela01 
+inputs/dela02 
+- 1 inputs/dela03 
+- 2 0 0 
+- 3 0 
+- 2 0.2 2.9E-7 
+- 2 -0.3 0.3 
+- 2 0.3 -0.3 
+- 2 1 0 
+- 2 0 1 
+- 2 -0.5 0.5 
+- 2 -8 0 
+- 2 -8 -1 
+- 4 0.5 1024 
+- 4 0.5 -2 
+- 4 0.5 0 
+- 4 -0.5 2 

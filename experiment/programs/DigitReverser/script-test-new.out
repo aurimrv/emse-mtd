@@ -1,0 +1,16 @@
+
+li -P __DigitReverser DigitReverser __DigitReverser 
+
+
++------------------------------------------------------
+|FUNCTION                       LOC'S   CONNECTIONS
++------------------------------------------------------
+|digit_reverser                 17      1
++------------------------------------------------------
+|main                           3       2
++------------------------------------------------------
+|TOTAL (2     FUNCTIONS)        20      3
++------------------------------------------------------
+pteste -create -S DigitReverser -E DigitReverser -C "gcc DigitReverser.c driver.c -o DigitReverser -w -lm" -research S_DigitReverser
+tcase -create S_DigitReverser
+muta -create S_DigitReverser

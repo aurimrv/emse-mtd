@@ -1,0 +1,3 @@
+opmuta  -unit oddOrPos -u- 1.0 0 __oddOrPos __oddOrPos  | muta -add  S_oddOrPos 
+
+361 Mutants Generated

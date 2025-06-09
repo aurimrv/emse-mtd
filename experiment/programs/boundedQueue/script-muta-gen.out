@@ -1,0 +1,3 @@
+opmuta  -unit createQueue -unit enqueue -unit isFull -unit isEmpty -unit dequeue -unit printBoundedQueue -u- 1.0 0 __boundedQueue __boundedQueue  | muta -add  S_boundedQueue 
+
+1121 Mutants Generated

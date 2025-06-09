@@ -1,0 +1,151 @@
+'-?' 'a&'  inputs/temp-test/1.inp.1.1 outputs/t1
+' ' '@%@&'  inputs/temp-test/777.inp.334.1 outputs/t2
+' ' 'NEW'  inputs/temp-test/550.inp.238.1 outputs/t3
+' ' 'NEW'  inputs/temp-test/551.inp.238.3 outputs/t4
+' ' 'rY NCDt+32Ilu>dr~s^1Q{0*{RLN>Muz'  inputs/input/ruin.1224 outputs/t5
+' *' '@%&a'  inputs/temp-test/2298.inp.975.1 outputs/t7
+' *' 'a&'  inputs/temp-test/1839.inp.782.1 outputs/t8
+' *' 'a&'  inputs/temp-test/1840.inp.782.2 outputs/t9
+' *-' '@t'  inputs/temp-test/1828.inp.778.1 outputs/t11
+' *-' '@t'  inputs/temp-test/1829.inp.778.2 outputs/t12
+' *[0-9]@[[9-B]??[0-9]-[^-[^0-9]-[a-c][^a-c]' 'NEW'  inputs/temp-test/1133.inp.487.1 outputs/t18
+' *[0-9]@[[9-B]??[0-9]-[^-[^0-9]-[a-c][^a-c]' 'NEW'  inputs/temp-test/1134.inp.487.2 outputs/t19
+' *[9-B]' 'a&'  inputs/temp-test/1274.inp.547.1 outputs/t20
+' *^-]-' '@n'  inputs/temp-test/956.inp.412.1 outputs/t22
+' *a-c]' '&a@%'  inputs/temp-test/74.inp.32.1 outputs/t24
+' -[][^9-B][a-c][9-B]' '@%&a'  inputs/temp-test/529.inp.229.2 outputs/t26
+' -[^9-B]*\$' '@%&a'  inputs/temp-test/528.inp.229.1 outputs/t27
+' -[^9-B]*' '@%&a'  inputs/temp-test/528.inp.229.1 outputs/t28
+' -[^9-B][][a-c][9-B]' '@%&a'  inputs/temp-test/528.inp.229.1 outputs/t30
+' -[^9-B][^][a-c][9-B]' '@%&a'  inputs/temp-test/528.inp.229.1 outputs/t31
+' -[^9-B][a-c]*\$' '@%&a'  inputs/temp-test/529.inp.229.2 outputs/t32
+' -[^9-B][a-c]*' '@%&a'  inputs/temp-test/529.inp.229.2 outputs/t33
+' -[^9-B][a-c]?*' '@%&a'  inputs/temp-test/529.inp.229.2 outputs/t34
+' -[^9-B][a-c][9-B]' '@%&a'  inputs/temp-test/528.inp.229.1 outputs/t36
+' -[^][^9-B][a-c][9-B]' '@%&a'  inputs/temp-test/529.inp.229.2 outputs/t39
+' -c*[^a-c]' 'NEW'  inputs/temp-test/477.inp.209.1 outputs/t41
+' ?' '&'  inputs/temp-test/54.inp.23.1 outputs/t44
+' [a-c]' '&'  inputs/temp-test/635.inp.274.2 outputs/t46
+' [a-c]' '&@n'  inputs/temp-test/634.inp.274.1 outputs/t48
+' [a-c]' '&@nfoo'  inputs/temp-test/635.inp.274.2 outputs/t51
+'!\$' '^'  inputs/input/ruin.1470 outputs/t54
+'##[0-9]?[a-b]**' 'a'  inputs/moni/f7.inp outputs/t61
+'#' '&G:]y;Zm{7<\33O~h_JG:]y;Zm{7<\33O~h_JG:]y;Zm{7<\33O~h_JG:]y;Zm{7<\33O~h_JG:]y;Zm{7<\33O~h_JG:]y;Zm{7<\33O~h_JG:]y;Zm{7<\33O~h_JG:]y;Zm{7<\33O~h_JG:]y;Zm{7<\33O~h_J'  inputs/input/ruin.1044 outputs/t63
+'#' '_W\$'  inputs/input/ruin.1198 outputs/t64
+'\$ -[^9-B][a-c][9-B]' '@%&a'  inputs/temp-test/528.inp.229.1 outputs/t66
+'\$%**' 'a'  inputs/moni/f7.inp outputs/t69
+'\$%-[@n][^a--b]\$' 'NEW'  inputs/temp-test/216.inp.96.11 outputs/t70
+'\$' '%'  inputs/input/ruin.1122 outputs/t77
+'\$-*[][^0-9]' '&'  inputs/temp-test/201.inp.90.3 outputs/t87
+'\$-[@n][^a--b]\$' 'NEW'  inputs/temp-test/215.inp.96.8 outputs/t94
+'\$-[@n][^a--b]' 'NEW'  inputs/temp-test/213.inp.96.1 outputs/t95
+'\$-[^][@n][^a--b]\$' 'NEW'  inputs/temp-test/215.inp.96.8 outputs/t98
+'\$@*?' '@%&a'  inputs/temp-test/198.inp.89.1 outputs/t111
+'\$@[*-?[a-c\$' 'a@nb@tc'  inputs/temp-test/210.inp.93.8 outputs/t112
+'\$@[*-?[a-c' 'a@nb@tc'  inputs/temp-test/207.inp.93.1 outputs/t113
+'\$c*[^a-' 'a@nb@tc'  inputs/temp-test/514.inp.224.1 outputs/t146
+'\$c[^0-9]' '&a@%'  inputs/temp-test/212.inp.95.1 outputs/t148
+'% ' 'NEW'  inputs/temp-test/552.inp.238.7 outputs/t150
+'% *^-]-\$' '@n'  inputs/temp-test/958.inp.412.11 outputs/t152
+'%*\$' 'D9RnxwW@{i=z85OwG0--kJo<'  inputs/input/ruin.1554 outputs/t154
+'%*' 'lc_lv50iK!'\''g`jS`LIK\!&3W>wi_0pbHri'  inputs/input/ruin.1845 outputs/t163
+'%- ' '@t'  inputs/temp-test/1790.inp.761.7 outputs/t179
+'%- [^@n]?[^0-9]?[0-9]?\$' '@%&a'  inputs/temp-test/163.inp.73.10 outputs/t180
+'%-*-' '@n'  inputs/temp-test/2009.inp.852.5 outputs/t185
+'%-*?\$' '&a@%'  inputs/temp-test/1103.inp.474.11 outputs/t186
+'%--*a-c]?[^0-9]\$' '@n'  inputs/temp-test/1154.inp.496.10 outputs/t189
+'%--@*-[^-z]-?[^--z][^9-B]?\$' '&a@%'  inputs/temp-test/503.inp.219.10 outputs/t190
+'%--@*-[^-z]-?[^--z][^9-B]?' '&a@%'  inputs/temp-test/501.inp.219.5 outputs/t191
+'%--[^9-B][0-9]--[0-9]*-\$' '@%@&'  inputs/temp-test/18.inp.8.11 outputs/t193
+'%-??[^0-9][9-B][^9-B]\$' 'a&'  inputs/temp-test/39.inp.16.11 outputs/t196
+'%-@**' 'NEW'  inputs/temp-test/1838.inp.781.5 outputs/t199
+'%-[@n][^a--b]*' 'NEW'  inputs/temp-test/216.inp.96.11 outputs/t205
+'%-[^9-B]%-[^9-B]%-[^9-B]%-[^9-B]%-[^9-B]%-[^9-B]%-[^9-B]%-[^9-B]%-[^9-B]%-[^9-B]%-[^9-B]%-[^9-B]%-[^9-B]%-[^9-B]' 'NEW'  inputs/temp-test/892.inp.383.5 outputs/t208
+'%-[^9-B][^0-9][_-z]?-^*?\$' '@n'  inputs/temp-test/1051.inp.452.11 outputs/t212
+'%? ' 'a@nb@tc'  inputs/temp-test/218.inp.97.5 outputs/t226
+'%? *' '@t'  inputs/temp-test/859.inp.369.5 outputs/t227
+'%?' ')]CS#C@X3[0J\\\$&a[[@mGOQ'  inputs/input/ruin.1876 outputs/t237
+'%??^[^9-B]@*?@**\$' '@n'  inputs/temp-test/251.inp.111.11 outputs/t258
+'%?@*\$' '@%&a'  inputs/temp-test/534.inp.231.11 outputs/t261
+'%?[0-9][9-B]-\$' 'a&'  inputs/temp-test/1974.inp.838.11 outputs/t267
+'%?[9-B][^a-c]' '@t'  inputs/temp-test/939.inp.403.5 outputs/t268
+'%?[^@@][^--z]c-[^0-9][9-B]??' 'a@n'  inputs/temp-test/305.inp.136.5 outputs/t273
+'%?[^a-c]-^?-[a-c]-?c*?[^9-B]-?' 'NEW'  inputs/temp-test/1588.inp.676.7 outputs/t279
+'%?[a-c-?' 'a@nb@tc'  inputs/temp-test/2201.inp.932.5 outputs/t283
+'%?c*\$' '@n@'  inputs/temp-test/350.inp.153.11 outputs/t290
+'%@@\$@,5rY]~M\ Wz]`M0)y8H?fc7Phqi}@,5rY]~M\ Wz]`M0)y8H?@,5rY]~M\ Wz]`M0)y8H?fc7Phqi}@,5rY]~M\ Wz]`M0)y8H?t]*[@t@][9-B]-*[0-9]][@t]*[@t@][9-B]t]*[@t@[9-B]-*[0-9]][@t]*[@t@][9-B]' 'H'  inputs/input/ruin.324 outputs/t310
+'%@@' 'V@'  inputs/input/ruin.1083 outputs/t323
+'%@@*' 'p'  inputs/input/ruin.283 outputs/t336
+'%@@*[^9-B] *-c*[-' '&a@%'  inputs/temp-test/1497.inp.641.7 outputs/t337
+'%@@@@\x[^v]@@' '/!OJ=t,WAMc%C'  inputs/input/ruin.344 outputs/t341
+'%@n' 'l|'  inputs/input/ruin.1775 outputs/t349
+'%@t\$' '\_'  inputs/input/ruin.1586 outputs/t353
+'%A*[^0-9]*\$' '@%@&'  inputs/temp-test/36.inp.15.10 outputs/t357
+'%S?*' ' P'  inputs/input/ruin.1601 outputs/t365
+'%[-z][^9-B]?--[^9-B]-[^9-B][^9-B]-?@[' '@n'  inputs/temp-test/2096.inp.888.5 outputs/t372
+'%[0-9H]\$' 'l*>nm)BOulbBc1&N6A'  inputs/input/ruin.549 outputs/t374
+'%[0-9]' 'l'  inputs/input/ruin.1572 outputs/t375
+'%[0-9]**' 'a'  inputs/moni/f7.inp outputs/t376
+'%[1]*@@' '@YLmg{>yPr b&3<TkY4-a|k+L63(J^\$~xY:n\b6%fo3[-n, =}@e'  inputs/input/ruin.626 outputs/t382
+'%[^9-B]?-[^9-B]-*-[^9-B][^0-9]-*-[^0-9]\$' '@%&a'  inputs/temp-test/1083.inp.466.10 outputs/t424
+'%[^9-B][9-B]-*?[^@@]-a-]-' '@%&a'  inputs/temp-test/2143.inp.907.5 outputs/t426
+'%[^>-A]' 'rw`h-v1P5_?OU7NRz`:a9HNb]H="9cjwym["lqG<!&sYJc^dbfdN7N2ms3E ZS&g'  inputs/input/ruin.666 outputs/t429
+'%[a-]-*[a-c][^a--]-\$' '@t'  inputs/temp-test/1091.inp.470.10 outputs/t454
+'%[a-b]?**' 'a'  inputs/moni/f7.inp outputs/t455
+'%a[ ]*' '&@t'  inputs/moni/f8.inp outputs/t491
+'%dB' 'P'  inputs/input/ruin.517 outputs/t495
+'%e@n[^>-A/]\$' '98&)4@z=|'\''-xLsL|#?_(vf/fhZ'  inputs/input/ruin.201 outputs/t496
+'[^a-c]@** *? [0-9]-?@**-' 'b@t'  inputs/temp-test/396.inp.173.1 outputs/t510
+'[^c-a]' '!'  inputs/input/ruin.469 outputs/t565
+'[^c-a]' ''\''n52Glpp'  inputs/input/ruin.1535 outputs/t566
+'[^ec-a]' 'T}UP?R=Z[T|IG=mM'  inputs/input/ruin.166 outputs/t578
+'[^z-}>-A0-9A-G>-A0-9]' 'X'  inputs/input/ruin.1054 outputs/t590
+'[^z-}]*?' ' '  inputs/input/ruin.1192 outputs/t608
+'[_-z]-^ [^0-9][^a-][a-c]-[^9-B]-?[^9-B]?@**[a-c@t*?' 'a@nb@tc'  inputs/temp-test/1757.inp.747.1 outputs/t620
+'[a-@[*' 'NEW'  inputs/temp-test/860.inp.370.1 outputs/t676
+'[a-]**' 'a'  inputs/moni/f7.inp outputs/t698
+'[a-c][^0-9]*[a-c]' '&@n'  inputs/temp-test/690.inp.300.1 outputs/t802
+'[a-c][^0-9]-*-[a-c]-\$' '@n'  inputs/temp-test/694.inp.300.9 outputs/t806
+'[a-z]\$' 6666666  inputs/moni/f6.inp outputs/t824
+'\Y!%aK@@' 'G'  inputs/input/ruin.142 outputs/t902
+'\u=vvW~U' '2'  inputs/input/ruin.949 outputs/t908
+'c[]*[^a-' 'a@nb@tc'  inputs/temp-test/515.inp.224.3 outputs/t1159
+'i' '62k|h=&-kA{I^m)l>oO{G2k|h=&-kA{I^m)l>oO{G2k|h=&-kA{I^m)l>oO{G2k|h=&-kA{I^m)l>oO{G2k|h=&-kA{I^m)l>oO{G2k|h=&-kA{I^m)l>oO{G'  inputs/input/ruin.1031 outputs/t1193
+'--[^9-B][0-9]--[0-9]*-' '@%@&'  inputs/temp-test/17.inp.8.1 outputs/t1841
+'-?-@**[^0-9]-@@*[^9-B]?@n*\$' '@%@&'  inputs/temp-test/2078.inp.880.6 outputs/t1898
+'-?-@**[^0-9]-@@*[^9-B]?@n*' '@%@&'  inputs/temp-test/2076.inp.880.1 outputs/t1899
+'-?-@n *?' '@%@&'  inputs/temp-test/617.inp.266.1 outputs/t1901
+'-[^0-9][0-9]A@@*[^0-9][9-B]@@[^a-c]--[0-9][9-B][^a-]' 'NEW'  inputs/temp-test/1584.inp.675.1 outputs/t2112
+'&a@%'  inputs/temp-test/2010.inp.853.1 outputs/t2283
+'?' ')'  inputs/input/ruin.1751 outputs/t2423
+'?*\$' '#((G)KKH'  inputs/input/ruin.1245 outputs/t2646
+'?@t*?@t*?@t*?@t*?@t*?@t*?@t*?@t*?@t*?@t*?@t*?@t*?@t*?@t*?@t*?@t*?@t*?@t*?@t*?@t*?@t*?@t*?@t*?@t*?@t*?@t*?@t*?@t*' 'b@t'  inputs/temp-test/1003.inp.432.1 outputs/t2836
+'?[0-9]--*[9-B][a-c[^9-B]' '@%@&'  inputs/temp-test/1812.inp.770.1 outputs/t2870
+'?[^p&y=3[p&y=3[ZYIp&y=3[ZYIp&y=3[ZYIp&y=3[ZYIp&y=3[ZYIp&y=3[ZYIp&y=3[ZYIZYIgTBk0-9]' 'J'  inputs/input/ruin.1332 outputs/t3028
+'?\ Ynh[' 'q'  inputs/input/ruin.380 outputs/t3068
+'@n*' 'B(=9uHKrS'  inputs/input/ruin.106 outputs/t4051
+'@n*[^0-9]?--[^a--@*' '@t'  inputs/temp-test/1062.inp.457.1 outputs/t4059
+'D*@@*' '~'  inputs/input/ruin.1524 outputs/t4188
+'H8WstZ' 'B'  inputs/input/ruin.808 outputs/t4201
+'[0-9]?^[^0-9]?-[^0-9]c[^a--]-[0-9][^9-B]@n[^0-9][9-B]?' '@n'  inputs/temp-test/1629.inp.693.1 outputs/t4374
+'[9-B][9-B][9-B][9-B][9-B][9-B][9-B][9-B][9-B][9-B][9-B][9-B][9-B][9-B][9-B][9-B][9-B][9-B][9-B][9-B][9-B][9-B][9-B][9-B]' 'b@t'  inputs/temp-test/949.inp.409.1 outputs/t4518
+'[Y-a]^_' '&aaaaaaaaaaaaaaaaaaa&'  inputs/input/ruin.506 outputs/t4637
+'[^@@]%-' 'a&'  inputs/temp-test/2350.inp.998.1 outputs/t5116
+'[^]' '@n67@n67@n'  inputs/moni/f8.inp outputs/t5200
+'123!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!' '&[lkjasdlkjdf]&'   inputs/moni/rr3.t outputs/t5423
+'8888888888888?8888888888888\$' '&@t&@t&'   inputs/moni/rr6.t outputs/t5483
+'[1@&@@@@#@%%^*@@n]*' '&@t&          &'  inputs/moni/rr17.t outputs/t5525
+'????????????????????????????????????????????????????????????????[iiiiiiiii@x@z]' 'abc' inputs/dela01
+'xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx[----]' 'NEW' inputs/dela02
+'[aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa-----------------------------------------' 'NEW' inputs/dela02 
+'xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx@n' 'NEW' inputs/dela01 
+'xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx[@n]' 'NEW' inputs/dela01 
+'xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx[@t]' 'N' inputs/dela03 
+'xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx[tt]' 'N' inputs/dela03 
+'xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx[w-x]' 'N' inputs/dela03 
+'xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx[@aw-x]' 'N' inputs/dela03 
+'xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx[@t]' 'N' inputs/dela03 
+'xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx[@t]' 'N' inputs/dela03 
+'xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx[@t]' 'N' inputs/dela03 
+'[y-x]' 'N' inputs/dela02 
+'[x-x]' 'N' inputs/dela02 

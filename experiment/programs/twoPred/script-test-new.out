@@ -1,0 +1,16 @@
+
+li -P __twoPred twoPred __twoPred 
+
+
++------------------------------------------------------
+|FUNCTION                       LOC'S   CONNECTIONS
++------------------------------------------------------
+|twoPred                        10      0
++------------------------------------------------------
+|main                           3       3
++------------------------------------------------------
+|TOTAL (2     FUNCTIONS)        13      3
++------------------------------------------------------
+pteste -create -S twoPred -E twoPred -C "gcc twoPred.c driver.c  -o twoPred -w -lm" -research S_twoPred
+tcase -create S_twoPred
+muta -create S_twoPred

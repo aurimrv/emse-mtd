@@ -1,0 +1,17 @@
+u-Cccr,1
+u-Ccsr,3
+u-CRCR,3
+u-OEAA,4
+u-OEBA,5
+u-OESA,4
+u-Oido,2
+u-OODL,1
+u-ORLN,1
+u-ORRN,2
+u-SRSR,15
+u-SSDL,11
+u-STRI,3
+u-STRP,5
+u-VDTR,4
+u-VSCR,5
+u-VVDL,1

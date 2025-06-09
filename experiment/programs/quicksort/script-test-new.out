@@ -1,0 +1,16 @@
+
+li -P __quicksort quicksort __quicksort 
+
+
++------------------------------------------------------
+|FUNCTION                       LOC'S   CONNECTIONS
++------------------------------------------------------
+|main                           13      3
++------------------------------------------------------
+|quicksort                      23      1
++------------------------------------------------------
+|TOTAL (2     FUNCTIONS)        36      4
++------------------------------------------------------
+pteste -create -S quicksort -E quicksort -C "gcc driver.c quicksort.c -o quicksort -w -lm" -research S_quicksort
+tcase -create S_quicksort
+muta -create S_quicksort

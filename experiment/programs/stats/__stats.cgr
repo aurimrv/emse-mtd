@@ -1,0 +1,8 @@
+
+@computeStats
+     sqrt                printf
+
+
+@main
+     atoi                computeStats        printf
+

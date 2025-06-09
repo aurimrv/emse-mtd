@@ -1,0 +1,7 @@
+u-OAAN,2
+u-ORAN,2
+u-ORRN,6
+u-SRSR,8
+u-VDTR,28
+u-VLSR,4
+u-VTWD,6

@@ -1,0 +1,3 @@
+opmuta  -unit jday -unit jdate -u- 1.0 0 __jday-jdate __jday-jdate  | muta -add  S_jday-jdate 
+
+2821 Mutants Generated

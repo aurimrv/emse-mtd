@@ -1,0 +1,6 @@
+u-OEAA,4
+u-OEBA,4
+u-OESA,4
+u-SRSR,6
+u-SSDL,3
+u-VSCR,1

@@ -1,0 +1,11 @@
+u-CRCR,28
+u-OAAN,9
+u-OALN,6
+u-OARN,18
+u-OODL,6
+u-SSDL,2
+u-STRP,2
+u-VDTR,34
+u-VLSR,8
+u-VTWD,9
+u-VVDL,4

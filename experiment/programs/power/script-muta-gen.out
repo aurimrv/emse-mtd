@@ -1,0 +1,3 @@
+opmuta  -unit power -u- 1.0 0 __power __power  | muta -add  S_power 
+
+268 Mutants Generated

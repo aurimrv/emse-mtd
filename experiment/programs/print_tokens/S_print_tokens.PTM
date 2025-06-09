@@ -1,0 +1,10 @@
+PROTEUM - PROGRAM TEST FILE
+Feb-19-24
+V 2.1 - IM
+              
+print_tokens
+print_tokens
+gcc print_tokens.c driver.c -o print_tokens -w -lm
+Research
+<N O  A N O M A L I E S>
+<A L L   F U N C T I O N S>

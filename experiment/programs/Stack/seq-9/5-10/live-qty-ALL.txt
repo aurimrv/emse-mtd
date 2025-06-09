@@ -1,0 +1,6 @@
+u-ORRN,1
+u-SSDL,1
+u-STRI,2
+u-STRP,1
+u-VDTR,2
+u-VSCR,3

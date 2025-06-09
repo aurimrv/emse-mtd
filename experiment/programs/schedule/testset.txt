@@ -1,0 +1,45 @@
+7 1 9 inputs/input/inp.58 outputs/t1 
+4 8 8 inputs/input/inp.18 outputs/t3 
+10 0 2 inputs/input/inp.51 outputs/t4 
+8 3 2 inputs/input/inp.99 outputs/t5 
+7 10 5 inputs/input/inp.84 outputs/t6 
+4 0 6 inputs/input/inp.20 outputs/t7 
+3 7 4 inputs/input/inp.28 outputs/t8 
+7 9 8 inputs/input/inp.14 outputs/t11 
+8 9 0 inputs/input/inp.34 outputs/t12 
+8 3 9 inputs/input/inp.56 outputs/t16 
+7 4 2 inputs/input/inp.12 outputs/t17 
+0 4 1 inputs/input/inp.75 outputs/t19 
+3 7 3 inputs/input/inp.32 outputs/t26 
+4 6 2 inputs/input/inp.97 outputs/t31 
+0 2 2 inputs/input/inp.97 outputs/t46 
+2 0 1 inputs/input/inp.3 outputs/t94 
+0 0 0 inputs/input/tc.1 outputs/t301 
+0 0 0 inputs/input/tc.6 outputs/t306 
+0 0 0 inputs/input/tc.30 outputs/t330 
+1 1 1 inputs/input/dat014 outputs/t615 
+2 5 1 inputs/input/dat028 outputs/t629 
+0 1 1 inputs/input/dat049 outputs/t650 
+4 4 2 inputs/input/dat052 outputs/t653 
+3 5 5 inputs/input/dat109 outputs/t710 
+1 1 1 inputs/input/ad.1 outputs/t1401 
+2 5 6 inputs/input/adt.55 outputs/t1522 
+7 1 9 inputs/input/inp.hf.1 outputs/t1557 
+10 0 2 inputs/input/inp.hf.4 outputs/t1560 
+7 10 5 inputs/input/inp.hf.6 outputs/t1562 
+3 7 4 inputs/input/inp.hf.8 outputs/t1564 
+3 5 9 inputs/input/add.316 outputs/t1769 
+6 5 6 inputs/input/lu68 outputs/t1934 
+1 4 2 inputs/input/bdt.35 outputs/t2368 
+4 8 8 inputs/input/bdt.18 outputs/t2369 
+2 7 7 inputs/input/bdt.77 outputs/t2389 
+10 8 3 inputs/input/ft.25 outputs/t2475 
+2 7 3 inputs/input/ft.11 outputs/t2498 
+- 1 3 3 3 inputs/dela01
+3 3 3 inputs/dela03 
+7 7 7 inputs/dela03 
+7 7 7 inputs/dela04 
+7 7 7 inputs/dela05 
+- 2 3 3 3 inputs/input/inp.99 
+3 3 3 inputs/dela06 
+3 3 3 inputs/dela07 

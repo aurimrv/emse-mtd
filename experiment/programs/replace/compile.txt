@@ -1,0 +1,1 @@
+gcc replace.c driver.c -w -o replace -lm

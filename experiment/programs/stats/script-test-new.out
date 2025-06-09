@@ -1,0 +1,16 @@
+
+li -P __stats stats __stats 
+
+
++------------------------------------------------------
+|FUNCTION                       LOC'S   CONNECTIONS
++------------------------------------------------------
+|computeStats                   19      2
++------------------------------------------------------
+|main                           7       3
++------------------------------------------------------
+|TOTAL (2     FUNCTIONS)        26      5
++------------------------------------------------------
+pteste -create -S stats -E stats -C "gcc stats.c driver.c -o stats -w -lm" -research S_stats
+tcase -create S_stats
+muta -create S_stats

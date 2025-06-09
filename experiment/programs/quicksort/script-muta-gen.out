@@ -1,0 +1,3 @@
+opmuta  -unit quicksort -u- 1.0 0 __quicksort __quicksort  | muta -add  S_quicksort 
+
+1026 Mutants Generated

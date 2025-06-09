@@ -1,0 +1,3 @@
+opmuta  -unit get_line -unit addstr -unit esc -unit dodash -unit getccl -unit stclose -unit in_set_2 -unit in_pat_set -unit makepat -unit getpat -unit makesub -unit getsub -unit locate -unit omatch -unit patsize -unit amatch -unit putsub -unit subline -unit change -unit Caseerror -u- 1.0 0 __replace __replace  | muta -add  S_replace 
+
+11101 Mutants Generated

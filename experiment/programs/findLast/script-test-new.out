@@ -1,0 +1,16 @@
+
+li -P __findLast findLast __findLast 
+
+
++------------------------------------------------------
+|FUNCTION                       LOC'S   CONNECTIONS
++------------------------------------------------------
+|findLast                       10      0
++------------------------------------------------------
+|main                           14      3
++------------------------------------------------------
+|TOTAL (2     FUNCTIONS)        24      3
++------------------------------------------------------
+pteste -create -S findLast -E findLast -C "gcc findLast.c driver.c -o findLast -w -lm" -research S_findLast
+tcase -create S_findLast
+muta -create S_findLast

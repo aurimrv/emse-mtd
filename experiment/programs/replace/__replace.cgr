@@ -1,0 +1,86 @@
+
+@get_line
+     fgets
+
+
+@addstr
+
+
+
+@esc
+
+
+
+@dodash
+     esc                 addstr              isalnum
+
+
+@getccl
+     addstr              dodash
+
+
+@stclose
+     addstr
+
+
+@in_set_2
+
+
+
+@in_pat_set
+
+
+
+@makepat
+     addstr              getccl              in_set_2            stclose        
+     esc
+
+
+@getpat
+     makepat
+
+
+@makesub
+     addstr              esc
+
+
+@getsub
+     makesub
+
+
+@locate
+
+
+
+@omatch
+     in_pat_set          fprintf             exit                locate         
+     Caseerror
+
+
+@patsize
+     in_pat_set          fprintf             exit                Caseerror
+
+
+@amatch
+     patsize             omatch              amatch
+
+
+@putsub
+     fputc
+
+
+@subline
+     amatch              putsub              fputc
+
+
+@change
+     get_line            subline
+
+
+@main
+     strcmp              driver              atoi
+
+
+@Caseerror
+     fprintf             exit
+

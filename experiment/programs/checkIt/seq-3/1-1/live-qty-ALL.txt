@@ -1,0 +1,12 @@
+u-CRCR,1
+u-OLAN,5
+u-OLBN,2
+u-OLNG,3
+u-OLRN,8
+u-OLSN,1
+u-SRSR,2
+u-SSDL,2
+u-STRI,1
+u-STRP,2
+u-VDTR,3
+u-VTWD,2

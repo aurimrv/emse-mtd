@@ -1,0 +1,18 @@
+
+li -P __jday-jdate jday-jdate __jday-jdate 
+
+
++------------------------------------------------------
+|FUNCTION                       LOC'S   CONNECTIONS
++------------------------------------------------------
+|jday                           13      0
++------------------------------------------------------
+|jdate                          26      0
++------------------------------------------------------
+|main                           14      5
++------------------------------------------------------
+|TOTAL (3     FUNCTIONS)        53      5
++------------------------------------------------------
+pteste -create -S jday-jdate -E jday-jdate -C "gcc jday-jdate.c driver.c -o jday-jdate -w -lm" -research S_jday-jdate
+tcase -create S_jday-jdate
+muta -create S_jday-jdate

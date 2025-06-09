@@ -1,0 +1,3 @@
+opmuta  -unit checkIt -u- 1.0 0 __checkIt __checkIt  | muta -add  S_checkIt 
+
+104 Mutants Generated

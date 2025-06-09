@@ -1,0 +1,8 @@
+u-Ccsr,2
+u-CRCR,4
+u-OEAA,1
+u-ORRN,1
+u-SMTC,1
+u-VDTR,7
+u-VLSR,2
+u-VTWD,2

@@ -1,0 +1,18 @@
+
+li -P __printPrimes printPrimes __printPrimes 
+
+
++------------------------------------------------------
+|FUNCTION                       LOC'S   CONNECTIONS
++------------------------------------------------------
+|isDivisible                    5       0
++------------------------------------------------------
+|printPrimes                    30      2
++------------------------------------------------------
+|main                           4       2
++------------------------------------------------------
+|TOTAL (3     FUNCTIONS)        39      4
++------------------------------------------------------
+pteste -create -S printPrimes -E printPrimes -C "gcc printPrimes.c driver.c -o printPrimes -w -lm" -research S_printPrimes
+tcase -create S_printPrimes
+muta -create S_printPrimes

@@ -1,0 +1,36 @@
+
+[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][]
+[]
+[]                  PROGRAM TESTE: S_replace
+[]----------------------------------------------------------
+[]   SOURCE FILE: replace
+[]
+[]   TOTAL MUTANTS: 11101
+[]
+[]   ANOMALOUS MUTANTS: 0
+[]
+[]   ACTIVE MUTANTS: 11101
+[]
+[]   ALIVE MUTANTS: 11101
+[]
+[]   EQUIVALENT MUTANTS: 0
+[]
+[]   MUTATION SCORE: 0.000000
+[]
+[]   OPERATORS:
+[]   u-Cccr            658    u-CCDL             76    u-Ccsr           1251    
+[]   u-CRCR           1250    u-OAAN            152    u-OABN            114    
+[]   u-OALN             76    u-OARN            228    u-OASN             76    
+[]   u-OCNG             53    u-OCOR              8    u-OEAA            550    
+[]   u-OEBA            330    u-OESA            220    u-Oido              3    
+[]   u-OLAN            125    u-OLBN             75    u-OLLN             25    
+[]   u-OLNG             75    u-OLRN            150    u-OLSN             50    
+[]   u-OODL            280    u-ORAN            330    u-ORBN            198    
+[]   u-ORLN            134    u-ORRN            335    u-ORSN            132    
+[]   u-SMTC             13    u-SMTT             13    u-SMVB             12    
+[]   u-SRSR            233    u-SSDL            256    u-SSWM             15    
+[]   u-STRI             80    u-STRP            257    u-SWDD             10    
+[]   u-VDTR            750    u-VLPR            140    u-VLSR           1741    
+[]   u-VTWD            500    u-VVDL            127    
+[]
+[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][]

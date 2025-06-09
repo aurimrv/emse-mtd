@@ -1,0 +1,27 @@
+inputs/bug6.123.1 
+inputs/bug6.123.10 
+inputs/bug6.123.11 
+inputs/bug6.123.13 
+inputs/bug6.123.14 
+inputs/bug6.123.15 
+inputs/bug6.123.17 
+inputs/bug6.123.18 
+inputs/bug6.123.19 
+inputs/bug6.123.3 
+inputs/bug6.123.6 
+inputs/bug6.123.8 
+inputs/jk0 
+inputs/jk16 
+inputs/jk9 
+inputs/newtst100.tst 
+inputs/newtst101.tst 
+inputs/newtst27.tst 
+inputs/newtst510.tst 
+inputs/newtst522.tst.noeof 
+inputs/test10 
+inputs/uslin.1004 
+inputs/uslin.301 
+xxxxxx 
+? 1 inputs/jk29 
+? 2 inputs/jk29 
+? 3 inputs/jk29

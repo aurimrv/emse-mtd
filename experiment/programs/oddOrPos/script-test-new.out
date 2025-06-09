@@ -1,0 +1,16 @@
+
+li -P __oddOrPos oddOrPos __oddOrPos 
+
+
++------------------------------------------------------
+|FUNCTION                       LOC'S   CONNECTIONS
++------------------------------------------------------
+|oddOrPos                       9       0
++------------------------------------------------------
+|main                           7       3
++------------------------------------------------------
+|TOTAL (2     FUNCTIONS)        16      3
++------------------------------------------------------
+pteste -create -S oddOrPos -E oddOrPos -C "gcc oddOrPos.c driver.c -o oddOrPos -w -lm" -research S_oddOrPos
+tcase -create S_oddOrPos
+muta -create S_oddOrPos

@@ -1,0 +1,4 @@
+u-ORRN,1
+u-STRI,1
+u-VDTR,2
+u-VSCR,1

@@ -1,0 +1,16 @@
+
+li -P __lastZero lastZero __lastZero 
+
+
++------------------------------------------------------
+|FUNCTION                       LOC'S   CONNECTIONS
++------------------------------------------------------
+|lastZero                       9       0
++------------------------------------------------------
+|main                           7       3
++------------------------------------------------------
+|TOTAL (2     FUNCTIONS)        16      3
++------------------------------------------------------
+pteste -create -S lastZero -E lastZero -C "gcc lastZero.c driver.c -o lastZero -w -lm" -research S_lastZero
+tcase -create S_lastZero
+muta -create S_lastZero

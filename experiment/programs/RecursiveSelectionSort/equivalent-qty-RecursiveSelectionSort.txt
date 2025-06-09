@@ -1,0 +1,9 @@
+u-CCDL,1
+u-CRCR,1
+u-OAAN,2
+u-OABN,1
+u-OODL,1
+u-ORRN,2
+u-VDTR,23
+u-VLSR,1
+u-VTWD,5

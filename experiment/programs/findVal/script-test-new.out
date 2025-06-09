@@ -1,0 +1,16 @@
+
+li -P __findVal findVal __findVal 
+
+
++------------------------------------------------------
+|FUNCTION                       LOC'S   CONNECTIONS
++------------------------------------------------------
+|findVal                        7       0
++------------------------------------------------------
+|main                           8       3
++------------------------------------------------------
+|TOTAL (2     FUNCTIONS)        15      3
++------------------------------------------------------
+pteste -create -S findVal -E findVal -C "gcc findVal.c driver.c -o findVal -w -lm" -research S_findVal
+tcase -create S_findVal
+muta -create S_findVal

@@ -1,0 +1,1 @@
+gcc tcas.c driver.c  -o tcas -w -lm

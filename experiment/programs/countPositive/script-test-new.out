@@ -1,0 +1,16 @@
+
+li -P __countPositive countPositive __countPositive 
+
+
++------------------------------------------------------
+|FUNCTION                       LOC'S   CONNECTIONS
++------------------------------------------------------
+|countPositive                  9       0
++------------------------------------------------------
+|main                           7       3
++------------------------------------------------------
+|TOTAL (2     FUNCTIONS)        16      3
++------------------------------------------------------
+pteste -create -S countPositive -E countPositive -C "gcc countPositive.c driver.c -o countPositive -w -lm" -research S_countPositive
+tcase -create S_countPositive
+muta -create S_countPositive

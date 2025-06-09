@@ -1,0 +1,3 @@
+opmuta  -unit digit_reverser -u- 1.0 0 __DigitReverser __DigitReverser  | muta -add  S_DigitReverser 
+
+496 Mutants Generated

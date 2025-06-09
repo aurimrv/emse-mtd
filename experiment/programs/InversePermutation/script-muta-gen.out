@@ -1,0 +1,3 @@
+opmuta  -unit invert -u- 1.0 0 __InversePermutation __InversePermutation  | muta -add  S_InversePermutation 
+
+576 Mutants Generated

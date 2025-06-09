@@ -1,0 +1,1 @@
+gcc Gaussian.c driver.c -o Gaussian -w -lm

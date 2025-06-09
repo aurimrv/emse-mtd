@@ -1,0 +1,1 @@
+gcc schedule.c driver.c -o schedule -w -lm

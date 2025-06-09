@@ -1,0 +1,28 @@
+
+li -P __RecursiveSelectionSort RecursiveSelectionSort __RecursiveSelectionSort 
+
+
++------------------------------------------------------
+|FUNCTION                       LOC'S   CONNECTIONS
++------------------------------------------------------
+|__bswap_16                     2       1
++------------------------------------------------------
+|__bswap_32                     2       1
++------------------------------------------------------
+|__bswap_64                     2       1
++------------------------------------------------------
+|__uint16_identity              2       0
++------------------------------------------------------
+|__uint32_identity              2       0
++------------------------------------------------------
+|__uint64_identity              2       0
++------------------------------------------------------
+|sort                           17      1
++------------------------------------------------------
+|main                           9       3
++------------------------------------------------------
+|TOTAL (8     FUNCTIONS)        38      7
++------------------------------------------------------
+pteste -create -S RecursiveSelectionSort -E RecursiveSelectionSort -C "gcc RecursiveSelectionSort.c driver.c -o RecursiveSelectionSort -w -lm" -research S_RecursiveSelectionSort
+tcase -create S_RecursiveSelectionSort
+muta -create S_RecursiveSelectionSort

@@ -1,0 +1,1105 @@
+
+Teste Case # 1 0
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 10
+	Return Code: 0
+	Parameters: inputs/universe/tst88 outputs/t1 
+	Input Size: 0
+	Output Size: 164
+	Stderr Size: 0
+	Input:
+
+	Output:
+#lfglfgl
+table too small
+#lsfls
+#lsdfklslk
+#slgfkllkgfs
+#slfklskdfl
+#lflka
+#dlghldlA
+#dlkfgfd
+table all zeros
+table too small
+
+*** no information accumulated ***
+1
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 2 1
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 10
+	Return Code: 0
+	Parameters: inputs/universe/tst16 outputs/t3 
+	Input Size: 0
+	Output Size: 186
+	Stderr Size: 0
+	Input:
+
+	Output:
+2info =  0.54	df =  2	q =  0.7649
+2info = 6813.98	df =  8	q =  0.0000
+2info =  1.40	df =  2	q =  0.4977
+# tU2JO)*fkD0zv+wp5 
+table all zeros
+
+total 2info = 6815.91	df = 12	q =  0.0000
+0
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 3 2
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 10
+	Return Code: 0
+	Parameters: inputs/universe/jkADr.mat outputs/t4 
+	Input Size: 0
+	Output Size: 59
+	Stderr Size: 0
+	Input:
+
+	Output:
+# # 
+table too small
+
+*** no information accumulated ***
+1
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 4 3
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 10
+	Return Code: 0
+	Parameters: inputs/universe/tst6 outputs/t5 
+	Input Size: 0
+	Output Size: 93
+	Stderr Size: 0
+	Input:
+
+	Output:
+#  nq @$!i   QTg#l     
+table too small
+2info =  0.14	df =  1	q =  0.7098
+* EOF in table *
+1
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 5 4
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 10
+	Return Code: 0
+	Parameters: inputs/universe/tst13 outputs/t6 
+	Input Size: 0
+	Output Size: 347
+	Stderr Size: 0
+	Input:
+
+	Output:
+# 0 
+table too small
+2info =  0.00	df =  2	q =  1.0000
+table too small
+2info =  0.00	df =  9	q =  1.0000
+2info =  0.08	df =  2	q =  0.9606
+2info = 39.19	df =  2	q =  0.0000
+2info =  5.06	df =  2	q =  0.0795
+2info =  6.94	df =  2	q =  0.0312
+2info =  0.00	df =  2	q =  1.0000
+table all zeros
+2info =  0.00	df =  2	q =  1.0000
+* table too large *
+1
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 6 5
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 10
+	Return Code: 0
+	Parameters: inputs/universe/tst108 outputs/t7 
+	Input Size: 0
+	Output Size: 117
+	Stderr Size: 0
+	Input:
+
+	Output:
+2info =  3.80	df =  3	q =  0.2834
+#dlghldlA
+table all zeros
+negative freq
+
+total 2info =  3.80	df =  3	q =  0.2834
+0
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 7 6
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 11
+	Return Code: 0
+	Parameters: inputs/universe/tst8 outputs/t11 
+	Input Size: 0
+	Output Size: 30
+	Stderr Size: 0
+	Input:
+
+	Output:
+# RxKx 
+* table too large *
+1
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 8 7
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 10
+	Return Code: 0
+	Parameters: inputs/universe/tst55 outputs/t13 
+	Input Size: 0
+	Output Size: 103
+	Stderr Size: 0
+	Input:
+
+	Output:
+# c 
+2info =  5.27	df =  3	q =  0.1532
+#dkjfgkdfk
+2info =  0.14	df =  1	q =  0.7098
+* EOF in table *
+1
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 9 8
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 11
+	Return Code: 0
+	Parameters: inputs/universe/tst76 outputs/t14 
+	Input Size: 0
+	Output Size: 180
+	Stderr Size: 0
+	Input:
+
+	Output:
+#   
+2info = 46766.38	df = 17	q =  0.0000
+2info =  0.14	df =  1	q =  0.7098
+#  nq @$!i   QTg#l     
+2info = 45.46	df = 44	q =  0.4110
+
+total 2info = 46811.98	df = 62	q =  0.0000
+0
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 10 9
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 10
+	Return Code: 0
+	Parameters: inputs/universe/tst109 outputs/t15 
+	Input Size: 0
+	Output Size: 123
+	Stderr Size: 0
+	Input:
+
+	Output:
+#dlghldlA
+table all zeros
+negative freq
+2info = 3778.62	df = 231	q =  0.0000
+
+total 2info = 3778.62	df = 231	q =  0.0000
+0
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 11 10
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 10
+	Return Code: 0
+	Parameters: inputs/universe/tst90 outputs/t19 
+	Input Size: 0
+	Output Size: 70
+	Stderr Size: 0
+	Input:
+
+	Output:
+# ^ 
+2info = 970.99	df =  2	q =  0.0000
+* invalid row/column line *
+1
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 12 11
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 10
+	Return Code: 0
+	Parameters: inputs/universe/tst56 outputs/t21 
+	Input Size: 0
+	Output Size: 162
+	Stderr Size: 0
+	Input:
+
+	Output:
+2info =  0.54	df =  2	q =  0.7649
+2info = 738387526.99	df =  8	q =  0.0000
+2info =  1.40	df =  2	q =  0.4977
+2info =  0.14	df =  1	q =  0.7098
+* EOF in table *
+1
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 13 12
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 10
+	Return Code: 0
+	Parameters: inputs/universe/tst91 outputs/t27 
+	Input Size: 0
+	Output Size: 277
+	Stderr Size: 0
+	Input:
+
+	Output:
+#  t% saP95kJO_BkYEuo65@1HsZ$  p%Udpmkk*)kKqfM NqCjwdaI@v    
+2info =  8.15	df =  6	q =  0.2273
+#  t% saP95kJO_BkYEuo65@1HsZ$  p%Udpmkk*)kKqfM NqCjwdaI@v    
+2info =  8.15	df =  6	q =  0.2273
+#dlghldlA
+table all zeros
+table all zeros
+
+total 2info = 16.30	df = 12	q =  0.1778
+0
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 14 13
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 10
+	Return Code: 0
+	Parameters: inputs/universe/tst77 outputs/t30 
+	Input Size: 0
+	Output Size: 288
+	Stderr Size: 0
+	Input:
+
+	Output:
+2info = 4904.19	df = 65	q =  0.0000
+2info =  0.14	df =  1	q =  0.7098
+table all zeros
+2info =  0.00	df =  2	q =  1.0000
+table all zeros
+2info =  0.00	df =  4	q =  1.0000
+2info =  0.00	df =  4	q =  1.0000
+table all zeros
+2info = 330477.50	df =  6	q =  0.0000
+* invalid row/column line *
+1
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 15 14
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 10
+	Return Code: 0
+	Parameters: inputs/universe/tst5 outputs/t40 
+	Input Size: 0
+	Output Size: 27
+	Stderr Size: 0
+	Input:
+
+	Output:
+#   
+* table too large *
+1
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 16 15
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 10
+	Return Code: 0
+	Parameters: inputs/universe/tst115 outputs/t53 
+	Input Size: 0
+	Output Size: 94
+	Stderr Size: 0
+	Input:
+
+	Output:
+#dlghldlA
+table all zeros
+negative freq
+#ldsflsfdl
+# Eo7P+FIAYPNgGXtrSXu6 
+* EOF in table *
+1
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 17 16
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 10
+	Return Code: 0
+	Parameters: inputs/universe/tst68 outputs/t55 
+	Input Size: 0
+	Output Size: 135
+	Stderr Size: 0
+	Input:
+
+	Output:
+2info =  0.54	df =  2	q =  0.7649
+negative freq
+2info =  1.40	df =  2	q =  0.4977
+2info =  0.14	df =  1	q =  0.7098
+* EOF in table *
+1
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 18 17
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 11
+	Return Code: 0
+	Parameters: inputs/universe/tst47 outputs/t61 
+	Input Size: 0
+	Output Size: 89
+	Stderr Size: 0
+	Input:
+
+	Output:
+2info =  0.54	df =  2	q =  0.7649
+2info = 6650.61	df =  8	q =  0.0000
+* EOF in table *
+1
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 19 18
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 10
+	Return Code: 0
+	Parameters: inputs/universe/tst73 outputs/t63 
+	Input Size: 0
+	Output Size: 97
+	Stderr Size: 0
+	Input:
+
+	Output:
+# 0 
+table too small
+#fdlgl
+table too small
+2info =  0.14	df =  1	q =  0.7098
+* EOF in table *
+1
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 20 19
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 11
+	Return Code: 0
+	Parameters: inputs/universe/tst64 outputs/t66 
+	Input Size: 0
+	Output Size: 133
+	Stderr Size: 0
+	Input:
+
+	Output:
+2info =  0.14	df =  1	q =  0.7098
+table too small
+2info =  1.05	df =  1	q =  0.3063
+negative freq
+table all zeros
+* EOF in table *
+1
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 21 20
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 10
+	Return Code: 0
+	Parameters: inputs/universe/tst94 outputs/t87 
+	Input Size: 0
+	Output Size: 160
+	Stderr Size: 0
+	Input:
+
+	Output:
+#  *  v&Borajny,7#*$4FvAd$*w3UG7 p  g   
+2info =  3.55	df =  1	q =  0.0594
+#dlghldlA
+table all zeros
+table all zeros
+
+total 2info =  3.55	df =  1	q =  0.0594
+0
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 22 21
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 10
+	Return Code: 0
+	Parameters: inputs/universe/tst70 outputs/t113 
+	Input Size: 0
+	Output Size: 138
+	Stderr Size: 0
+	Input:
+
+	Output:
+2info = 3778.62	df = 231	q =  0.0000
+# tU2JO)*fkD0zv+wp5 
+2info =  0.00	df = 11	q =  1.0000
+
+total 2info = 3778.62	df = 242	q =  0.0000
+0
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 23 22
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 10
+	Return Code: 0
+	Parameters: inputs/universe/test14 outputs/t131 
+	Input Size: 0
+	Output Size: 223
+	Stderr Size: 0
+	Input:
+
+	Output:
+# 0 
+table too small
+#fdlgl
+table too small
+2info =  0.14	df =  1	q =  0.7098
+table too small
+# uK(-! 
+2info = 3957.88	df = 261	q =  0.0000
+# tU2JO)*fkD0zv+wp5 
+table all zeros
+
+total 2info = 3958.02	df = 262	q =  0.0000
+0
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 24 23
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 10
+	Return Code: 0
+	Parameters: inputs/universe/test51 outputs/t169 
+	Input Size: 0
+	Output Size: 230
+	Stderr Size: 0
+	Input:
+
+	Output:
+2info = 4904.19	df = 65	q =  0.0000
+2info =  0.54	df =  2	q =  0.7649
+2info = 6813.98	df =  8	q =  0.0000
+2info =  1.40	df =  2	q =  0.4977
+2info =  0.14	df =  1	q =  0.7098
+#dlghldlA
+table all zeros
+* invalid row/column line *
+1
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 25 24
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 10
+	Return Code: 0
+	Parameters: inputs/universe/test105 outputs/t223 
+	Input Size: 0
+	Output Size: 288
+	Stderr Size: 0
+	Input:
+
+	Output:
+# 0 
+table too small
+negative freq
+table too small
+table too small
+negative freq
+table too small
+table too small
+negative freq
+2info =  0.00	df =  2	q =  1.0000
+2info =  0.00	df =  2	q =  1.0000
+2info =  0.00	df =  2	q =  1.0000
+table too small
+
+total 2info =  0.00	df =  6	q =  1.0000
+0
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 26 25
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 10
+	Return Code: 0
+	Parameters: inputs/universe/test191.inc outputs/t413 
+	Input Size: 0
+	Output Size: 87
+	Stderr Size: 0
+	Input:
+
+	Output:
+2info = 133338.51	df = 471	q =  0.0000
+
+total 2info = 133338.51	df = 471	q =  0.0000
+0
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 27 26
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 10
+	Return Code: 0
+	Parameters: inputs/universe/test325.inc outputs/t447 
+	Input Size: 0
+	Output Size: 77
+	Stderr Size: 0
+	Input:
+
+	Output:
+2info =  0.00	df =  1	q =  1.0000
+
+total 2info =  0.00	df =  1	q =  1.0000
+0
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 28 27
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 10
+	Return Code: 0
+	Parameters: inputs/universe/tst2B.mat outputs/t545 
+	Input Size: 0
+	Output Size: 44
+	Stderr Size: 0
+	Input:
+
+	Output:
+#  7 K Z    ,#Y      
+* table too large *
+1
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 29 28
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 11
+	Return Code: 0
+	Parameters: inputs/universe/jkAEn.mat outputs/t603 
+	Input Size: 0
+	Output Size: 114
+	Stderr Size: 0
+	Input:
+
+	Output:
+#   rI3   c9Or 1VAXSu75 
+2info = 1716925.79	df = 902	q =  0.0000
+
+total 2info = 1716925.79	df = 902	q =  0.0000
+0
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 30 29
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 10
+	Return Code: 0
+	Parameters: inputs/universe/jkAEp.mat outputs/t605 
+	Input Size: 0
+	Output Size: 109
+	Stderr Size: 0
+	Input:
+
+	Output:
+# LEb1Ss2np5T6RBAj#1crlg 
+2info = 9206.23	df = 931	q =  0.0000
+
+total 2info = 9206.23	df = 931	q =  0.0000
+0
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 31 30
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 10
+	Return Code: 0
+	Parameters: inputs/universe/bnewt7 outputs/t989 
+	Input Size: 0
+	Output Size: 357
+	Stderr Size: 0
+	Input:
+
+	Output:
+# 0 
+table too small
+#lfkslflsf
+#llsdlsdf
+#lsgklsgklsglk
+#l;dflflaslk
+2info = 20.28	df =  6	q =  0.0025
+table too small
+table too small
+negative freq
+table too small
+table too small
+negative freq
+2info =  0.00	df =  2	q =  1.0000
+2info =  0.00	df =  2	q =  1.0000
+2info =  0.00	df =  2	q =  1.0000
+table too small
+
+total 2info = 20.28	df = 12	q =  0.0619
+0
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 32 31
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 10
+	Return Code: 0
+	Parameters: inputs/dela01 
+	Input Size: 0
+	Output Size: 70
+	Stderr Size: 0
+	Input:
+
+	Output:
+                       #comment
+
+*** no information accumulated ***
+1
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 33 32
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 10
+	Return Code: 0
+	Parameters: inputs/dela02 
+	Input Size: 0
+	Output Size: 30
+	Stderr Size: 0
+	Input:
+
+	Output:
+* invalid row/column line *
+1
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 34 33
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 10
+	Return Code: 0
+	Parameters: - 1 inputs/dela03 
+	Input Size: 0
+	Output Size: 66
+	Stderr Size: 0
+	Input:
+
+	Output:
+table all zeros
+
+*** no information accumulated ***
+1
+-1.000000 1
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 35 34
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 10
+	Return Code: 0
+	Parameters: - 2 0 0 
+	Input Size: 0
+	Output Size: 16
+	Stderr Size: 0
+	Input:
+
+	Output:
+   1.0000000000
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 36 35
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 10
+	Return Code: 0
+	Parameters: - 3 0 
+	Input Size: 0
+	Output Size: 10
+	Stderr Size: 0
+	Input:
+
+	Output:
+37.783439
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 37 36
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 10
+	Return Code: 0
+	Parameters: - 2 0.2 2.9E-7 
+	Input Size: 0
+	Output Size: 16
+	Stderr Size: 0
+	Input:
+
+	Output:
+   0.9463515629
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 38 37
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 10
+	Return Code: 0
+	Parameters: - 2 -0.3 0.3 
+	Input Size: 0
+	Output Size: 16
+	Stderr Size: 0
+	Input:
+
+	Output:
+           -nan
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 39 38
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 10
+	Return Code: 0
+	Parameters: - 2 0.3 -0.3 
+	Input Size: 0
+	Output Size: 16
+	Stderr Size: 0
+	Input:
+
+	Output:
+   1.0000000000
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 40 39
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 10
+	Return Code: 0
+	Parameters: - 2 1 0 
+	Input Size: 0
+	Output Size: 16
+	Stderr Size: 0
+	Input:
+
+	Output:
+   1.0000000000
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 41 40
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 10
+	Return Code: 0
+	Parameters: - 2 0 1 
+	Input Size: 0
+	Output Size: 16
+	Stderr Size: 0
+	Input:
+
+	Output:
+   0.0000000000
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 42 41
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 10
+	Return Code: 0
+	Parameters: - 2 -0.5 0.5 
+	Input Size: 0
+	Output Size: 16
+	Stderr Size: 0
+	Input:
+
+	Output:
+           -nan
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 43 42
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 10
+	Return Code: 0
+	Parameters: - 2 -8 0 
+	Input Size: 0
+	Output Size: 16
+	Stderr Size: 0
+	Input:
+
+	Output:
+   0.0000000000
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 44 43
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 10
+	Return Code: 0
+	Parameters: - 2 -8 -1 
+	Input Size: 0
+	Output Size: 16
+	Stderr Size: 0
+	Input:
+
+	Output:
+   0.0000000000
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 45 44
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 10
+	Return Code: 0
+	Parameters: - 4 0.5 1024 
+	Input Size: 0
+	Output Size: 9
+	Stderr Size: 0
+	Input:
+
+	Output:
+1.000000
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 46 45
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 11
+	Return Code: 0
+	Parameters: - 4 0.5 -2 
+	Input Size: 0
+	Output Size: 5
+	Stderr Size: 0
+	Input:
+
+	Output:
+-nan
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 47 46
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 10
+	Return Code: 0
+	Parameters: - 4 0.5 0 
+	Input Size: 0
+	Output Size: 9
+	Stderr Size: 0
+	Input:
+
+	Output:
+1.000000
+
+	Stderr:
+
+Travessed blocks:

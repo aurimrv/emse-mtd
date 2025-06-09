@@ -1,0 +1,3 @@
+opmuta  -unit countPositive -u- 1.0 0 __countPositive __countPositive  | muta -add  S_countPositive 
+
+151 Mutants Generated

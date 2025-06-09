@@ -1,0 +1,12 @@
+u-Ccsr,1
+u-CRCR,1
+u-OCNG,1
+u-Oido,1
+u-ORRN,4
+u-SRSR,2
+u-SSDL,1
+u-STRI,2
+u-VDTR,1
+u-VGSR,4
+u-VLSR,1
+u-VSCR,1

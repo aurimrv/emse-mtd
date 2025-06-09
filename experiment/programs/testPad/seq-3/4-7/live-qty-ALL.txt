@@ -1,0 +1,9 @@
+u-OASN,1
+u-OEAA,3
+u-OEBA,2
+u-OESA,1
+u-ORAN,2
+u-ORBN,1
+u-ORRN,3
+u-VDTR,3
+u-VLSR,1

@@ -1,0 +1,3 @@
+opmuta  -unit trash -unit takeOut -u- 1.0 0 __trashAndTakeOut __trashAndTakeOut  | muta -add  S_trashAndTakeOut 
+
+599 Mutants Generated

@@ -1,0 +1,71 @@
+Coleta de dados
+
+# Total de mutantes
+
+for f in $(cat files.txt);do echo -n "$f;";cat $f/report*-final.lst | grep TOTAL | awk '{print $4}'; done
+
+for f in $(cat files-empty-driver.txt);do echo -n "$f;";cat $f/report*-final.lst | grep EQUIVALENT | awk '{print $4}'; done > total-equivalentes.csv
+
+# Total equivalentes SSDL
+
+for f in $(cat files-empty-driver.txt);do echo -n "$f;";cat $f/report*-SSDL.lst | grep EQUIVALENT | awk '{print $4}'; done > ssdl-equivalentes.csv
+
+
+# Dados incrementais evolução dívida
+
+for f in $(cat files-empty-driver.txt);do cat $f/syntese-score-gpt-4.0.csv | awk '{if(NR==2){print $0; exit}}'; done > evolucao-divida-dtm-auto.csv
+
+
+
+# Total mutantes SSDL
+
+echo "PROG;SEQ;TC;ACTIVE-OP;ALIVE-OP;EQUIVALENT-OP;SCORE-OP;ACTIVE-ALL;ALIVE-ALL;EQUIVALENT-ALL;SCORE-ALL;START-EXEC;END-EXEC"
+for f in $(cat files.txt);do 
+	for seq in $(echo "1 2 3 4 5 6 7 8 9 10");do
+		for tc in $(cat $f/seq-$seq/testset-sequence.txt); do
+			echo -n "$f;$seq;$tc;";
+			cat $f/seq-$seq/$tc/report-SSDL*.lst | grep ACTIVE | awk '{printf("%s;",$4)}'; 
+			cat $f/seq-$seq/$tc/report-SSDL*.lst | grep ALIVE | awk '{printf("%s;",$4)}'; 
+			cat $f/seq-$seq/$tc/report-SSDL*.lst | grep EQUIVALENT | awk '{printf("%s;",$4)}'; 
+			cat $f/seq-$seq/$tc/report-SSDL*.lst | grep SCORE | awk '{printf("%s;",$4)}'; 
+			cat $f/seq-$seq/$tc/report-ALL*.lst | grep ACTIVE | awk '{printf("%s;",$4)}'; 
+			cat $f/seq-$seq/$tc/report-ALL*.lst | grep ALIVE | awk '{printf("%s;",$4)}'; 
+			cat $f/seq-$seq/$tc/report-ALL*.lst | grep EQUIVALENT | awk '{printf("%s;",$4)}'; 
+			cat $f/seq-$seq/$tc/report-ALL*.lst | grep SCORE | awk '{printf("%s;",$4)}';
+			cat $f/seq-$seq/*-$tc.csv | awk 'BEGIN{FS=";"}{printf("%s;",$1)}'
+			echo ""
+		done
+	done
+done
+
+
+# Total mutantes SSDL
+
+>> mode-test-empty-driver/size-of-test-set-gpt-3.5.csv
+
+# Total number of test cases by ChatGPT 3.5 - General
+echo "PROG;0.0;0.1;0.2;0.3;0.4;0.5;0.6;0.7;0.8;0.9;1.0;ALL-NEQ;ALL";
+for f in $(cat mode-test-empty-driver/files-empty-driver.txt);do 
+	echo -n "$f" 
+	TOTAL=0
+	for t in $(echo "0.0 0.1 0.2 0.3 0.4 0.5 0.6 0.7 0.8 0.9 1.0 all"); do
+		SUM=0
+		FILES=0
+		echo -n ";"
+		for tc in $(ls mode-test-empty-driver/$f/ts-3.5/testset-3.5-${t}*.txt);do 
+			SIZE=$(awk 'END{print NR}' $tc)
+			SUM=$((SUM + $SIZE))
+			FILES=$((FILES + 1))
+			TOTAL=$((TOTAL + $SIZE))
+		done;
+		echo -n "$SUM $FILES" | awk '{printf("%f", $1/$2)}'
+	done;
+	TOTAL=$((TOTAL - $SIZE))
+	echo ";$TOTAL"
+done
+
+# Total number of test cases by ChatGPT 3.5
+for f in $(cat mode-test-empty-driver/files-empty-driver.txt);do for tc in $(ls mode-test-empty-driver/$f/ts-3.5/testset-*.txt);do echo -n "$f;$tc;" >> mode-test-empty-driver/$f/ts-3.5/size-of-test-set.csv; awk 'END{print NR}' $tc >> mode-test-empty-driver/$f/ts-3.5/size-of-test-set.csv; done; done
+
+# Total number of test cases by ChatGPT 4.0
+for f in $(cat mode-test-empty-driver/files-empty-driver.txt);do for tc in $(ls mode-test-empty-driver/$f/ts-4.0/testset-*.txt);do echo -n "$f;$tc;" >> mode-test-empty-driver/$f/ts-4.0/size-of-test-set.csv; awk 'END{print NR}' $tc >> mode-test-empty-driver/$f/ts-4.0/size-of-test-set.csv; done; done

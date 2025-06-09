@@ -1,0 +1,8 @@
+u-VSCR
+u-Ccsr
+u-CRCR
+u-CRCR
+u-SMTC
+u-SMTT
+u-VDTR
+u-VDTR

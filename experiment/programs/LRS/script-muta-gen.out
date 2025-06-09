@@ -1,0 +1,3 @@
+opmuta  -unit minn -unit sort -unit substr -unit lcp -unit LRS -u- 1.0 0 __LRS __LRS  | muta -add  S_LRS 
+
+1132 Mutants Generated

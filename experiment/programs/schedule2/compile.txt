@@ -1,0 +1,1 @@
+gcc schedule2.c driver.c -o schedule2 -w -lm

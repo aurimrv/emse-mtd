@@ -1,0 +1,7 @@
+u-OEAA,1
+u-OEBA,2
+u-ORAN,1
+u-ORBN,1
+u-ORRN,2
+u-VDTR,5
+u-VTWD,2

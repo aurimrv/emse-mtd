@@ -1,0 +1,16 @@
+
+li -P __checkIt checkIt __checkIt 
+
+
++------------------------------------------------------
+|FUNCTION                       LOC'S   CONNECTIONS
++------------------------------------------------------
+|checkIt                        9       1
++------------------------------------------------------
+|main                           3       2
++------------------------------------------------------
+|TOTAL (2     FUNCTIONS)        12      3
++------------------------------------------------------
+pteste -create -S checkIt -E checkIt -C "gcc checkIt.c driver.c -o checkIt -w -lm" -research S_checkIt
+tcase -create S_checkIt
+muta -create S_checkIt

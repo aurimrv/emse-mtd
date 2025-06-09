@@ -1,0 +1,3 @@
+opmuta  -unit FnNegate -unit FnMinus -unit DifferentSigns -unit abs -unit FnTimes -unit DefineAndRoundFraction -unit FnDivide -u- 1.0 0 __Calculation __Calculation  | muta -add  S_Calculation 
+
+1118 Mutants Generated

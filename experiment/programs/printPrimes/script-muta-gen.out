@@ -1,0 +1,3 @@
+opmuta  -unit isDivisible -unit printPrimes -u- 1.0 0 __printPrimes __printPrimes  | muta -add  S_printPrimes 
+
+715 Mutants Generated

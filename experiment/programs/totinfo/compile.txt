@@ -1,0 +1,1 @@
+gcc totinfo.c driver.c -o totinfo -w -lm

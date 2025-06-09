@@ -1,0 +1,18 @@
+
+li -P __trashAndTakeOut trashAndTakeOut __trashAndTakeOut 
+
+
++------------------------------------------------------
+|FUNCTION                       LOC'S   CONNECTIONS
++------------------------------------------------------
+|trash                          11      2
++------------------------------------------------------
+|takeOut                        8       0
++------------------------------------------------------
+|main                           12      3
++------------------------------------------------------
+|TOTAL (3     FUNCTIONS)        31      5
++------------------------------------------------------
+pteste -create -S trashAndTakeOut -E trashAndTakeOut -C "gcc trashAndTakeOut.c driver.c -o trashAndTakeOut -w -lm" -research S_trashAndTakeOut
+tcase -create S_trashAndTakeOut
+muta -create S_trashAndTakeOut
