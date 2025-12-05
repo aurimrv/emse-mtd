@@ -1,153 +1,51 @@
 # Repository for EMSE submission
 
-This repository contains a set of C programs, scrits and collected raw data illustrating the computation of Mutation Technical Debt.
+This repository contains a set of C programs, scrits and collected raw data illustrating the computation of Mutation Technical Debt (MTD).
 
 Repository high level directory structure is below:
 
 ```
-emse-mtd
-├── experiment
-│  ├── graphs
-│  │  ├── 0-24-mtb-manual-all.csv
-│  │  ├── 0-24-mtb-syntesis.csv
-│  │  └── mtb_plots
-│  ├── programs
-│  │  ├── 0-24-mtd-syntesis.csv
-│  │  ├── 0-24-mtd-syntesis.ods
-│  │  ├── 0-mtd-auto.ods
-│  │  ├── 0-mtd-manual.ods
-│  │  ├── 0-syntese-score-evolution-per-test-increment.csv
-│  │  ├── 10-mtd-manual.ods
-│  │  ├── 10-syntese-score-evolution-per-test-increment.csv
-│  │  ├── 11-syntese-score-evolution-per-test-increment.csv
-│  │  ├── 12-syntese-score-evolution-per-test-increment.csv
-│  │  ├── 13-syntese-score-evolution-per-test-increment.csv
-│  │  ├── 14-syntese-score-evolution-per-test-increment.csv
-│  │  ├── 15-syntese-score-evolution-per-test-increment.csv
-│  │  ├── 16-syntese-score-evolution-per-test-increment.csv
-│  │  ├── 17-syntese-score-evolution-per-test-increment.csv
-│  │  ├── 18-syntese-score-evolution-per-test-increment.csv
-│  │  ├── 19-syntese-score-evolution-per-test-increment.csv
-│  │  ├── 1-mtd-auto.ods
-│  │  ├── 1-mtd-manual.ods
-│  │  ├── 1-syntese-score-evolution-per-test-increment.csv
-│  │  ├── 20-syntese-score-evolution-per-test-increment.csv
-│  │  ├── 21-syntese-score-evolution-per-test-increment.csv
-│  │  ├── 22-syntese-score-evolution-per-test-increment.csv
-│  │  ├── 23-syntese-score-evolution-per-test-increment.csv
-│  │  ├── 24-mtd-manual.ods
-│  │  ├── 24-syntese-score-evolution-per-test-increment.csv
-│  │  ├── 2-mtd-auto.ods
-│  │  ├── 2-mtd-manual.ods
-│  │  ├── 2-syntese-score-evolution-per-test-increment.csv
-│  │  ├── 3-mtd-auto.ods
-│  │  ├── 3-mtd-manual.ods
-│  │  ├── 3-syntese-score-evolution-per-test-increment.csv
-│  │  ├── 4-mtd-manual.ods
-│  │  ├── 4-syntese-score-evolution-per-test-increment.csv
-│  │  ├── 5-mtd-manual.ods
-│  │  ├── 5-syntese-score-evolution-per-test-increment.csv
-│  │  ├── 6-mtd-manual.ods
-│  │  ├── 6-syntese-score-evolution-per-test-increment.csv
-│  │  ├── 7-mtd-manual.ods
-│  │  ├── 7-syntese-score-evolution-per-test-increment.csv
-│  │  ├── 8-mtd-manual.ods
-│  │  ├── 8-syntese-score-evolution-per-test-increment.csv
-│  │  ├── 9-mtd-manual.ods
-│  │  ├── 9-syntese-score-evolution-per-test-increment.csv
-│  │  ├── boundedQueue
-│  │  ├── cal
-│  │  ├── Calculation
-│  │  ├── checkIt
-│  │  ├── CheckPalindrome
-│  │  ├── consolidated-mutants-per-operator.csv
-│  │  ├── consolidated-mutants-per-operator.ods
-│  │  ├── countPositive
-│  │  ├── date-plus
-│  │  ├── DigitReverser
-│  │  ├── dtm-auto-eq-ssdl.ods
-│  │  ├── files1.txt
-│  │  ├── files-full.txt
-│  │  ├── files.txt
-│  │  ├── findLast
-│  │  ├── findVal
-│  │  ├── Gaussian
-│  │  ├── Heap
-│  │  ├── InversePermutation
-│  │  ├── jday-jdate
-│  │  ├── lastZero
-│  │  ├── LRS
-│  │  ├── MergeSort
-│  │  ├── numZero
-│  │  ├── oddOrPos
-│  │  ├── pcal
-│  │  ├── power
-│  │  ├── printPrimes
-│  │  ├── print_tokens
-│  │  ├── print_tokens2
-│  │  ├── program-metrics.csv
-│  │  ├── program-metrics.ods
-│  │  ├── Queue
-│  │  ├── quicksort
-│  │  ├── RecursiveSelectionSort
-│  │  ├── replace
-│  │  ├── schedule
-│  │  ├── schedule2
-│  │  ├── space
-│  │  ├── Stack
-│  │  ├── stats
-│  │  ├── sum
-│  │  ├── tcas
-│  │  ├── testPad
-│  │  ├── totinfo
-│  │  ├── trashAndTakeOut
-│  │  ├── twoPred
-│  │  └── UnixCal
-│  └── scripts
-│      ├── check-equiv.sh
-│      ├── consolidate_mutants.py
-│      ├── import-new-tc.sh
-│      ├── mtb-graphs-ssdl.py
-│      ├── mtd-graphs-all.py
-│      ├── program-metrics.sh
-│      ├── PROTEUM.md
-│      ├── quantity-mutant-per-opeator.sh
-│      ├── README.md
-│      ├── relatorios.txt
-│      ├── report-best-score-sequence.py
-│      ├── report-gpt-generation-time.py
-│      ├── report-gpt-sequence-score-avg.py
-│      ├── requirements.txt
-│      ├── run-equiv.sh
-│      ├── run-one-op-qty.sh
-│      ├── run-one-op.sh
-│      ├── run-research.sh
-│      ├── shuffle.py
-│      ├── syntesis-average-all-incremental.py
-│      ├── syntesis-average-score-one-op.py
-│      ├── syntesis-number-mutants-per-operator.sh
-│      ├── syntesis-score-one-op.sh
-│      ├── time-diff.py
-│      └── unit-operators-list.txt
+emse-mtd/
+├── experiments			
+│   ├── data            # Collected experimental data and results
+│   ├── graphs          # Generated visualizations and plots
+│   ├── programs        # Subject programs used in the experiment
+│   ├── reports         # Generated mutation testing reports
+│   └── scripts         # Automation scripts for data collection
 ├── historical-data
-│  ├── c
-│  │  ├── proteum-operators-report.csv
-│  │  └── proteum-operators-report.ods
-│  └── python
-│      ├── cosmicray-operators-report.csv
-│      ├── cosmicray-operators-report.ods
-│      ├── mutpy-operators-report.csv
-│      └── mutpy-operators-report.ods
-├── images
-│  ├── sonarqube-01.png
-│  ├── sonarqube-02.png
-│  ├── sonarqube-03.png
-│  └── sonarqube-04.png
-└── README.md
+│   ├── c               # Previous data from C programs
+│   └── python          # Previous data from Python programs
+├── images              # Screenshots used in the paper
+├── tool                # ProteumIM version used to collect data
+└── README.md           # This file
 ```
 
-Folder experiments contains the set of C programs, scripts, graphs, and a set of csv and ods files with incremental evolution of MTD both manual and auto.
+Below we provide additional information about each directory/subdirectory content
 
-Folder historical-data contains csv and ods files with mutation operators data from previous experiments.
+
+## `experiments` 
+
+Contains all data related to the experimental study:
+
+	- `data/`: Contains all collected experimental data, including mutation scores, test case metrics, and CSV files with raw results
+	- `graphs/`: Stores generated charts and visualizations of the experimental results
+	- `programs/`: Houses the subject programs under test, along with their test session files, test cases, equivalent mutant information, and general ProteumIM reports for mutation analysis at different stages (initial, final, SSDL)
+	- `reports/`: Contains syntesis of ProteumIM reports to perform calculation of all subject programs
+	- `scripts/`: Includes shell scripts for automating the experimental workflow and data collection process. Script folder has also a (README.md)[experiments/scripts/README.md] file, detailing the order to run each script for data collection. It also contains a (PROTEUM.md)[experiments/scripts/PROTEUM.md] file with basic ProteumIM command to generate data for a single program.
+
+## `historical-data`
+
+This folder contains previous collected data for C and Python programs which allos us to get some insignts about the percentage of equivalent mutants generated by each mutation operator.
+
+## `images`
 
 Folder images contains some images used in the paper.
+
+## `tool`
+
+Folder containing the binary version of ProteumIM mutation testing tool used in the experiment.
+Moreover, the folder also contains a (VERSIONS.md)[tool/VERSIONS.md] file with data about hardware resource, compilers and operation system version used in the experiment.
+
+# Contact
+
+If you have any additional question or any problem on using this repository send a message to (auri@fe.up.pt)[mailto:auri@fe.up.pt].

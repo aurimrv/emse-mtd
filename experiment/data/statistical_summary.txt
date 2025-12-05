@@ -1,0 +1,10 @@
+MTD Statistical Analysis Summary
+========================================
+
+Total programs analyzed: 39
+Total SSDL mutants: 2062
+Total equivalent SSDL mutants: 146 (7.08%)
+
+MTD Reduction (Friedman test): Chi-squared=113.9524, p<0.001
+Correlation Score vs MTD: rho=-0.5970, p<0.001
+Cohen's d (MTD reduction): 0.7999 (large effect)
