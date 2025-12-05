@@ -1,11 +1,11 @@
-# LLM Experiment in Test Case Generation
+# Proteum Execution for Data Collection
+
 
 ## Environment Variables
 ```
 EXPER_HOME=<path to programs>
 PROG=<test program directory name>
 ```
-
 
 For example:
 
