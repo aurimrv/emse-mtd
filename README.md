@@ -31,7 +31,7 @@ Contains all data related to the experimental study:
 - `graphs/`: Stores generated charts and visualizations of the experimental results
 - `programs/`: Houses the subject programs under test, along with their test session files, test cases, equivalent mutant information, and general ProteumIM reports for mutation analysis at different stages (initial, final, SSDL)
 - `reports/`: Contains syntesis of ProteumIM reports to perform calculation of all subject programs
-- `scripts/`: Includes shell scripts for automating the experimental workflow and data collection process. Script folder has also a [README.md])experiments/scripts/README.md) file, detailing the order to run each script for data collection. It also contains a [PROTEUM.md](experiments/scripts/PROTEUM.md) file with basic ProteumIM command to generate data for a single program.
+- `scripts/`: Includes shell scripts for automating the experimental workflow and data collection process. Script folder has also a [README.md](experiments/scripts/README.md) file, detailing the order to run each script for data collection. It also contains a [PROTEUM.md](experiments/scripts/PROTEUM.md) file with basic ProteumIM command to generate data for a single program.
 
 ## `historical-data`
 
