@@ -48,4 +48,4 @@ Moreover, the folder also contains a [README.md](tool/README.md) file with data 
 
 # Contact
 
-If you have any additional question or any problem on using this repository send a message to [auri@fe.up.pt](mailto:auri@fe.up.pt).
+If you have any additional question or problem on using this repository send a message to [auri@fe.up.pt](mailto:auri@fe.up.pt).
